@@ -1,0 +1,1285 @@
+Event Description,Year,outage_start_date,power_supplier,location,NERC Region,Demand Loss (MW),Number of Customers Affected,Tags,duration,state,outage_type
+Severe Weather - Thunderstorms,2014,6/30/2014,Exelon Corporation/ComEd,Illinois,RFC,Unknown,"420,000","severe weather, thunderstorm",46.5,Illinois,Severe Weather
+Severe Weather - Thunderstorms,2014,6/30/2014,Northern Indiana Public Service Company,Indiana,RFC,Unknown,"127,000","severe weather, thunderstorm",17.666666666666668,Indiana,Severe Weather
+Severe Weather - Thunderstorms,2014,6/30/2014,We Energies,Wisconsin,MRO,424,"120,000","severe weather, thunderstorm",8.966666666666667,Wisconsin,Severe Weather
+Fuel Supply Emergency - Coal,2014,6/27/2014,We Energies,Wisconsin,MRO,Unknown,Unknown,"fuel supply emergency, coal",,Wisconsin,Fuel Supply Emergency
+Physical Attack - Vandalism,2014,6/24/2014,Tennessee Valley Authority,Tennessee,SERC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Tennessee,Physical Attack
+Physical Attack - Vandalism,2014,6/19/2014,Tennessee Valley Authority,Tennessee,SERC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Tennessee,Physical Attack
+Physical Attack - Vandalism,2014,6/18/2014,Public Utility District No.1 of Snohomish County (SNPD),Washington,WECC,Unknown,Unknown,"vandalism, physical",9.133333333333333,Washington,Physical Attack
+Severe Weather - Thunderstorms,2014,6/18/2014,Detroit Edison Co,Michigan,RFC,Unknown,"138,802","severe weather, thunderstorm",46.0,Michigan,Severe Weather
+Suspected Physical Attack,2014,6/12/2014,"Luminant Energy Company, LLC",Texas,ERCOT,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Texas,Physical Attack
+Physical Attack - Vandalism,2014,6/11/2014,South Mississippi El Pwr Assn,Mississippi,SERC,,,"vandalism, physical",0.5,Mississippi,Physical Attack
+Suspected Physical Attack,2014,6/11/2014,Tucson Electric Power,Arizona,WECC,,,"vandalism, physical",0.016666666666666666,Arizona,Physical Attack
+Severe Weather - Thunderstorms,2014,6/10/2014,American Electric Power,Virginia,RFC,Unknown,"66,383","severe weather, thunderstorm",16.666666666666668,Virginia,Severe Weather
+Severe Weather - Thunderstorms,2014,6/7/2014,Southern Company,Alabama,SERC,217,"65,000","severe weather, thunderstorm",6.5,Alabama,Severe Weather
+Fuel Supply Emergency - Coal,2014,6/6/2014,"Luminant Energy Company, LLC",Texas,ERCOT,Unknown,Unknown,"fuel supply emergency, coal",,Texas,Fuel Supply Emergency
+Severe Weather - Thunderstorms,2014,6/5/2014,Memphis Light Gas and Water Division,Tennessee,SERC,494,"38,500","severe weather, thunderstorm",68.75,Tennessee,Severe Weather
+Severe Weather - Thunderstorms,2014,6/5/2014,Tennessee Valley Authority,Tennessee,SERC,Unknown,"56,475","severe weather, thunderstorm",0.016666666666666666,Tennessee,Severe Weather
+Physical Attack - Vandalism,2014,6/3/2014,Lower Colorado River Authority,Texas,ERCOT,Unknown,Unknown,"vandalism, physical",0.08333333333333333,Texas,Physical Attack
+Physical Attack - Vandalism,2014,5/27/2014,Arizona Public Service Co,Arizona,WECC,,,"vandalism, physical",5.883333333333334,Arizona,Physical Attack
+Physical Attack - Vandalism,2014,5/20/2014,PacifiCorp,Utah,WECC,,,"vandalism, physical",0.016666666666666666,Utah,Physical Attack
+Public Appeal to Reduce Electricity Usage - Wild Fires,2014,5/16/2014,San Diego Gas & Electric Co,California,WECC,"3,900","1,400,000","wild fire, public appeal",10.283333333333333,California,Fuel Supply Emergency
+Public Appeal to Reduce Electricity Usage - Wild Fires,2014,5/15/2014,San Diego Gas & Electric Co,California,WECC,"3,300","1,400,000","wild fire, public appeal",,California,Fuel Supply Emergency
+Suspected Physical Attack,2014,5/15/2014,"Whiting Clean Energy, Inc.",Indiana,RFC,,,"vandalism, physical",0.05,Indiana,Physical Attack
+Public Appeal to Reduce Electricity Usage - Wild Fires,2014,5/14/2014,San Diego Gas & Electric Company,California,WECC,,426,"wild fire, public appeal",,California,Fuel Supply Emergency
+Physical Attack - Vandalism,2014,5/12/2014,PacifiCorp,Utah,WECC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Utah,Physical Attack
+Physical Attack - Vandalism,2014,5/11/2014,Great River Energy,Minnesota,MRO,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Minnesota,Physical Attack
+Severe Weather - Heavy Winds,2014,5/9/2014,Vectren Energy Delivery of Indiana,Indiana,RFC,Unknown,"56,000","severe weather, wind",43.0,Indiana,Severe Weather
+Physical Attack,2014,5/8/2014,"CSolar IV South, LLC",California,WECC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,California,Physical Attack
+Physical Attack,2014,5/8/2014,Clarksdale Public Utilities,Mississippi,SERC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Mississippi,Physical Attack
+Severe Weather - Thunderstorms,2014,4/30/2014,Southern Company,Georgia,SERC,296,"89,000","severe weather, thunderstorm",10.166666666666666,Georgia,Severe Weather
+Severe Weather - Thunderstorms,2014,4/29/2014,Tennessee Valley Authority,Alabama,SERC,Unknown,"57,000","severe weather, thunderstorm",47.38333333333333,Alabama,Severe Weather
+Physical Attack - Vandalism,2014,4/27/2014,PacifiCorp,Oregon,WECC,Unknown,Unknown,"vandalism, physical",0.03333333333333333,Oregon,Physical Attack
+Physical Attack - Vandalism,2014,4/25/2014,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,"vandalism, physical",0.5,Delaware,Physical Attack
+Load shedding of 100 Megawatts,2014,4/23/2014,MISO / Entergy Transmission,Louisiana,SERC,163,"28,000",load shedding,0.8666666666666667,Louisiana,Load Shedding
+Severe Weather,2014,4/12/2014,Detroit Edison Company,Michigan,RFC,Unknown,"164,000",severe weather,71.5,Michigan,Severe Weather
+Severe Weather - Thunderstorms,2014,4/12/2014,Consumers Energy,Michigan,RFC,Unknown,"50,000","severe weather, thunderstorm",38.75,Michigan,Severe Weather
+Physical Attack - Vandalism,2014,4/8/2014,"Western Area Power Administration, Sierra Nevada Region",California,WECC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,California,Physical Attack
+Severe Weather - Wind,2014,4/4/2014,"Entergy Services, Inc.",Arkansas,SERC,Unknown,"57,200","severe weather, wind",4.75,Arkansas,Severe Weather
+Fuel Supply Emergency - Coal,2014,4/3/2014,City of Garland / Texas Municipal Power Agency,Texas,TRE,Unknown,Unknown,"fuel supply emergency, coal",,Texas,Fuel Supply Emergency
+Fuel Supply Emergency - Coal,2014,4/3/2014,We Energies,Wisconsin,MRO,Unknown,Unknown,"fuel supply emergency, coal",141.13333333333333,Wisconsin,Fuel Supply Emergency
+Electrical System Separation (Islanding),2014,3/26/2014,Peak Reliability,Montana,WECC,Unknown,Unknown,islanding,0.9333333333333333,Montana,Electrical System Issues
+Physical Attack,2014,3/26/2014,ITC Midwest LLC,Iowa,MRO,,,"vandalism, physical",356.0,Iowa,Physical Attack
+Physical Attack - Vandalism,2014,3/24/2014,PacifiCorp,Utah,WECC,,,"vandalism, physical",0.016666666666666666,Utah,Physical Attack
+Physical Attack - Sabatoge,2014,3/17/2014,Arizona Public Service Co,Arizona,WECC,,,vandalism,19.516666666666666,Arizona,Physical Attack
+Physical Attack - Vandalism,2014,3/14/2014,ITC Holdings,Iowa,MRO,Unknown,Unknown,"vandalism, physical",4.183333333333334,Iowa,Physical Attack
+Suspected Physical Attack,2014,3/11/2014,ITC Midwest LLC,Iowa,MRO,Unknown,Unknown,"vandalism, physical",48.0,Iowa,Physical Attack
+Physical Attack,2014,3/5/2014,PacifiCorp,Utah,WECC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Utah,Physical Attack
+Fuel Supply Emergency - Coal,2014,3/4/2014,Wisconsin Public Service Corp,Wisconsin,MRO,Unknown,Unknown,"fuel supply emergency, coal",312.0,Wisconsin,Fuel Supply Emergency
+Severe Weather - Winter Storm,2014,3/3/2014,Tennessee Valley Authority,Tennessee,SERC,Unknown,"65,904","severe weather, winter storm",8.8,Tennessee,Severe Weather
+Fuel Supply Emergency - Hydro,2014,3/3/2014,Public Utility District #1 of Chelan County (CHPD),Washington,WECC,630,Unknown,"fuel supply emergency, hydro",0.016666666666666666,Washington,Fuel Supply Emergency
+Public Appeal due to Severe Weather - Cold,2014,3/2/2014,ERCOT,Texas,TRE,,,"severe weather, cold",38.0,Texas,Fuel Supply Emergency
+Severe Weather - Thunderstorms/High Winds,2014,2/21/2014,Southern Company,Georgia,SERC,221,"66,445","severe weather, thunderstorm, wind",18.116666666666667,Georgia,Severe Weather
+Severe Weather - Snow/Ice,2014,2/20/2014,Ameren Missouri,Illinois,SERC,Unknown,"66,000","severe weather, winter storm",31.316666666666666,Illinois,Severe Weather
+Physical Attack - Vandalism,2014,2/18/2014,PacifiCorp,Oregon,WECC,,,"vandalism, physical",0.016666666666666666,Oregon,Physical Attack
+Physical Attack - Vandalism,2014,2/14/2014,PacifiCorp,Oregon,WECC,Unknown,Unknown,"vandalism, physical",2.0,Oregon,Physical Attack
+Physical Attack - Vandalism,2014,2/12/2014,ISO New England,Vermont,NPCC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Vermont,Physical Attack
+Severe Weather - Snow/Ice,2014,2/12/2014,Southern Company,Georgia,SERC,"1,246","373,835","severe weather, winter storm",68.7,Georgia,Severe Weather
+Public Appeal to Reduce Electricity Usage,2014,2/7/2014,American Electric Power,Texas,TRE,Unknown,Unknown,public appeal,3.6666666666666665,Texas,Public Appeal
+Public Appeal to Reduce Electricity Usage,2014,2/7/2014,ERCOT,Texas,TRE,Unknown,Unknown,public appeal,16.5,Texas,Public Appeal
+Fuel Supply Emergency - Natural Gas,2014,2/6/2014,California ISO,California,WECC,"4,000",Unknown,"fuel supply emergency, natural gas",9.0,California,Fuel Supply Emergency
+Public Appeal to Reduce Electricity Usage,2014,2/6/2014,American Electric Power,Texas,TRE,Unknown,Unknown,public appeal,6.7,Texas,Public Appeal
+Fuel Supply Emergency - Natural Gas,2014,2/6/2014,Southern California Edison,California,WECC,611,Unknown,"fuel supply emergency, natural gas",5.4,California,Fuel Supply Emergency
+Fuel Supply Emergency - Natural Gas,2014,2/6/2014,Pacific Gas & Electric Co,California,WECC,160,Unknown,"fuel supply emergency, natural gas",6.166666666666667,California,Fuel Supply Emergency
+Public Appeal to Reduce Electricity Usage,2014,2/6/2014,ERCOT,Texas,TRE,Unknown,Unknown,public appeal,19.916666666666668,Texas,Public Appeal
+Severe Weather - Snow/Ice,2014,2/5/2014,FirstEnergy Corp: Met-Ed,Pennsylvania,RFC,Unknown,"144,000","severe weather, winter storm",115.66666666666667,Pennsylvania,Severe Weather
+Severe Weather - Snow/Ice,2014,2/5/2014,FirstEnergy Corp: Potomac Edison,Virginia,RFC,Unknown,"101,580","severe weather, winter storm",102.0,Virginia,Severe Weather
+Severe Weather - Ice,2014,2/5/2014,Baltimore Gas & Electric Company,Maryland,RFC,800,"181,000","severe weather, winter storm",0.016666666666666666,Maryland,Severe Weather
+Severe Weather - Snow/Ice,2014,2/5/2014,Exelon Corporation/PECO,Pennsylvania,RFC,Unknown,"715,000","severe weather, winter storm",0.016666666666666666,Pennsylvania,Severe Weather
+Severe Weather - Snow/Ice,2014,2/5/2014,PPL Electric Utilities Corp,Pennsylvania,RFC,Unknown,"62,159","severe weather, winter storm",44.46666666666667,Pennsylvania,Severe Weather
+Physical Attack - Vandalism,2014,1/30/2014,Tucson Electric Power,Arizona,WECC,Unknown,Unknown,"vandalism, physical",,Arizona,Physical Attack
+Public Appeal due to Severe Weather - Cold,2014,1/27/2014,PJM Interconnection,Maryland,RFC,Unknown,Unknown,"severe weather, cold",30.666666666666668,Maryland,Fuel Supply Emergency
+Physical Attack - Vandalism,2014,1/26/2014,PacifiCorp,Oregon,WECC,,,"vandalism, physical",14.0,Oregon,Physical Attack
+Physical Attack - Vandalism,2014,1/25/2014,Madison Gas and Electric,Wisconsin,MRO,Unknown,Unknown,"vandalism, physical",1.0,Wisconsin,Physical Attack
+Physical Attack - Vandalism,2014,1/24/2014,Madison Gas and Electric,Wisconsin,MRO,Unknown,Unknown,"vandalism, physical",1.5,Wisconsin,Physical Attack
+Fuel Supply Emergency - Coal,2014,1/24/2014,We Energies,Wisconsin,RFC,Unknown,Unknown,"fuel supply emergency, coal",1799.8833333333334,Wisconsin,Fuel Supply Emergency
+Physical Attack - Vandalism,2014,1/23/2014,Tacoma Power (TPWR),Washington,WECC,Unknown,Unknown,"vandalism, physical",19.716666666666665,Washington,Physical Attack
+Public Appeal due to Severe Weather - Cold,2014,1/23/2014,Tennessee Valley Authority,Tennessee,SERC,Unknown,Unknown,"severe weather, cold",20.0,Tennessee,Fuel Supply Emergency
+Public Appeal due to Severe Weather - Cold,2014,1/23/2014,Memphis Light Gas and Water Division,Tennessee,SERC,Unknown,Unknown,"severe weather, cold",32.0,Tennessee,Fuel Supply Emergency
+Public Appeal due to Severe Weather - Cold,2014,1/23/2014,PJM Interconnection,Maryland,RFC,Unknown,Unknown,"severe weather, cold",19.933333333333334,Maryland,Fuel Supply Emergency
+Physical Attack - Vandalism,2014,1/22/2014,Duke Energy Midwest,Ohio,RFC,Unknown,Unknown,"vandalism, physical",10.566666666666666,Ohio,Physical Attack
+Physical Attack - Vandalism,2014,1/22/2014,Madison Gas and Electric,Wisconsin,MRO,Unknown,Unknown,"vandalism, physical",1.0,Wisconsin,Physical Attack
+Physical Attack - Vandalism,2014,1/21/2014,Ameren Missouri,Missouri,SERC,10,Unknown,"vandalism, physical",0.4166666666666667,Missouri,Physical Attack
+Public Appeal to Reduce Electricity Usage,2014,1/18/2014,ERCOT,Texas,TRE,Unknown,Unknown,public appeal,0.75,Texas,Public Appeal
+Suspected Physical Attack,2014,1/17/2014,Dayton Power & Light Co,Ohio,RFC,Unknown,Unknown,"vandalism, physical",0.0,Ohio,Physical Attack
+Physical Attack - Vandalism,2014,1/16/2014,Arizona Public Service Co,Arizona,WECC,,,"vandalism, physical",1.45,Arizona,Physical Attack
+Physical Attack - Vandalism,2014,1/15/2014,PacifiCorp,Utah,WECC,Unknown,Unknown,"vandalism, physical",0.21666666666666667,Utah,Physical Attack
+Physical Attack - Vandalism,2014,1/13/2014,Arizona Public Service Co,Arizona,WECC,,,"vandalism, physical",0.016666666666666666,Arizona,Physical Attack
+Fuel Supply Emergency - Natural Gas,2014,1/7/2014,"Prairie Power, Inc.",Illinois,RFC,,,"fuel supply emergency, natural gas",46.016666666666666,Illinois,Fuel Supply Emergency
+Public Appeal due to Severe Weather - Cold,2014,1/7/2014,Tennessee Valley Authority,Tennessee,SERC,Unknown,Unknown,"severe weather, cold",2.5,Tennessee,Fuel Supply Emergency
+Public Appeal due to Severe Weather - Cold,2014,1/7/2014,Memphis Light Gas and Water Division,Tennessee,SERC,Unknown,Unknown,"severe weather, cold",2.5,Tennessee,Fuel Supply Emergency
+Severe Weather - Cold,2014,1/7/2014,PJM Interconnection,Pennsylvania,RFC,Unknown,Unknown,"severe weather, cold",0.016666666666666666,Pennsylvania,Severe Weather
+Public Appeal due to Severe Weather - Cold,2014,1/6/2014,Louisville Gas & Electric Co,Kentucky,RFC,Unknown,Unknown,"severe weather, cold",0.016666666666666666,Kentucky,Fuel Supply Emergency
+Voltage Reduction due to Severe Weather - Cold,2014,1/6/2014,"UGI Utilities, Inc",Pennsylvania,RFC,200,"62,000","severe weather, cold",0.9833333333333333,Pennsylvania,Electrical System Issues
+Voltage Reduction due to Severe Weather - Cold,2014,1/6/2014,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,"severe weather, cold",0.8833333333333333,Delaware,Electrical System Issues
+Voltage Reduction due to Severe Weather - Cold,2014,1/6/2014,PPL Electric Utilities Corp,Pennsylvania,RFC,Unknown,Unknown,"severe weather, cold",0.9,Pennsylvania,Electrical System Issues
+Vandalism,2014,1/6/2014,PacifiCorp,Utah,RFC,,,vandalism,0.016666666666666666,Utah,Physical Attack
+Public Appeal due to Severe Weather - Cold,2014,1/6/2014,ERCOT,Texas,TRE,,,"severe weather, cold",25.983333333333334,Texas,Fuel Supply Emergency
+Physical Attack,2013,12/30/2013,PacifiCorp,Utah,WECC,,,"vandalism, physical",0.016666666666666666,Utah,Physical Attack
+Physical Attack,2013,12/30/2013,Arizona Public Service Co,Arizona,WECC,,,"vandalism, physical",45.0,Arizona,Physical Attack
+Physical Attack,2013,12/27/2013,Arizona Public Service Co,Arizona,WECC,,,"vandalism, physical",3.0,Arizona,Physical Attack
+Severe Weather - Ice/Snow,2013,12/23/2013,Central Maine Power Co,Maine,NPCC,Unknown,"52,500","severe weather, winter storm",44.2,Maine,Severe Weather
+Severe Weather - Ice/Snow,2013,12/23/2013,Central Maine Power Co,Maine,NPCC,Unknown,"52,500","severe weather, winter storm",44.2,Maine,Severe Weather
+Severe Weather - Ice/Snow,2013,12/22/2013,Consumers Energy Co,Michigan,RFC,Unknown,"50,000","severe weather, winter storm",164.28333333333333,Michigan,Severe Weather
+Severe Weather - Ice/Snow,2013,12/22/2013,Detroit Edison Co,Michigan,RFC,350,"140,735","severe weather, winter storm",70.7,Michigan,Severe Weather
+Fuel Supply Emergencies (Coal),2013,12/13/2013,City of Garland,Texas,TRE,Unknown,Unknown,"fuel supply emergency, coal",336.0,Texas,Fuel Supply Emergency
+Fuel Supply Emergencies (Coal),2013,12/13/2013,Texas Municipal Power Agency,Texas,TRE,Unknown,Unknown,"fuel supply emergency, coal",336.0,Texas,Fuel Supply Emergency
+Suspected Physical Attack,2013,12/10/2013,Arizona Public Service Co,Arizona,WECC,Unknown,Unknown,"vandalism, physical",24.0,Arizona,Physical Attack
+Severe Weather - Ice/Snow,2013,12/9/2013,Dominion Virginia Power,Virginia,SERC,293,"88,000","severe weather, winter storm",7.466666666666667,Virginia,Severe Weather
+Severe Weather - Ice/Snow,2013,12/6/2013,Oncor Electric Delivery Company LLC,Texas,TRE,Unknown,"881,000","severe weather, winter storm",130.15,Texas,Severe Weather
+"Physical Attack - Vandalism, Theft",2013,12/6/2013,PacifiCorp,Utah,WECC,,,"vandalism, physical",0.03333333333333333,Utah,Physical Attack
+Load Shed 100+ MW,2013,12/4/2013,WECC - Loveland,Idaho,WECC,150,Unknown,load shedding,11.283333333333333,Idaho,Load Shedding
+Load Shed 100+ MW,2013,12/4/2013,WECC - Loveland,Utah,WECC,150,Unknown,load shedding,11.283333333333333,Utah,Load Shedding
+Physical Attack - Vandalism,2013,11/24/2013,Pacific Gas & Electric Co,Utah,WECC,,,"vandalism, physical",0.016666666666666666,Utah,Physical Attack
+Severe Weather - Wind Storm,2013,11/21/2013,Pacific Gas & Electric Co,California,WECC,150,"89,500","severe weather, wind",7.583333333333333,California,Severe Weather
+Physical Attack - Vandalism,2013,11/20/2013,Pacific Gas & Electric Co,Utah,WECC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Utah,Physical Attack
+Severe Weather - Thunderstorms,2013,11/17/2013,Commonwealth Edison Co,Illinois,RFC,Unknown,"190,000","severe weather, thunderstorm",7.983333333333333,Illinois,Severe Weather
+Severe Weather - Ice and Snow Storm,2013,11/17/2013,Detroit Edison Co,Michigan,RFC,Unknown,"325,325","severe weather, winter storm",83.9,Michigan,Severe Weather
+Severe Weather - Thunderstorms,2013,11/17/2013,American Electric Power,Michigan,RFC,Unknown,"77,346","severe weather, thunderstorm",25.683333333333334,Michigan,Severe Weather
+Severe Weather - Thunderstorms,2013,11/17/2013,Duke Energy Midwest,Indiana,RFC,Unknown,"61,705","severe weather, thunderstorm",72.0,Indiana,Severe Weather
+Severe Weather - Thunderstorms,2013,11/17/2013,Consumers Energy Co,Michigan,RFC,Unknown,"50,000","severe weather, thunderstorm",96.0,Michigan,Severe Weather
+System-wide voltage reductions of 3 percent or more,2013,11/17/2013,City of Rochelle,Indiana,RFC,38,"7,500",voltage reduction,1.0833333333333333,Indiana,Electrical System Issues
+Severe Weather - Thunderstorms,2013,11/17/2013,Northern Indiana Public Service Company,Indiana,RFC,Unknown,"75,065","severe weather, thunderstorm",72.0,Indiana,Severe Weather
+Severe Weather - Tornadoes,2013,11/17/2013,Duke Energy Indiana Inc,Indiana,RFC,535,"61,705","severe weather, tornado",67.2,Indiana,Severe Weather
+Severe Weather - Tornadoes,2013,11/17/2013,Ameren Missouri,Illinois,SERC,Unknown,"200,000","severe weather, tornado",70.41666666666667,Illinois,Severe Weather
+Physical Attack - Vandalism,2013,11/16/2013,PacifiCorp,Utah,WECC,,,"vandalism, physical",0.016666666666666666,Utah,Physical Attack
+Electrical System Separation (Islanding),2013,11/12/2013,Pacific Gas & Electric Co,California,WECC,55,"48,400",islanding,0.016666666666666666,California,Electrical System Issues
+Physical Attack,2013,11/5/2013,Duke Energy Indiana Inc,Indiana,RFC,Unknown,Unknown,"vandalism, physical",48.0,Indiana,Physical Attack
+Physical Attack - Vandalism,2013,11/2/2013,PacifiCorp,Utah,WECC,,,"vandalism, physical",0.016666666666666666,Utah,Physical Attack
+Severe Weather - Heavy Winds,2013,11/2/2013,Puget Sound Energy,Washington,WECC,Unknown,"105,000","severe weather, wind",42.0,Washington,Severe Weather
+Physical Attack - Vandalism,2013,11/1/2013,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Severe Weather - Hail Storm,2013,10/27/2013,CenterPoint Energy,Texas,TRE,Unknown,"171,117","severe weather, hail",18.0,Texas,Severe Weather
+Suspected Physical Attack,2013,10/26/2013,Arizona Public Service Co,Arizona,WECC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Arizona,Physical Attack
+Physical Attack,2013,10/19/2013,Pacific Gas & Electric Co,California,WECC,Unknown,Unknown,"vandalism, physical",7.466666666666667,California,Physical Attack
+Physical Attack,2013,10/11/2013,MISO - Entergy,Arkansas,SERC,Unknown,Unknown,"vandalism, physical",4.0,Arkansas,Physical Attack
+Physical Attack,2013,10/6/2013,MISO - AECC,Arkansas,SPP,Unknown,"9,200","vandalism, physical",1.8333333333333333,Arkansas,Physical Attack
+Severe Weather - Thunderstorms,2013,9/11/2013,Detroit Edison Co,Michigan,RFC,400,"75,000","severe weather, thunderstorm",96.0,Michigan,Severe Weather
+Load Shed of 100+ MW,2013,9/10/2013,PJM Interconnection,Pennsylvania,RFC,105,Unknown,load shedding,18.333333333333332,Pennsylvania,Load Shedding
+Severe Weather - Thunderstorms,2013,8/30/2013,Exelon Corporation/ComEd,Illinois,RFC,Unknown,"157,000","severe weather, thunderstorm",6.0,Illinois,Severe Weather
+Electrical System Separation (Islanding); Severe Weather,2013,8/29/2013,Xcel Energy,Wisconsin,MRO,15,"7,000","islanding, severe weather",0.5333333333333333,Wisconsin,Electrical System Issues
+Physcial Attack; Vandalism,2013,8/29/2013,Empire District Electric Co,Missouri,SPP,Unknown,Unknown,"vandalism, physical",0.0,Missouri,Physical Attack
+Physcial Attack; Vandalism,2013,8/28/2013,PacifiCorp,Wyoming,WECC,,,"vandalism, physical",0.016666666666666666,Wyoming,Physical Attack
+Physcial Attack; Vandalism,2013,8/26/2013,Tacoma Power (TPWR),Washington,WECC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Washington,Physical Attack
+Physcial Attack; Vandalism,2013,8/23/2013,Delmarva Power & Light Company,Delaware,RFC,Unknown,,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Physcial Attack; Vandalism,2013,8/22/2013,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,"vandalism, physical",1.8333333333333333,Delaware,Physical Attack
+Physcial Attack; Sabotage,2013,8/22/2013,Constellation Energy Control & Dispatch - for Gila River,Arizona,WECC,,,"vandalism, physical",3.15,Arizona,Physical Attack
+Physcial Attack; Sabotage,2013,8/21/2013,Entergy Arkansas Inc,Arkansas,SERC,,,"vandalism, physical",0.016666666666666666,Arkansas,Physical Attack
+Severe Weather - Lightning Strike,2013,8/19/2013,Southern California Edison Co,California,WECC,685,"124,000","severe weather, thunderstorm",10.933333333333334,California,Severe Weather
+Severe Weather - Thunderstorms,2013,8/16/2013,CenterPoint Energy,Texas,TRE,Unknown,"219,681","severe weather, thunderstorm",31.0,Texas,Severe Weather
+Suspicious Activity,2013,8/12/2013,PacifiCorp,Oregon,WECC,Unknown,Unknown,vandalism,0.06666666666666667,Oregon,Other
+Severe Weather - Thunderstorms,2013,8/7/2013,We Energies,Wisconsin,MRO,220,"51,160","severe weather, thunderstorm",9.2,Wisconsin,Severe Weather
+Physcial Attack; Vandalism,2013,8/7/2013,"Caithness Shepherds Flat, LLC",Oregon,WECC,Unknown,Unknown,"vandalism, physical",22.5,Oregon,Physical Attack
+Fuel Supply Emergency (Natural Gas & Fuel Oil),2013,8/7/2013,Wisconsin Public Service Corp,Wisconsin,MRO,Unknown,Unknown,"fuel supply emergency, natural gas",1.7333333333333334,Wisconsin,Fuel Supply Emergency
+Physical Attack; Vandalism,2013,8/4/2013,Pacificorp,Utah,WECC,,,"vandalism, physical",1.0,Utah,Physical Attack
+Loss of 300+ MW Load,2013,8/1/2013,Florida Power & Light Co,Florida,FRCC,297,"104,498",load shedding,13.5,Florida,Load Shedding
+Physical Attack; Vandalism,2013,7/25/2013,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",0.08333333333333333,Washington,Physical Attack
+Severe Weather - Thunderstorms,2013,7/23/2013,American Electric Power,Oklahoma,SPP,500,"92,748","severe weather, thunderstorm",28.866666666666667,Oklahoma,Severe Weather
+Physical Attack; Vandalism,2013,7/22/2013,Terra-Gen Operating Company,California,WECC,Unknown,Unknown,"vandalism, physical",8.0,California,Physical Attack
+Severe Weather - Thunderstorms,2013,7/19/2013,Detroit Edison Co,Michigan,RFC,Unknown,"156,627","severe weather, thunderstorm",15.0,Michigan,Severe Weather
+Equipment Failure,2013,7/18/2013,San Diego Gas & Electric Co,California,WECC,200,"123,000",equipment failure,10.333333333333334,California,Equipment Failures
+Physical Attack; Vandalism,2013,7/18/2013,PacifiCorp,Utah,WECC,,,"vandalism, physical",0.7333333333333333,Utah,Physical Attack
+Physical Attack; Vandalism,2013,7/12/2013,Tacoma Power (TPWR),Washington,WECC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Washington,Physical Attack
+Physical Attack; Vandalism,2013,7/11/2013,Arizona Public Service Co,Arizona,WECC,455,Unknown,"vandalism, physical",64.03333333333333,Arizona,Physical Attack
+Severe Weather - Thunderstorms,2013,7/10/2013,American Electric Power,Ohio,RFC,,"122,314","severe weather, thunderstorm",26.5,Ohio,Severe Weather
+Physical Attack; Copper Theft,2013,7/10/2013,ISO New England,Massachusetts,NPCC,0,0,"vandalism, physical",0.25,Massachusetts,Physical Attack
+Suspected Physical Attack,2013,7/3/2013,Sacramento Municipal Utility District,California,WECC,0,0,"vandalism, physical",1.3,California,Physical Attack
+Equipment Failure,2013,6/28/2013,Southern California Edison Co,California,WECC,240,"65,255",equipment failure,2.7333333333333334,California,Equipment Failures
+Physical Attack; Vandalism,2013,6/28/2013,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Physical Attack; Vandalism,2013,6/28/2013,ISO New England,Vermont,NPCC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Vermont,Physical Attack
+Physical Attack; Vandalism,2013,6/27/2013,Potomac Electric Power Company,Maryland,RFC,Unknown,Unknown,"vandalism, physical",1.5833333333333333,Maryland,Physical Attack
+Severe Weather - Thunderstorms,2013,6/27/2013,Detroit Edison Co,Michigan,RFC,Unknown,"138,000","severe weather, thunderstorm",19.0,Michigan,Severe Weather
+Severe Weather - Thunderstorms,2013,6/24/2013,Exelon Corporation/ComEd,Illinois,RFC,Unknown,"283,451","severe weather, thunderstorm",22.266666666666666,Illinois,Severe Weather
+Severe Weather - Thunderstorms,2013,6/24/2013,Northern Indiana Public Service Company,Indiana,RFC,Unknown,"86,615","severe weather, thunderstorm",45.5,Indiana,Severe Weather
+Severe Weather - Fog,2013,6/23/2013,Pacific Gas & Electric Co,California,WECC,Unknown,"148,000","severe weather, fog",4.25,California,Severe Weather
+Physical Attack; Vandalism,2013,6/22/2013,PacifiCorp,Oregon,WECC,,,"vandalism, physical",16.483333333333334,Oregon,Physical Attack
+Suspected Physical Attack,2013,6/22/2013,NorthWestern Energy LLC - (MT),Montana,WECC,Unknown,Unknown,"vandalism, physical",13.55,Montana,Physical Attack
+Physical Attack; Vandalism,2013,6/21/2013,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Suspected Cyber Attack,2013,6/21/2013,ITC Transmission,Iowa,MRO,Unknown,Unknown,"vandalism, cyber",3149.633333333333,Iowa,Cyber Events
+Physical Attack; Vandalism & Sabotage,2013,6/21/2013,"Valley Electric Assn, Inc",Nevada,WECC,Unknown,"1,100","vandalism, physical",4.566666666666666,Nevada,Physical Attack
+Severe Weather - Hailstorm,2013,6/21/2013,Xcel Energy,Minnesota,MRO,Unknown,"193,000","severe weather, hail",129.0,Minnesota,Severe Weather
+Severe Weather - Hailstorm,2013,6/21/2013,Xcel Energy,Minnesota,MRO,Unknown,"400,000","severe weather, hail",60.35,Minnesota,Severe Weather
+Physcial Attack; Vandalism,2013,6/20/2013,Potomac Electric Power Co,Maryland,RFC,Unknown,Unknown,"vandalism, physical",16.0,Maryland,Physical Attack
+Electrical System Separation (Islanding),2013,6/18/2013,Western Area Power Administration,Wyoming,WECC,6,Unknown,islanding,0.5333333333333333,Wyoming,Electrical System Issues
+Load Shed of 100+ MW Under Emergency Operational Policy,2013,6/17/2013,Tampa Electric Co,Florida,FRCC,180,37,load shedding,2.533333333333333,Florida,Load Shedding
+Severe Weather - Thunderstorms,2013,6/13/2013,American Electric Power,Virginia,"RFC, SERC",Unknown,"90,247","severe weather, thunderstorm",29.833333333333332,Virginia,Severe Weather
+Severe Weather - Thunderstorms,2013,6/13/2013,Dominion Virginia Power,Virginia,SERC,900,"283,000","severe weather, thunderstorm",25.133333333333333,Virginia,Severe Weather
+Loss of 300+ MW Load; Severe Weather - Thunderstorms,2013,6/13/2013,Potomac Electric Power Company,Maryland,RFC,700,"40,000","severe weather, thunderstorm",0.5,Maryland,Severe Weather
+Severe Weather - Thunderstorms,2013,5/31/2013,Ameren Missouri,Missouri,SERC,Unknown,"100,000","severe weather, thunderstorm",24.5,Missouri,Severe Weather
+Transmission System Interruption,2013,5/31/2013,Coffeyville Municipal Light and Power,Oklahoma,MRO,102,"6,300",transmission interruption,19.133333333333333,Oklahoma,Transmission and Distribution Issues
+Severe Weather - Tornados,2013,5/31/2013,Oklahoma Gas & Electric Co,Oklahoma,SPP,Unknown,"127,000","severe weather, tornado",88.5,Oklahoma,Severe Weather
+Severe Weather - Tornados,2013,5/31/2013,Oklahoma Gas & Electric Co,Oklahoma,SPP,Unknown,"127,000","severe weather, tornado",88.5,Oklahoma,Severe Weather
+Severe Weather - Lightning,2013,5/31/2013,"Southwest Power Pool, Inc.",Arkansas,SPP,,,"severe weather, thunderstorm",0.5,Arkansas,Severe Weather
+Vandalism/Theft,2013,5/29/2013,Delmarva Power & Light Company,Delaware,RFC,,,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Physical Attack,2013,5/29/2013,Dominion Virginia Power,Virginia,SERC,Unknown,Unknown,"vandalism, physical",0.03333333333333333,Virginia,Physical Attack
+Vandalism/Theft,2013,5/28/2013,ISO New England,Maine,NPCC,,,"vandalism, physical",5.0,Maine,Physical Attack
+Generator Trip; Load Shed 100+ MW,2013,5/20/2013,Entergy Transmission - SOC,Louisiana,SERC,103,"21,800","load shedding, generator trip",3.783333333333333,Louisiana,Load Shedding
+Severe Weather - Tornados,2013,5/20/2013,Oklahoma Gas & Electric Co,Oklahoma,SPP,Unknown,"41,306","severe weather, tornado",50.0,Oklahoma,Severe Weather
+Vandalism,2013,5/17/2013,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,vandalism,0.016666666666666666,Delaware,Physical Attack
+Vandalism/Theft,2013,5/14/2013,PacifiCorp,Oregon,WECC,,,"vandalism, physical",1.9666666666666666,Oregon,Physical Attack
+Fuel Supply Emergency - Hydro,2013,5/13/2013,California Department of Water Resources,California,WECC,176,Unknown,"fuel supply emergency, hydro",,California,Fuel Supply Emergency
+Electrical System Separation (Islanding),2013,5/9/2013,WECC,Washington,WECC,Unknown,Unknown,islanding,3.0,Washington,Electrical System Issues
+Electrical System Separation (Islanding),2013,5/1/2013,Xcel Energy/Public Service Company of Colorado,Colorado,WECC,123,"35,230",islanding,0.03333333333333333,Colorado,Electrical System Issues
+Vandalism,2013,4/25/2013,City and County of San Francisco,California,WECC,0,0,vandalism,18.916666666666668,California,Physical Attack
+Vandalism,2013,4/23/2013,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,vandalism,0.016666666666666666,Delaware,Physical Attack
+Suspected Physical Attack,2013,4/21/2013,Tennessee Valley Authority,Tennessee,SERC,,,"vandalism, physical",10.316666666666666,Tennessee,Physical Attack
+Severe Weather - Storms and Wind,2013,4/18/2013,Detroit Edison Co,Michigan,RFC,Unknown,"99,188","severe weather, wind",60.5,Michigan,Severe Weather
+Suspected Physical Attack,2013,4/17/2013,Tennessee Valley Authority,Alabama,SERC,Unknown,Unknown,"vandalism, physical",1.2833333333333334,Alabama,Physical Attack
+"Loss of Part of a High Voltage Substation, Physical Attack",2013,4/16/2013,Pacific Gas & Electric Co,California,WECC,,0,vandalism,61.63333333333333,California,Physical Attack
+Vandalism,2013,4/9/2013,Delmarva Power & Light Company,Delaware,RFC,,,vandalism,0.016666666666666666,Delaware,Physical Attack
+Vandalism,2013,4/9/2013,Delmarva Power & Light Company,Delaware,RFC,,,vandalism,0.016666666666666666,Delaware,Physical Attack
+Sabotage; Vandalism,2013,4/3/2013,Colorado Springs Utilities,Colorado,WECC,0,0,vandalism,2.9166666666666665,Colorado,Physical Attack
+Sabotage; Vandalism,2013,4/3/2013,Colorado Springs Utilities,Colorado,WECC,0,0,vandalism,2.9166666666666665,Colorado,Physical Attack
+Vandalism - Copper Wire Theft,2013,4/1/2013,ISO New England,Connecticut,NPCC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Connecticut,Physical Attack
+Suspected Physical Attack,2013,3/29/2013,Baltimore Gas and Electric,Maryland,RFC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Maryland,Physical Attack
+Vandalism,2013,3/28/2013,Delmarva Power & Light Company,Delaware,RFC,Unknown,Unknown,vandalism,0.016666666666666666,Delaware,Physical Attack
+Physical Attack; Vandalism,2013,3/27/2013,ISO New England,Massachusetts,NPCC,Unknown,Unknown,"vandalism, physical",1.9,Massachusetts,Physical Attack
+Vandalism,2013,3/23/2013,ISO New England,Connecticut,NPCC,Unknown,Unknown,vandalism,2.0,Connecticut,Physical Attack
+Suspected Physical Attack,2013,3/18/2013,Jacksonville Electric Authority (JEA),Florida,FRCC,0,0,"vandalism, physical",0.2833333333333333,Florida,Physical Attack
+Severe Weather - Thunderstorms,2013,3/18/2013,Southern Company,Georgia,SERC,800,"240,000","severe weather, thunderstorm",43.0,Georgia,Severe Weather
+Severe Weather - Winter Storm,2013,3/6/2013,Dominion Virginia Power,Virginia,SERC,400,"233,000","severe weather, winter storm",26.083333333333332,Virginia,Severe Weather
+Vandalism,2013,3/3/2013,Potomac Electric Power Company,Maryland,RFC,Unknown,Unknown,vandalism,1.8833333333333333,Maryland,Physical Attack
+Transmission System Interruption,2013,3/3/2013,Pacific Gas & Electric Co,California,WECC,300,"58,850",transmission interruption,3.8333333333333335,California,Transmission and Distribution Issues
+Severe Weather - Winter Storm Nemo,2013,2/26/2013,"Associated Electric Coop, Inc",Missouri,SERC,Unknown,"56,444","severe weather, winter storm",69.0,Missouri,Severe Weather
+Electrical System Separation (Islanding),2013,2/19/2013,Pacific Gas & Electric Co.,California,WECC,"13,850","6,810",islanding,20.9,California,Electrical System Issues
+Vandalism,2013,2/16/2013,Potomac Electric Power Company,Maryland,RFC,1,1,vandalism,0.0,Maryland,Physical Attack
+Vandalism,2013,2/15/2013,Potomac Electric Power Company,Maryland,RFC,,,vandalism,0.016666666666666666,Maryland,Physical Attack
+Fuel Supply Emergency - Petroleum,2013,2/13/2013,Footprint Power Salem Harbor Operations LLC,Massachusetts,NPCC,1,1,"fuel supply emergency, petroleum",48.18333333333333,Massachusetts,Fuel Supply Emergency
+Vandalism,2013,2/13/2013,Potomac Electric Power Company,Maryland,RFC,1,1,vandalism,0.0,Maryland,Physical Attack
+Equipment Trip & Failure,2013,2/8/2013,Potomac Electric Power Company,Maryland,RFC,140,"52,000",equipment failure,2.65,Maryland,Equipment Failures
+Severe Weather - Winter Storm Nemo,2013,2/8/2013,ISO New England/NSTAR,Massachusetts,NPCC,Unknown,"50,000","severe weather, winter storm",79.08333333333333,Massachusetts,Severe Weather
+Vandalism,2013,2/7/2013,Duke Energy Ohio Inc,Ohio,RFC,Unknown,0,vandalism,1.25,Ohio,Physical Attack
+Severe Weather - Wind Storm,2013,1/31/2013,ISO New England,Connecticut,NPCC,75,"75,000","severe weather, wind",3.5,Connecticut,Severe Weather
+Severe Weather - Wind Storm,2013,1/31/2013,Dominion Virginia Power,Virginia,SERC,188,"119,000","severe weather, wind",1.7166666666666666,Virginia,Severe Weather
+Physical Attack,2013,1/28/2013,Tacoma Power (TPWR),Washington,WECC,Unknown,Unknown,"vandalism, physical",1.2333333333333334,Washington,Physical Attack
+Severe Weather - Wind Storm,2013,1/20/2013,Detroit Edison Co,Michigan,RFC,Unknown,"146,500","severe weather, wind",74.75,Michigan,Severe Weather
+Severe Weather - Winter Storm,2013,1/17/2013,American Electric Power (AEP),Virginia,RFC,Unknown,"127,000","severe weather, winter storm",73.38333333333334,Virginia,Severe Weather
+Severe Weather - Winter Storm,2013,1/17/2013,Tennessee Valley Authority,Tennessee,SERC,Unknown,"80,000","severe weather, winter storm",46.96666666666667,Tennessee,Severe Weather
+Physcial Attack; Vandalism,2013,1/16/2013,Delmarva Power & Light Company,Maryland,RFC,Unknown,Unknown,"vandalism, physical",0.0,Maryland,Physical Attack
+Physical Attack,2013,1/16/2013,MidAmerican Energy Co,Iowa,MRO,,,"vandalism, physical",27.28333333333333,Iowa,Physical Attack
+Physcial Attack; Vandalism,2013,1/7/2013,Delmarva Power & Light Company,Maryland,RFC,Unknown,Unknown,"vandalism, physical",0.0,Maryland,Physical Attack
+"Severe Weather - Cold Front, High Winds",2012,12/25/2012,CenterPoint Energy,Texas,TRE,294,"262,000","severe weather, cold, wind",31.0,Texas,Severe Weather
+Severe Weather - Winter Storm,2012,12/25/2012,Entergy,Texas,SPP,Unknown,"242,509","severe weather, winter storm",75.5,Texas,Severe Weather
+Suspected Physical Attack,2012,12/17/2012,Tacoma Power (TPWR),Washington,WECC,0,0,"vandalism, physical",0.08333333333333333,Washington,Physical Attack
+Load Shed,2012,12/6/2012,California Department of Water Resources,California,WECC,390,Unknown,load shedding,0.21666666666666667,California,Load Shedding
+Suspected Physical Attack,2012,12/3/2012,Tacoma Power (TPWR),Washington,WECC,0,0,"vandalism, physical",0.4666666666666667,Washington,Physical Attack
+Severe Weather - Winter Storm,2012,12/2/2012,Pacific Gas & Electric Co,California,WECC,250,"125,000","severe weather, winter storm",51.666666666666664,California,Severe Weather
+Physical Attack; Vandalism,2012,11/26/2012,Delmarva Power & Light Company,Delaware,RFC,,,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Physical Attack; Vandalism,2012,11/26/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Physical Attack; Vandalism,2012,11/21/2012,Delmarva Power & Light Company,Delaware,RFC,,,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Fuel Supply Deficiency,2012,11/17/2012,ERCOT,Texas,TRE,"1,231",0,fuel supply emergency,24.0,Texas,Fuel Supply Emergency
+Suspected Cyber Attack,2012,11/15/2012,ITC Transmission,Michigan,MRO,Unknown,Unknown,"vandalism, cyber",0.2833333333333333,Michigan,Cyber Events
+Physical Attack; Vandalism,2012,11/15/2012,ISO New England,Massachusetts,NPCC,0,0,"vandalism, physical",0.016666666666666666,Massachusetts,Physical Attack
+Physical Attack; Vandalism,2012,11/8/2012,Delmarva Power & Light Company,Maryland,RFC,0,0,"vandalism, physical",0.016666666666666666,Maryland,Physical Attack
+Physical Attack; Vandalism,2012,11/2/2012,ISO New England,Vermont,NPCC,0,0,"vandalism, physical",2.6666666666666665,Vermont,Physical Attack
+Severe Weather - Nor'easter,2012,10/30/2012,Detroit Edison Co,Michigan,RFC,Unknown,"133,777","severe weather, storm",68.0,Michigan,Severe Weather
+Physical Attack; Vandalism,2012,10/30/2012,Black Hills/Colorado Elec.Util,Colorado,WECC,Unknown,Unknown,"vandalism, physical",0.016666666666666666,Colorado,Physical Attack
+Physical Attack; Vandalism,2012,10/30/2012,Potomac Electric Power Company (PEPCO),Maryland,RFC,0,0,"vandalism, physical",0.03333333333333333,Maryland,Physical Attack
+Severe Weather - Hurricane Sandy,2012,10/29/2012,FirstEnergy Corp: Mon Power Company,Virginia,RFC,0,"208,000","severe weather, hurricane/tropical storm",275.98333333333335,Virginia,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,FirstEnergy Corp: CEI,Ohio,RFC,0,"346,000","severe weather, hurricane/tropical storm",175.98333333333332,Ohio,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,FirstEnergy Corp: Met-Ed,Pennsylvania,RFC,0,"270,000","severe weather, hurricane/tropical storm",223.8,Pennsylvania,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,PPL Electric Utilities Corp,Pennsylvania,RFC,Unknown,"400,000","severe weather, hurricane/tropical storm",148.65,Pennsylvania,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,ISO New England/CONVEX,Massachusetts,NPCC,0,"649,075","severe weather, hurricane/tropical storm",148.75,Massachusetts,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,Dominion Virginia Power,Virginia,RFC,520,"156,000","severe weather, hurricane/tropical storm",37.38333333333333,Virginia,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,ISO New England obo NSTAR,Massachusetts,NPCC,Unknown,"50,000","severe weather, hurricane/tropical storm",27.6,Massachusetts,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,Delmarva Power & Light Company,Maryland,RFC,Unknown,"70,000","severe weather, hurricane/tropical storm",105.0,Maryland,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,FirstEnergy Corp: Potomac Edison,Virginia,RFC,Unknown,"150,000","severe weather, hurricane/tropical storm",241.13333333333333,Virginia,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,ISO New England,Maine,NPCC,Unknown,"50,000","severe weather, hurricane/tropical storm",19.783333333333335,Maine,Severe Weather
+Suspected Physical Attack,2012,10/29/2012,Nevada Power Company d/b/a NV Energy,Nevada,WECC,,,"vandalism, physical",0.016666666666666666,Nevada,Physical Attack
+Severe Weather - Hurricane Sandy,2012,10/29/2012,Baltimore Gas & Electric Company,Maryland,RFC,0,"219,000","severe weather, hurricane/tropical storm",41.78333333333333,Maryland,Severe Weather
+Physical Attack; Vandalism,2012,10/29/2012,City of Tacoma (TPWR),Washington,WECC,0,0,"vandalism, physical",0.016666666666666666,Washington,Physical Attack
+Severe Weather - Nor'easter,2012,10/29/2012,American Electric Power,Ohio,"RFC, SERC",Unknown,"173,273","severe weather, storm",82.0,Ohio,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,ISO New England/REMVEC,Massachusetts,NPCC,Unknown,"50,000","severe weather, hurricane/tropical storm",58.75,Massachusetts,Severe Weather
+Severe Weather - Hurricane Sandy,2012,10/29/2012,Exelon Corporation/PECO,Pennsylvania,RFC,Unknown,"850,000","severe weather, hurricane/tropical storm",186.5,Pennsylvania,Severe Weather
+Physical Attack; Vandalism,2012,10/25/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.65,Delaware,Physical Attack
+Physical Attack; Vandalism,2012,10/25/2012,Black Hills/Colorado Elec.Util,Colorado,WECC,0,0,"vandalism, physical",3.35,Colorado,Physical Attack
+Physical Attack; Vandalism,2012,10/25/2012,Potomac Electric Power Company (PEPCO),Maryland,RFC,,,"vandalism, physical",0.016666666666666666,Maryland,Physical Attack
+Physical Attack; Vandalism,2012,10/24/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Physical Attack; Vandalism,2012,10/24/2012,Potomac Electric Power Company (PEPCO),Maryland,RFC,0,0,"vandalism, physical",0.016666666666666666,Maryland,Physical Attack
+Suspected Physical Attack,2012,10/24/2012,Potomac Electric Power Company (PEPCO),Maryland,RFC,0,0,"vandalism, physical",0.016666666666666666,Maryland,Physical Attack
+Transmission System Interruption,2012,10/23/2012,"Crawfordsville Electric, Light & Power",Indiana,RFC,49,"9,800",transmission interruption,0.1,Indiana,Transmission and Distribution Issues
+Physical Attack; Vandalism,2012,10/22/2012,Potomac Electric Power Company (PEPCO),Maryland,RFC,0,0,"vandalism, physical",0.016666666666666666,Maryland,Physical Attack
+Vandalism; Theft,2012,10/15/2012,ISO New England,Vermont,NPCC,0,0,"vandalism, physical",0.016666666666666666,Vermont,Physical Attack
+Electrical System Separation (Islanding),2012,10/14/2012,Pacific Gas & Electric Co,California,WECC,3,"2,035",islanding,0.23333333333333334,California,Electrical System Issues
+Vandalsim,2012,10/11/2012,Potomac Electric Power Company (PEPCO),Maryland,RFC,0,0,vandalism,0.016666666666666666,Maryland,Physical Attack
+Vandalsim,2012,10/9/2012,Potomac Electric Power Company (PEPCO),Maryland,RFC,0,0,vandalism,0.016666666666666666,Maryland,Physical Attack
+Suspected Physical Attack,2012,10/5/2012,Western Area Power Authority - Sierra Nevada Region,California,WECC,,,"vandalism, physical",0.3333333333333333,California,Physical Attack
+Suspected Physical Attack,2012,9/24/2012,PEPCO (Potomac Electric Power Company),Maryland,RFC,0,0,"vandalism, physical",24.0,Maryland,Physical Attack
+Severe Weather - Thunderstorms,2012,9/8/2012,Dominion Virginia Power,Virginia,SERC,475,"119,000","severe weather, thunderstorm",27.883333333333333,Virginia,Severe Weather
+Severe Weather - Thunderstorms,2012,9/7/2012,Entergy Corp,Arkansas,SERC,UNK,"64,951","severe weather, thunderstorm",3.5,Arkansas,Severe Weather
+Fuel Supply Deficiency (Water),2012,9/6/2012,California Department of Water Resources,California,WECC,,,"fuel supply emergency, hydro",,California,Fuel Supply Emergency
+Severe Weather - Hurricane Isaac,2012,8/29/2012,Dixie Electric Membership Corp,Louisiana,SERC,150,"68,018","severe weather, hurricane/tropical storm",31.116666666666667,Louisiana,Severe Weather
+Severe Weather - Hurricane Isaac,2012,8/29/2012,Cleco Power LLC,Louisiana,SPP,Unknown,"95,000","severe weather, hurricane/tropical storm",51.11666666666667,Louisiana,Severe Weather
+Severe Weather - Hurricane Isaac,2012,8/29/2012,Louisiana Generating LLC,Louisiana,SERC,300,"50,000","severe weather, hurricane/tropical storm",51.0,Louisiana,Severe Weather
+Severe Weather - Hurricane Isaac,2012,8/28/2012,Entergy,Mississippi,SERC,Unknown,"770,000","severe weather, hurricane/tropical storm",170.0,Mississippi,Severe Weather
+Severe Weather - TS Isaac,2012,8/26/2012,Florida Power & Light,Florida,FRCC,,"440,000","severe weather, hurricane/tropical storm",4.0,Florida,Severe Weather
+Suspected Physical Attack,2012,8/19/2012,El Paso Electric Co,Texas,WECC,12,"3,314","vandalism, physical",3.433333333333333,Texas,Physical Attack
+Vandalism,2012,8/16/2012,Northern Indiana Public Service Company,Indiana,RFC,0,0,vandalism,0.0,Indiana,Physical Attack
+Vandalism,2012,8/13/2012,Tennessee Valley Authority,Tennessee,SERC,Unknown,Unknown,vandalism,0.0,Tennessee,Physical Attack
+Suspected Physical Attack,2012,8/11/2012,"City of Tacoma, TPWR",Washington,WECC,,,"vandalism, physical",4.25,Washington,Physical Attack
+Severe Weather - Thunderstorms,2012,8/4/2012,Exelon Corporation/ComEd,Illinois,RFC,Unknown,"325,000","severe weather, thunderstorm",18.666666666666668,Illinois,Severe Weather
+Severe Weather - Thunderstorms,2012,8/4/2012,Northern Indiana Public Service Company,Indiana,RFC,,"61,413","severe weather, thunderstorm",3.3333333333333335,Indiana,Severe Weather
+Electrical System Separation (Islanding),2012,8/4/2012,Pacific Gas & Electric Co,California,WECC,5,127,islanding,0.43333333333333335,California,Electrical System Issues
+Public Appeal to Reduce Electricity Usage,2012,8/1/2012,Oklahoma Gas & Electric Co,Arkansas,SPP,Unknown,Unknown,public appeal,0.0,Arkansas,Public Appeal
+Severe Weather - Thunderstorms,2012,7/27/2012,Duke Energy Midwest,Indiana,RFC,Unknown,"52,702","severe weather, thunderstorm",24.0,Indiana,Severe Weather
+Severe Weather - Thunderstorms,2012,7/26/2012,PPL Electric Utilities Corp,Pennsylvania,RFC,,"65,000","severe weather, thunderstorm",53.15,Pennsylvania,Severe Weather
+Severe Weather - Thunderstorms,2012,7/26/2012,FirstEnergy Corp.: Pennsylvania Electric Company,Pennsylvania,RFC,,"65,112","severe weather, thunderstorm",24.0,Pennsylvania,Severe Weather
+Severe Weather - Thunderstorms,2012,7/26/2012,American Electric Power (AEP),Ohio,RFC,Unknown,"57,054","severe weather, thunderstorm",22.866666666666667,Ohio,Severe Weather
+Severe Weather - Thunderstorms,2012,7/24/2012,Exelon Corporation/ComEd,Illinois,RFC,Unknown,"330,000","severe weather, thunderstorm",14.5,Illinois,Severe Weather
+Severe Weather - Thunderstorms,2012,7/24/2012,Northern Indiana Public Service Company,Indiana,RFC,,"82,621","severe weather, thunderstorm",9.483333333333333,Indiana,Severe Weather
+Severe Weather; Equipment Failure,2012,7/21/2012,Lubbock Power and Light,Texas,SPP,220,"70,000","severe weather, equipment failure",3.0166666666666666,Texas,Severe Weather
+Vandalism,2012,7/19/2012,Delmarva Power & Light Company,Delaware,RFC,,,vandalism,0.016666666666666666,Delaware,Physical Attack
+Severe Weather - Thunderstorms,2012,7/18/2012,Duke Energy Midwest,Indiana,RFC,480,"103,000","severe weather, thunderstorm",33.7,Indiana,Severe Weather
+Severe Weather - Thunderstorms,2012,7/18/2012,American Electric Power (AEP),Ohio,RFC,Unknown,"67,000","severe weather, thunderstorm",2.75,Ohio,Severe Weather
+Severe Weather - Thunderstorms,2012,7/18/2012,Exelon Corporation/ComEd,Illinois,RFC,Unknown,"181,000","severe weather, thunderstorm",7.0,Illinois,Severe Weather
+Public Appeal to Reduce Energy Usage,2012,7/16/2012,North Little Rock Electric Department,Arkansas,SPP,,,public appeal,1.0333333333333334,Arkansas,Public Appeal
+Severe Weather - Thunderstorms,2012,7/7/2012,PPL Electric Utilities Corp,Pennsylvania,RFC,,"64,500","severe weather, thunderstorm",64.9,Pennsylvania,Severe Weather
+Fuel Supply Deficiency (Water),2012,7/7/2012,California Department of Water Resources,California,WECC,Unknown,0,"fuel supply emergency, hydro",72.0,California,Fuel Supply Emergency
+Vandalism,2012,7/6/2012,City of Tacoma - TPWR,Washington,WECC,,,vandalism,0.016666666666666666,Washington,Physical Attack
+Severe Weather - Thunderstorms,2012,7/5/2012,Consumers Energy,Michigan,RFC,Unknown,"111,000","severe weather, thunderstorm",32.5,Michigan,Severe Weather
+Severe Weather - Wind & Storms,2012,7/5/2012,Tennessee Valley Authority (TVA),Tennessee,SERC,,"50,001","severe weather, wind, storm",21.0,Tennessee,Severe Weather
+Severe Weather - Thunderstorms,2012,7/1/2012,Exelon Corporation/ComEd,Illinois,RFC,Unknown,"320,000","severe weather, thunderstorm",50.0,Illinois,Severe Weather
+Public Appeal to Reduce Electricity Usage,2012,6/30/2012,Tennessee Valley Authority (TVA),Tennessee,SERC,UNK,UNK,public appeal,45.0,Tennessee,Public Appeal
+Severe Weather - Thunderstorms,2012,6/30/2012,"Southern Maryland Electric Cooperative, Inc.",Maryland,RFC,354,"60,000","severe weather, thunderstorm",33.68333333333334,Maryland,Severe Weather
+Severe Weather - Thunderstorms,2012,6/30/2012,Delmarva Power & Light Company,Maryland,RFC,0,"86,390","severe weather, thunderstorm",72.0,Maryland,Severe Weather
+Severe Weather - Thunderstorms,2012,6/29/2012,Duke Energy Midwest,Ohio,RFC,"2,946","4,645,572","severe weather, thunderstorm",78.73333333333333,Ohio,Severe Weather
+Public Appeal to Reduce Electricity Usage,2012,6/29/2012,Entergy,Arkansas,SERC,45,"7,935",public appeal,5.0,Arkansas,Public Appeal
+Severe Weather - Thunderstorms,2012,6/29/2012,FirstEnergy (Potomac Edison),Virginia,RFC,UNK,"145,000","severe weather, thunderstorm",192.71666666666667,Virginia,Severe Weather
+Severe Weather - Thunderstorms,2012,6/29/2012,Dayton Power & Light,Ohio,RFC,500,"175,000","severe weather, thunderstorm",123.83333333333333,Ohio,Severe Weather
+Severe Weather - Thunderstorms,2012,6/29/2012,American Electric Power (AEP),Virginia,RFC,UNK,"1,355,919","severe weather, thunderstorm",72.0,Virginia,Severe Weather
+Severe Weather - Thunderstorms,2012,6/29/2012,Dominion,Virginia,SERC,"5,000","880,000","severe weather, thunderstorm",113.11666666666667,Virginia,Severe Weather
+Severe Weather - Thunderstorms,2012,6/29/2012,Baltimore Gas & Electric Company (BGE),Maryland,RFC,"1,465","600,000","severe weather, thunderstorm",133.11666666666667,Maryland,Severe Weather
+Physical Attack,2012,6/29/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.0,Delaware,Physical Attack
+Severe Weather - Thunderstorms,2012,6/29/2012,FirstEnergy (Mon Power),Virginia,RFC,700,"265,000","severe weather, thunderstorm",159.6,Virginia,Severe Weather
+Severe Weather - Thunderstorms,2012,6/29/2012,Exelon Corporation/ComEd,Illinois,RFC,UNK,"109,000","severe weather, thunderstorm",2.5,Illinois,Severe Weather
+Severe Weather - Wind & Rain,2012,6/25/2012,Dominion,Virginia,SERC,600,"190,000","severe weather, wind, rain",21.683333333333334,Virginia,Severe Weather
+Load Shed,2012,6/23/2012,ISO New England,Massachusetts,NPCC,51,"29,250",load shedding,0.5166666666666667,Massachusetts,Load Shedding
+Severe Weather - Thunderstorms,2012,6/19/2012,Xcel Energy,Minnesota,MRO,UNK,"68,200","severe weather, thunderstorm",42.5,Minnesota,Severe Weather
+Fuel Supply Deficiency (Water),2012,6/19/2012,California Department of Water Resources,California,WECC,UNK,UNK,"fuel supply emergency, hydro",48.0,California,Fuel Supply Emergency
+Severe Weather - Thunderstorms,2012,6/12/2012,CenterPoint Energy,Texas,TRE,920,"175,000","severe weather, thunderstorm",37.0,Texas,Severe Weather
+Severe Weather - Thunderstorms,2012,6/11/2012,Southern Company,Georgia,SERC,368,"110,591","severe weather, thunderstorm",19.166666666666668,Georgia,Severe Weather
+Load Shed,2012,6/8/2012,Public Service Company of Colorado,Colorado,WECC,120,"30,379",load shedding,0.08333333333333333,Colorado,Load Shedding
+Vandalism,2012,6/6/2012,Potomac Electric Power Company (PEPCO),Washington,RFC,0,0,vandalism,0.0,Washington,Physical Attack
+Vandalism,2012,6/2/2012,Pacific Gas and Electric Company,California,WECC,,,vandalism,4.083333333333333,California,Physical Attack
+Physical Attack,2012,5/31/2012,American Electric Power (AEP),Ohio,RFC,0,0,"vandalism, physical",4.75,Ohio,Physical Attack
+Physical Attack,2012,5/29/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",1.1666666666666667,Washington,Physical Attack
+Severe Weather - Thunderstorms,2012,5/29/2012,Oklahoma Gas & Electric,Oklahoma,SPP,UNK,"112,000","severe weather, thunderstorm",37.416666666666664,Oklahoma,Severe Weather
+Severe Weather - Thunderstorms,2012,5/29/2012,Oklahoma Gas & Electric,Oklahoma,SPP,UNK,"112,000","severe weather, thunderstorm",37.416666666666664,Oklahoma,Severe Weather
+Physical Attack,2012,5/24/2012,ISO New England,Massachusetts,NPCC,UNK,UNK,"vandalism, physical",26.15,Massachusetts,Physical Attack
+Vandalism,2012,5/11/2012,Tacoma Power (TPWR),Washington,WECC,,,vandalism,0.25,Washington,Physical Attack
+Load Shed/Severe Weather  - Lightning Storm,2012,5/7/2012,American Electric Power (AEP),Ohio,RFC,420,1,"load shedding, severe weather, thunderstorm",0.35,Ohio,Severe Weather
+Vandalism,2012,5/7/2012,ISO New England,Vermont,NPCC,0,0,vandalism,1.1666666666666667,Vermont,Physical Attack
+Suspected Physical Attack,2012,4/23/2012,Seattle City Light,Washington,WECC,,,"vandalism, physical",3.65,Washington,Physical Attack
+Suspected Physical Attack,2012,4/23/2012,Northern Indiana Public Service Company (NIPSCO),Indiana,RFC,,,"vandalism, physical",4.6,Indiana,Physical Attack
+Physical Attack,2012,4/21/2012,ISO New England,Massachusetts,NPCC,,,"vandalism, physical",5.116666666666666,Massachusetts,Physical Attack
+Suspected Physical Attack,2012,4/21/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",43.58333333333333,Washington,Physical Attack
+Severe Weather - Thunderstorms,2012,4/20/2012,CenterPoint Energy,Texas,TRE,,"120,377","severe weather, thunderstorm",14.0,Texas,Severe Weather
+Suspected Physical Attack,2012,4/19/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",8.116666666666667,Washington,Physical Attack
+Suspected Physical Attack,2012,4/17/2012,San Diego Gas & Electric Company,California,WECC,0,0,"vandalism, physical",11.616666666666667,California,Physical Attack
+Severe Weather - High Winds,2012,4/16/2012,"Detroit Edison, Subsidiary of DTE Energy",Michigan,RFC,218,"111,393","severe weather, wind",58.233333333333334,Michigan,Severe Weather
+Suspected Physical Attack,2012,4/15/2012,Southern Company,Georgia,SERC,UNK,UNK,"vandalism, physical",1.8,Georgia,Physical Attack
+Suspected Physical Attack,2012,4/12/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",8.366666666666667,Washington,Physical Attack
+Vandalism,2012,4/11/2012,North Attleborough Electric Department,Massachusetts,NPCC,0,0,vandalism,0.0,Massachusetts,Physical Attack
+Physical Attack,2012,4/7/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Physical Attack,2012,4/7/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Physical Attack,2012,4/7/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.016666666666666666,Delaware,Physical Attack
+Suspected Physical Attack,2012,4/4/2012,Western Area Power Authority - Sierra Nevada Region (WASN),California,WECC,,,"vandalism, physical",47.96666666666667,California,Physical Attack
+Physical Attack,2012,4/3/2012,Seattle City Light,Washington,WECC,0,0,"vandalism, physical",4.866666666666666,Washington,Physical Attack
+Vandalism,2012,4/3/2012,ISO New England,Vermont,NPCC,0,0,vandalism,0.25,Vermont,Physical Attack
+Vandalism,2012,4/1/2012,Mid American Energy Company,Iowa,MRO,0,0,vandalism,36.016666666666666,Iowa,Physical Attack
+Suspected Physical Attack,2012,3/30/2012,ISO New England,Vermont,NPCC,,,"vandalism, physical",0.3333333333333333,Vermont,Physical Attack
+Electrical System Separation (Islanding),2012,3/29/2012,Lansing Board of Water & Light,Michigan,RFC,UNK,0,islanding,0.016666666666666666,Michigan,Electrical System Issues
+Suspected Physical Attack,2012,3/28/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",0.0,Washington,Physical Attack
+Suspected Physical Attack,2012,3/26/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",0.0,Washington,Physical Attack
+Suspected Physical Attack,2012,3/23/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.0,Delaware,Physical Attack
+Severe Weather - Thunderstorms,2012,3/20/2012,CenterPoint Energy,Texas,TRE,,"96,000","severe weather, thunderstorm",5.0,Texas,Severe Weather
+Suspected Physical Attack,2012,3/16/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.0,Delaware,Physical Attack
+Suspected Physical Attack,2012,3/4/2012,Entergy Corporation,Texas,SERC,UNK,UNK,"vandalism, physical",21.366666666666667,Texas,Physical Attack
+Suspected Physical Attack,2012,3/4/2012,Potomac Electric Power (Pepco Holdings Inc.),Maryland,RFC,,,"vandalism, physical",5.516666666666667,Maryland,Physical Attack
+Severe Weather - Winter Storm,2012,3/2/2012,Consumers Energy,Michigan,RFC,50,"140,000","severe weather, winter storm",44.5,Michigan,Severe Weather
+Severe Weather - Winter Storm,2012,3/2/2012,"Detroit Edison, Subsidiary of DTE Energy",Michigan,RFC,371,"130,000","severe weather, winter storm",67.5,Michigan,Severe Weather
+Operational Failure/Equipment Malfunction,2012,3/2/2012,"City of Piggott, Arkansas",Arkansas,SERC,,,equipment failure,1.75,Arkansas,Equipment Failures
+Severe Weather - Tornadoes,2012,3/2/2012,Tennessee Valley Authority (TVA),Tennessee,SERC,500,UNK,"severe weather, tornado",71.4,Tennessee,Severe Weather
+Suspected Physical Attack,2012,2/28/2012,Coos Curry Electric Cooperative,Oregon,WECC,UNK,UNK,"vandalism, physical",0.0,Oregon,Physical Attack
+Electrical System Separation (Islanding),2012,2/28/2012,Pacific Gas and Electric,California,WECC,1,1,islanding,3.216666666666667,California,Electrical System Issues
+Suspected Physical Attack,2012,2/24/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",0.4166666666666667,Washington,Physical Attack
+Suspected Physical Attack,2012,2/23/2012,City of College Station,Texas,TRE,0,0,"vandalism, physical",9.283333333333333,Texas,Physical Attack
+Severe Weather - Winter Storm,2012,2/19/2012,American Electric Power,Virginia,SERC,UNK,"90,000","severe weather, winter storm",38.55,Virginia,Severe Weather
+Suspected Cyber Attack,2012,2/17/2012,"Entergy Services, Inc",Arkansas,SERC,UNK,UNK,"vandalism, cyber",8.55,Arkansas,Cyber Events
+Suspected Physical Attack,2012,2/15/2012,Puget Sound Energy,Washington,WECC,0,0,"vandalism, physical",11.95,Washington,Physical Attack
+Suspected Physical Attack,2012,2/14/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",20.666666666666668,Washington,Physical Attack
+Suspected Physical Attack,2012,2/11/2012,Xcel Energy (Public Service Company of Colorado),Colorado,WECC,0,0,"vandalism, physical",1.7166666666666666,Colorado,Physical Attack
+Suspected Physical Attack,2012,2/11/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",0.0,Washington,Physical Attack
+Vandalism,2012,1/29/2012,Tacoma Power (TPWR),Washington,WECC,,,vandalism,0.0,Washington,Physical Attack
+Vandalism,2012,1/27/2012,Tacoma Power (TPWR),Washington,WECC,,,vandalism,0.0,Washington,Physical Attack
+Vandalism,2012,1/24/2012,Tacoma Power (TPWR),Washington,WECC,,,vandalism,0.0,Washington,Physical Attack
+Severe Weather - Winter Storm,2012,1/19/2012,Puget Sound Energy,Washington,WECC,"1,600","426,000","severe weather, winter storm",32.0,Washington,Severe Weather
+Suspected Cyber Attack,2012,1/17/2012,"Pedernales Electric Cooperative, Inc.",Texas,TRE,,0,"vandalism, cyber",6.833333333333333,Texas,Cyber Events
+Vandalism,2012,1/15/2012,Tacoma Power (TPWR),Washington,WECC,,,vandalism,0.0,Washington,Physical Attack
+Physical Attack,2012,1/13/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.0,Delaware,Physical Attack
+Physical Attack,2012,1/12/2012,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.0,Delaware,Physical Attack
+Suspected Physical Attack,2012,1/11/2012,Nevada Power Company (NV Energy),Nevada,WECC,0,0,"vandalism, physical",1.8,Nevada,Physical Attack
+Load Shed,2012,1/10/2012,Luminant Energy Company LLC,Texas,TRE,,,load shedding,0.0,Texas,Load Shedding
+Vandalism,2012,1/9/2012,ISO New England/Convex,Connecticut,NPCC,,,vandalism,1.0,Connecticut,Physical Attack
+Load Shed,2012,1/9/2012,The Dow Chemical Company,Louisiana,SERC,150,1,load shedding,35.483333333333334,Louisiana,Load Shedding
+Sabotage,2012,1/5/2012,American Electric Power,Oklahoma,SPP,0,0,vandalism,1.8333333333333333,Oklahoma,Physical Attack
+Suspected physical attack,2012,1/5/2012,Oklahoma Gas and Electric,Oklahoma,SPP,,,"vandalism, physical",1.95,Oklahoma,Physical Attack
+Suspected physical attack,2012,1/4/2012,Tacoma Power (TPWR),Washington,WECC,,,"vandalism, physical",0.0,Washington,Physical Attack
+Suspected Physical Attack,2011,12/31/2011,City of Tacoma (TPWR),Washington,WECC,,,"vandalism, physical",0.0,Washington,Physical Attack
+Suspected Cyber Attack,2011,12/21/2011,Idaho Power Company,Idaho,WECC,0,0,"vandalism, cyber",0.0,Idaho,Cyber Events
+Suspected Physical Attack,2011,12/20/2011,City of Tacoma (TPWR),Washington,WECC,,,"vandalism, physical",0.016666666666666666,Washington,Physical Attack
+Suspected Physical Attack,2011,12/20/2011,PacifiCorp,Oregon,WECC,12,"2,500","vandalism, physical",1.0,Oregon,Physical Attack
+Suspected Physical Attack,2011,12/19/2011,City of Tacoma (TPWR),Washington,WECC,,,"vandalism, physical",7.2,Washington,Physical Attack
+Suspected Physical Attack,2011,12/13/2011,Dayton Power & Light,Ohio,RFC,,0,"vandalism, physical",24.0,Ohio,Physical Attack
+Suspected Physical Attack,2011,12/8/2011,City of Tacoma (TPWR),Washington,WECC,,,"vandalism, physical",7.75,Washington,Physical Attack
+Severe Weather,2011,12/7/2011,Dominion Virginia Power,Virginia,SERC,240,"60,000",severe weather,3.466666666666667,Virginia,Severe Weather
+Suspected Physical Attack,2011,12/6/2011,ITC Holdings,Michigan,RFC,0,0,"vandalism, physical",17.433333333333334,Michigan,Physical Attack
+Suspected Physical Attack,2011,12/5/2011,City of Tacoma (TPWR),Washington,WECC,,,"vandalism, physical",27.0,Washington,Physical Attack
+Suspected Physical Attack,2011,12/2/2011,Luminant Energy Company LLC,Texas,TRE,,,"vandalism, physical",4.25,Texas,Physical Attack
+Severe Weather,2011,12/1/2011,Southern California Edison (SCE),California,WECC,UNK,"91,690",severe weather,152.25,California,Severe Weather
+Severe Weather,2011,12/1/2011,PacifiCorp,Utah,WECC,UNK,"60,000",severe weather,27.183333333333334,Utah,Severe Weather
+Severe Weather,2011,12/1/2011,Pacific Gas and Electric,California,WECC,300,"100,000",severe weather,33.6,California,Severe Weather
+Vandalism,2011,11/30/2011,City of Tacoma - TPWR,Washington,WECC,0,0,vandalism,1.0,Washington,Physical Attack
+Severe Weather,2011,11/30/2011,Los Angeles Department of Water and Power,California,WECC,UNK,"150,000",severe weather,41.06666666666666,California,Severe Weather
+Suspected Physical Attack,2011,11/22/2011,Northern Indiana Public Service Co,Indiana,RFC,0,0,"vandalism, physical",0.0,Indiana,Physical Attack
+Vandalism,2011,11/4/2011,PacifiCorp,Wyoming,WECC,0,0,vandalism,0.0,Wyoming,Physical Attack
+Severe Weather,2011,10/29/2011,PPL Electric Utilities,Pennsylvania,RFC,UNK,"146,721",severe weather,130.05,Pennsylvania,Severe Weather
+Severe Weather,2011,10/29/2011,Metropolitan Edison Company,Pennsylvania,RFC,UNK,"312,359",severe weather,226.98333333333332,Pennsylvania,Severe Weather
+Severe Weather,2011,10/29/2011,Potomac Edison,Pennsylvania,RFC,UNK,"50,000",severe weather,222.01666666666668,Pennsylvania,Severe Weather
+Severe Weather,2011,10/29/2011,Exelon Corporation/PECO,Pennsylvania,RFC,UNK,"109,335",severe weather,48.0,Pennsylvania,Severe Weather
+Vandalism,2011,10/27/2011,Midwest ISO,Indiana,RFC,,,vandalism,1.6,Indiana,Physical Attack
+Severe Weather,2011,10/26/2011,Public Service Company of Colorado,Colorado,WECC,UNK,"204,000",severe weather,34.0,Colorado,Severe Weather
+Suspected Physical Attack,2011,10/24/2011,PJM Interconnection,Pennsylvania,RFC,0,0,"vandalism, physical",47.38333333333333,Pennsylvania,Physical Attack
+Suspected Physical Attack,2011,10/18/2011,PECO Energy,Pennsylvania,RFC,0,0,"vandalism, physical",1.6666666666666667,Pennsylvania,Physical Attack
+Vandalism,2011,10/17/2011,Duke Energy,Ohio,RFC,7,"2,000",vandalism,0.0,Ohio,Physical Attack
+Vandalism,2011,10/17/2011,Potomac Electric Power Company,Maryland,RFC,0,0,vandalism,7.133333333333334,Maryland,Physical Attack
+Suspected Physical Attack,2011,10/7/2011,City of Tacoma - TPWR,Washington,WECC,,,"vandalism, physical",7.933333333333334,Washington,Physical Attack
+Vandalism,2011,10/6/2011,PacifiCorp,Utah,WECC,0,0,vandalism,0.0,Utah,Physical Attack
+Suspected Physical Attack,2011,9/30/2011,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.0,Delaware,Physical Attack
+Vandalism,2011,9/29/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,21.266666666666666,Washington,Physical Attack
+Severe Weather,2011,9/29/2011,CenterPoint Energy,Texas,TRE,,65000,severe weather,25.0,Texas,Severe Weather
+Suspected Physical Attack,2011,9/28/2011,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.0,Delaware,Physical Attack
+Vandalism,2011,9/28/2011,ISO New England/Convex,Connecticut,NPCC,,,vandalism,3.5,Connecticut,Physical Attack
+Vandalism,2011,9/24/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,23.716666666666665,Washington,Physical Attack
+Vandalism,2011,9/23/2011,The United Illuminating Company,Connecticut,NPCC,0,0,vandalism,0.0,Connecticut,Physical Attack
+Vandalism,2011,9/22/2011,Dayton Power & Light,Ohio,RFC,,0,vandalism,0.016666666666666666,Ohio,Physical Attack
+Suspected Physical Attack,2011,9/21/2011,Delmarva Power & Light Company,Delaware,RFC,0,0,"vandalism, physical",0.0,Delaware,Physical Attack
+Vandalism,2011,9/20/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,4.083333333333333,Washington,Physical Attack
+Vandalism,2011,9/14/2011,PacifiCorp,Utah,WECC,0,0,vandalism,5.0,Utah,Physical Attack
+Vandalism,2011,9/13/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,28.28333333333333,Washington,Physical Attack
+Vandalism,2011,9/8/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,20.116666666666667,Washington,Physical Attack
+Transmission/Distribution Interruption; Load Shed; Generation Inadequacy,2011,9/8/2011,WECC Reliability Coordinator,California,WECC,"7,000","2,000,000","transmission interruption, distribution interruption",48.03333333333333,California,Transmission and Distribution Issues
+Severe Weather,2011,9/5/2011,Southern Company,Georgia,SERC,177,"53,295",severe weather,47.25,Georgia,Severe Weather
+Severe Weather,2011,9/3/2011,"Detroit Edison, Subsidiary of DTE Energy",Michigan,RFC,UNK,"105,000",severe weather,124.0,Michigan,Severe Weather
+Vandalism,2011,9/1/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,7.783333333333333,Washington,Physical Attack
+Suspected Physical Attack,2011,8/31/2011,Duke Energy,Ohio,RFC,0,0,"vandalism, physical",0.0,Ohio,Physical Attack
+Suspected Physical Attack,2011,8/28/2011,PacifiCorp,Oregon,WECC,0,0,"vandalism, physical",2.7333333333333334,Oregon,Physical Attack
+Severe Weather,2011,8/28/2011,ISO New England,Massachusetts,NPCC,,"50,000",severe weather,0.016666666666666666,Massachusetts,Severe Weather
+Severe Weather,2011,8/28/2011,The United illuminating Company,Connecticut,NPCC,,"158,000",severe weather,24.0,Connecticut,Severe Weather
+Severe Weather,2011,8/28/2011,PPL Electric Utilities,Pennsylvania,RFC,110,"284,000",severe weather,48.0,Pennsylvania,Severe Weather
+Severe Weather,2011,8/27/2011,Baltimore Gas and Electric Company,Maryland,RFC,"1,114","760,113",severe weather,195.0,Maryland,Severe Weather
+Severe Weather,2011,8/27/2011,Exelon Corporation / PECO,Pennsylvania,RFC,,"264,000",severe weather,48.0,Pennsylvania,Severe Weather
+Severe Weather,2011,8/27/2011,Pepco,Maryland,RFC,,"220,000",severe weather,40.5,Maryland,Severe Weather
+Severe Weather,2011,8/27/2011,Dominion Virginia Power,Virginia,SERC,UNK,"1,000,000",severe weather,51.45,Virginia,Severe Weather
+Severe Weather,2011,8/27/2011,Delmarva Power & Light Company,Maryland,RFC,,"165,000",severe weather,48.0,Maryland,Severe Weather
+Severe Weather,2011,8/27/2011,Southern Maryland Electric Cooperative (SMECO),Maryland,RFC,UNK,"108,000",severe weather,33.0,Maryland,Severe Weather
+Severe Weather,2011,8/26/2011,FirstEnergy Corp: Metropolitan Edison Company,Pennsylvania,RFC,,"200,717",severe weather,48.0,Pennsylvania,Severe Weather
+Severe Weather,2011,8/25/2011,FirstEnergy Corp: Cleveland Electric Illuminating Company,Ohio,RFC,,"107,833",severe weather,79.5,Ohio,Severe Weather
+Suspected Physical Attack,2011,8/25/2011,Central Maine Power Company,Maine,NPCC,0,0,"vandalism, physical",0.0,Maine,Physical Attack
+Severe Weather,2011,8/24/2011,American Electric Power (AEP),Texas,SPP,,"53,064",severe weather,7.15,Texas,Severe Weather
+Public Appeal to Reduce Electricity Usage,2011,8/24/2011,ERCOT ISO,Texas,TRE,0,0,public appeal,125.66666666666667,Texas,Public Appeal
+Severe Weather,2011,8/24/2011,CenterPoint Energy,Texas,TRE,485,"79,000",severe weather,22.25,Texas,Severe Weather
+Public Appeal to Reduce Electricity Usage,2011,8/23/2011,ERCOT ISO,Texas,TRE,0,0,public appeal,3.283333333333333,Texas,Public Appeal
+Public Appeal to Reduce Electricity Usage,2011,8/23/2011,Southwestern Public Service Company,Texas,SPP,0,0,public appeal,6.4,Texas,Public Appeal
+Earthquake,2011,8/23/2011,Dominion Virginia Power,Virginia,RFC,0,0,earthquake,0.0,Virginia,Other
+Suspected Physical Attack,2011,8/22/2011,City of Tacoma (TPWR),Washington,WECC,,,"vandalism, physical",5.916666666666667,Washington,Physical Attack
+Severe Weather,2011,8/20/2011,"Detroit Edison, Subsidiary of DTE Energy",Michigan,RFC,254,"65,000",severe weather,74.3,Michigan,Severe Weather
+Suspected Physical Attack,2011,8/18/2011,City of Tacoma (TPWR),Washington,WECC,,,"vandalism, physical",6.15,Washington,Physical Attack
+Vandalism,2011,8/15/2011,PacifiCorp,Utah,WECC,0,0,vandalism,1.5833333333333333,Utah,Physical Attack
+Severe Weather,2011,8/13/2011,LG&E and KU Energy LLC,Kentucky,SERC,UNK,"181,700",severe weather,26.316666666666666,Kentucky,Severe Weather
+Vandalism,2011,8/9/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,6.566666666666666,Washington,Physical Attack
+Severe Weather,2011,8/8/2011,Oklahoma Gas & Electric,Oklahoma,SPP,,"54,000",severe weather,43.53333333333333,Oklahoma,Severe Weather
+Vandalism,2011,8/8/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,6.416666666666667,Washington,Physical Attack
+Electrical System Separation (Islanding),2011,8/8/2011,Oklahoma Municipal Power Authority,Oklahoma,SPP,92,"14,500",islanding,16.4,Oklahoma,Electrical System Issues
+Suspected Physical Attack,2011,8/8/2011,Dayton Power & Light,Ohio,RFC,0,0,"vandalism, physical",0.0,Ohio,Physical Attack
+Public Appeal to Reduce Electricity Usage,2011,8/4/2011,American Electric Power (AEP),Texas,SPP,,,public appeal,5.5,Texas,Public Appeal
+Public Appeal to Reduce Electricity Usage,2011,8/3/2011,Grand River Dam Authority,Oklahoma,SPP,300,,public appeal,7.183333333333334,Oklahoma,Public Appeal
+Public Appeal to Reduce Electricity Usage,2011,8/3/2011,Entergy,Arkansas,SPP,0,0,public appeal,4.5,Arkansas,Public Appeal
+Severe Weather,2011,8/2/2011,Exelon Corporation/ComEd,Illinois,RFC,UNK,"71,500",severe weather,21.5,Illinois,Severe Weather
+Public Appeal to Reduce Electricity Usage,2011,8/2/2011,Oklahoma Gas & Electric,Oklahoma,SPP,,,public appeal,23.016666666666666,Oklahoma,Public Appeal
+Public Appeal to Reduce Electricity Usage,2011,8/1/2011,ERCOT ISO,Texas,TRE,0,0,public appeal,100.0,Texas,Public Appeal
+Vandalism,2011,8/1/2011,PacificCorp,Oregon,WECC,,,vandalism,0.0,Oregon,Physical Attack
+Vandalism,2011,7/29/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,5.233333333333333,Washington,Physical Attack
+Vandalism,2011,7/28/2011,City of Tacoma (TPWR),Washington,WECC,,,vandalism,0.0,Washington,Physical Attack
+Vandalism,2011,7/28/2011,Northern Indiana Public Service Company (NIPSCO),Indiana,RFC,,,vandalism,0.0,Indiana,Physical Attack
+Severe Weather,2011,7/28/2011,Exelon Corporation/ComEd,Indiana,RFC,UNK,"201,000",severe weather,23.766666666666666,Indiana,Severe Weather
+Fuel Supply Deficiency (Coal),2011,7/28/2011,Owensboro Municipal Utilities,Kentucky,SERC,,,"fuel supply emergency, coal",24.0,Kentucky,Fuel Supply Emergency
+Vandalism,2011,7/27/2011,Tacoma Power (TPWR),Washington,WECC,,,vandalism,0.016666666666666666,Washington,Physical Attack
+Vandalism,2011,7/26/2011,Western Farmers Electric Cooperative,Oklahoma,SPP,0,0,vandalism,0.0,Oklahoma,Physical Attack
+Severe Weather,2011,7/23/2011,Exelon Corporation/ComEd,Illinois,RFC,UNK,"169,000",severe weather,30.5,Illinois,Severe Weather
+Load Shed,2011,7/22/2011,PJM Interconnection,Ohio,RFC,206,"23,000",load shedding,5.866666666666666,Ohio,Load Shedding
+Public Appeal to Reduce Electricity Usage,2011,7/21/2011,City Water Light and Power,Illinois,SERC,,,public appeal,2.0,Illinois,Public Appeal
+Public Appeal to Reduce Electricity Usage,2011,7/21/2011,Consumers Energy,Michigan,RFC,"8,881",,public appeal,17.966666666666665,Michigan,Public Appeal
+Vandalism,2011,7/20/2011,Tacoma Power (TPWR),Washington,WECC,,,vandalism,7.333333333333333,Washington,Physical Attack
+Vandalism,2011,7/19/2011,Central Maine Power Company,Maine,NPCC,,,vandalism,3.25,Maine,Physical Attack
+Severe Weather,2011,7/18/2011,"Detroit Edison, Subsidiary of DTE Energy",Michigan,RFC,,"197,166",severe weather,140.5,Michigan,Severe Weather
+Public Appeal to Reduce Electricity Usage,2011,7/14/2011,ERCOT ISO,Texas,TRE,0,0,public appeal,8.0,Texas,Public Appeal
+Load Shed,2011,7/13/2011,Public Service Company of Colorado,Colorado,WECC,580,,load shedding,4.733333333333333,Colorado,Load Shedding
+Suspected Physical Attack,2011,7/12/2011,Gen On,California,WECC,UNK,UNK,"vandalism, physical",1.1666666666666667,California,Physical Attack
+Vandalism,2011,7/12/2011,Central Maine Power Company,Maine,NPCC,,0,vandalism,0.0,Maine,Physical Attack
+Severe Weather,2011,7/11/2011,American Electric Power (AEP),Ohio,RFC,UNK,"120,000",severe weather,25.383333333333333,Ohio,Severe Weather
+Vandalism,2011,7/11/2011,Central Maine Power Company,Maine,NPCC,,0,vandalism,0.0,Maine,Physical Attack
+Vandalism,2011,7/11/2011,Duke Energy,Ohio,RFC,0,0,vandalism,0.0,Ohio,Physical Attack
+Severe Weather,2011,7/11/2011,"Detroit Edison, Subsidiary of DTE Energy",Michigan,RFC,254,"103,000",severe weather,1.4166666666666667,Michigan,Severe Weather
+Severe Weather,2011,7/11/2011,Exelon Corporation/ComEd,Illinois,RFC,UNK,"500,000",severe weather,0.0,Illinois,Severe Weather
+Severe Weather,2011,7/11/2011,Consumers Energy,Michigan,RFC,UNK,"85,000",severe weather,21.0,Michigan,Severe Weather
+Vandalism,2011,7/8/2011,Minnesota Power,Minnesota,MRO,0,0,vandalism,0.0,Minnesota,Physical Attack
+Suspected Cyber Attack,2011,7/8/2011,PJM Interconnection,Pennsylvania,RFC,UNK,UNK,"vandalism, cyber",71.0,Pennsylvania,Cyber Events
+Vandalism,2011,7/6/2011,ISO New England,Vermont,NPCC,,,vandalism,0.016666666666666666,Vermont,Physical Attack
+Vandalism,2011,7/5/2011,PacifiCorp,Utah,WECC,0,0,vandalism,0.95,Utah,Physical Attack
+Severe Weather,2011,7/4/2011,Dominion Virginia Power,Virginia,SERC,150,"51,580",severe weather,3.0,Virginia,Severe Weather
+Severe Weather,2011,7/2/2011,"Detroit Edison, Subsidiary of DTE Energy",Michigan,RFC,UNK,"182,000",severe weather,97.75,Michigan,Severe Weather
+Vandalism,2011,7/1/2011,Dayton Power & Light,Ohio,RFC,,0,vandalism,6.0,Ohio,Physical Attack
+Severe Weather,2011,7/1/2011,Xcel Energy Northern States Power Company,Minnesota,MRO,UNK,"70,000",severe weather,51.0,Minnesota,Severe Weather
+Vandalism,2011,7/1/2011,ISO New England,Connecticut,NPCC,0,0,vandalism,0.016666666666666666,Connecticut,Physical Attack
+Major System Interruption/Load Shed,2011,6/30/2011,Salt River Project,Arizona,WECC,"5,299","160,000",load shedding,9.233333333333333,Arizona,Load Shedding
+Vandalism,2011,6/30/2011,Tacoma Power (TPWR),Washington,WECC,0,0,vandalism,0.0,Washington,Physical Attack
+Severe Weather,2011,6/30/2011,Exelon Corporation/ComEd,Illinois,RFC,UNK,"121,000",severe weather,18.5,Illinois,Severe Weather
+Public Appeal to Reduce Electricity Usage,2011,6/29/2011,Southwestern Public Service,Texas,SPP,0,0,public appeal,6.566666666666666,Texas,Public Appeal
+Public Appeal to Reduce Electricity Usage,2011,6/27/2011,ERCOT ISO,Texas,TRE,0,0,public appeal,4.0,Texas,Public Appeal
+Vandalism,2011,6/27/2011,City of Tacoma (TPWR),Washington,WECC,UNK,UNK,vandalism,0.0,Washington,Physical Attack
+Severe Thunderstorms,2011,6/27/2011,AMEREN,Missouri,SERC,UNK,"80,000","severe weather, thunderstorm",37.0,Missouri,Severe Weather
+Severe Thunderstorms,2011,6/26/2011,Southern Company,Georgia,SERC,300,"90,160","severe weather, thunderstorm",19.0,Georgia,Severe Weather
+Public Appeal to Reduce Electricity Usage,2011,6/26/2011,Sunflower Electric Power Corporation,Kansas,SPP,UNK,UNK,public appeal,15.216666666666667,Kansas,Public Appeal
+Severe Thunderstorms,2011,6/24/2011,Southern Company,Georgia,SERC,340,"102,275","severe weather, thunderstorm",7.0,Georgia,Severe Weather
+Vandalism,2011,6/23/2011,ISO New England/Velco,Vermont,NPCC,0,0,vandalism,0.8333333333333334,Vermont,Physical Attack
+Vandalism,2011,6/22/2011,Tacoma Power (TPWR),Washington,WECC,0,0,vandalism,0.0,Washington,Physical Attack
+Severe Weather,2011,6/22/2011,Tennessee Valley Authority (TVA),Tennessee,SERC,UNK,"106,300",severe weather,0.0,Tennessee,Severe Weather
+Severe Thunderstorms,2011,6/22/2011,Southern Company,Georgia,SERC,316,"75,101","severe weather, thunderstorm",6.0,Georgia,Severe Weather
+Severe Thunderstorms,2011,6/21/2011,Exelon Corporation/ComEd,Illinois,RFC,UNK,"300,000","severe weather, thunderstorm",28.25,Illinois,Severe Weather
+Vandalism,2011,6/20/2011,Tacoma Power (TPWR),Washington,WECC,0,0,vandalism,0.0,Washington,Physical Attack
+Public Appeal to Reduce Electricity Usage,2011,6/18/2011,West Memphis Utilities,Arkansas,SPP,UNK,UNK,public appeal,55.233333333333334,Arkansas,Public Appeal
+Severe Thunderstorms,2011,6/18/2011,Southern Company,Georgia,SERC,312,"93,828","severe weather, thunderstorm",24.2,Georgia,Severe Weather
+Vandalism,2011,6/15/2011,PacifiCorp,Idaho,WECC,,,vandalism,14.5,Idaho,Physical Attack
+Severe Thunderstorms,2011,6/15/2011,Southern Company,Georgia,SERC,563,"169,000","severe weather, thunderstorm",10.75,Georgia,Severe Weather
+Severe Thunderstorms,2011,6/12/2011,Dominion Virginia Power,Virginia,RFC,250,"56,000","severe weather, thunderstorm",1.5,Virginia,Severe Weather
+Suspected Physical Attack,2011,6/9/2011,Southern California Edison (SCE),California,WECC,0,0,"vandalism, physical",0.0,California,Physical Attack
+Severe Thunderstorms,2011,6/9/2011,ISO New England/Northeast Utilities,Connecticut,NPCC,0,"100,000","severe weather, thunderstorm",18.15,Connecticut,Severe Weather
+Severe Thunderstorms,2011,6/9/2011,Exelon Corporation/ComEd,Illinois,RFC,UNK,"169,000","severe weather, thunderstorm",7.5,Illinois,Severe Weather
+Vandalism,2011,6/8/2011,Tacoma Power (TPWR),Washington,WECC,,,vandalism,0.0,Washington,Physical Attack
+Severe Weather,2011,6/7/2011,American Electric Power,Ohio,RFC,UNK,"52,747",severe weather,16.0,Ohio,Severe Weather
+Public Appeal to Reduce Electricity Usage,2011,6/6/2011,West Memphis Utilities,Arkansas,SPP,UNK,"13,000",public appeal,48.0,Arkansas,Public Appeal
+Electrical System Separation (Islanding),2011,6/5/2011,Pacific Gas and Electric,California,WECC,10,"5,314",islanding,0.8833333333333333,California,Electrical System Issues
+Severe Thunderstorms,2011,6/5/2011,CenterPoint Energy,Texas,TRE,473,"78,000","severe weather, thunderstorm",20.0,Texas,Severe Weather
+Vandalism,2011,6/4/2011,Pacific Gas and Electric,California,WECC,UNK,420,vandalism,2.1333333333333333,California,Physical Attack
+Severe Weather,2011,5/29/2011,Consumers Energy,Michigan,RFC,250,"113,000",severe weather,51.5,Michigan,Severe Weather
+Severe Weather,2011,5/26/2011,PPL Electric Utilities,Pennsylvania,RFC,150,"120,001",severe weather,22.066666666666666,Pennsylvania,Severe Weather
+Transmission Level Interruption,2011,5/26/2011,Greenwood Utilities Commission,Mississippi,SERC,30,"10,000",transmission interruption,5.0,Mississippi,Transmission and Distribution Issues
+Severe Weather,2011,5/26/2011,Southern Company,Georgia,SERC,729,"218,783",severe weather,34.233333333333334,Georgia,Severe Weather
+Severe Weather,2011,5/25/2011,Duke Energy Midwest,Indiana,RFC,200,"141,000",severe weather,60.766666666666666,Indiana,Severe Weather
+Severe Weather,2011,5/24/2011,Oklahoma Gas & Electric,Oklahoma,SPP,UNK,"54,000",severe weather,48.25,Oklahoma,Severe Weather
+Severe Weather,2011,5/24/2011,Dominion Virginia Power,Virginia,SERC,790,"175,000",severe weather,20.083333333333332,Virginia,Severe Weather
+Physical Attack,2011,5/24/2011,Edison Mission Generation (Fisk Station),Illinois,RFC,0,0,"vandalism, physical",24.166666666666668,Illinois,Physical Attack
+Severe Weather,2011,5/23/2011,Duke Energy Midwest,Indiana,RFC,"1,024","215,387",severe weather,55.233333333333334,Indiana,Severe Weather
+Severe Weather,2011,5/23/2011,Ameren,Missouri,SERC,UNK,"70,000",severe weather,48.0,Missouri,Severe Weather
+Severe Weather,2011,5/22/2011,Empire District Electric,Missouri,SPP,200,"20,000",severe weather,210.86666666666667,Missouri,Severe Weather
+Physical Attack,2011,5/21/2011,"Terra-Gen Dixie Valley, LLC",Nevada,WECC,56,UNK,"vandalism, physical",25.566666666666666,Nevada,Physical Attack
+Vandalism,2011,5/13/2011,PacifiCorp,Utah,WECC,0,0,vandalism,0.0,Utah,Physical Attack
+Vandalism,2011,5/11/2011,Minnesota Power,Minnesota,MRO,0,0,vandalism,22.033333333333335,Minnesota,Physical Attack
+Vandalism,2011,5/11/2011,PacifiCorp,Wyoming,WECC,0,0,vandalism,0.0,Wyoming,Physical Attack
+Severe Weather,2011,5/10/2011,American Electric Power,Virginia,RFC,UNK,"58,000",severe weather,16.066666666666666,Virginia,Severe Weather
+Generation Inadequacy; Load Shed; Electrical System Separation (Islanding),2011,5/10/2011,Midwest Independent System Operator (MISO),Michigan,RFC,585,"78,213","load shedding, islanding",34.75,Michigan,Load Shedding
+Suspected Physical Attack,2011,5/9/2011,"Exelon Generation Company, LLC",Pennsylvania,RFC,630,UNK,"vandalism, physical",2.533333333333333,Pennsylvania,Physical Attack
+Vandalism,2011,5/6/2011,PacifiCorp,Oregon,WECC,0,0,vandalism,3.566666666666667,Oregon,Physical Attack
+Suspected Sabotage,2011,5/4/2011,"ITC Holdings, Inc.",Michigan,RFC,0,0,vandalism,3.3333333333333335,Michigan,Physical Attack
+Suspected Physical Attack,2011,5/4/2011,FirstEnergy Generation,Maryland,RFC,0,0,"vandalism, physical",0.2833333333333333,Maryland,Physical Attack
+Severe Weather,2011,5/2/2011,Hawaiian Electric Company,Hawaii,PR,220,"62,000",severe weather,2.9,Hawaii,Severe Weather
+Suspected Physical Attack,2011,5/2/2011,The United Illuminating Company,Connecticut,NPCC,0,0,"vandalism, physical",0.0,Connecticut,Physical Attack
+Vandalism,2011,5/2/2011,PacifiCorp,Utah,WECC,0,0,vandalism,1.9,Utah,Physical Attack
+Severe Weather,2011,4/28/2011,FirstEnergy Service Company,Ohio,RFC,UNK,"86,000",severe weather,61.5,Ohio,Severe Weather
+Equipment Malfunction,2011,4/28/2011,"Mesquite Power, LLC",Arizona,WECC,960,UNK,equipment failure,0.016666666666666666,Arizona,Equipment Failures
+Severe Weather,2011,4/27/2011,Tennessee Valley Authority,Tennessee,SERC,UNK,"612,000",severe weather,54.483333333333334,Tennessee,Severe Weather
+Severe Weather,2011,4/27/2011,Southern Company,Mississippi,SERC,"1,422","426,640",severe weather,128.05,Mississippi,Severe Weather
+Severe Weather,2011,4/27/2011,American Electric Power,Virginia,SERC,0,"69,000",severe weather,12.0,Virginia,Severe Weather
+Severe Weather,2011,4/26/2011,West Memphis Utilities,Arkansas,SPP,50,"13,000",severe weather,46.766666666666666,Arkansas,Severe Weather
+Vandalism,2011,4/26/2011,PacifiCorp,Utah,WECC,0,0,vandalism,0.9333333333333333,Utah,Physical Attack
+Severe Weather,2011,4/26/2011,Entergy Corporation,Louisiana,SPP,120,UNK,severe weather,28.166666666666668,Louisiana,Severe Weather
+Severe Weather,2011,4/26/2011,Tennessee Valley Authority,Tennessee,SERC,UNK,"55,000",severe weather,48.0,Tennessee,Severe Weather
+Severe Weather,2011,4/25/2011,Entergy Corporation,Mississippi,SPP,UNK,"141,700",severe weather,48.5,Mississippi,Severe Weather
+Equipment Malfunction,2011,4/25/2011,Tennessee Valley Authority,Tennessee,SERC,140,UNK,equipment failure,0.7666666666666667,Tennessee,Equipment Failures
+Severe Weather,2011,4/22/2011,Ameren,Missouri,SERC,0,"55,000",severe weather,2.0,Missouri,Severe Weather
+Suspicious Activity,2011,4/21/2011,ITC Holdings,Michigan,RFC,UNK,UNK,vandalism,192.08333333333334,Michigan,Other
+Vandalism,2011,4/21/2011,PacifiCorp,Utah,WECC,0,0,vandalism,9.583333333333334,Utah,Physical Attack
+Severe Weather - High Winds,2011,4/20/2011,Duke Energy Midwest,Ohio,RFC,UNK,"165,711","severe weather, wind",34.0,Ohio,Severe Weather
+Equipment Malfunction,2011,4/20/2011,City of Ruston & Constellation Energy,Louisiana,SERC,33,"11,000",equipment failure,0.11666666666666667,Louisiana,Equipment Failures
+Severe Weather,2011,4/19/2011,Ameren Illinois,Illinois,SERC,UNK,"80,000",severe weather,2.0,Illinois,Severe Weather
+Severe Weather,2011,4/19/2011,Constellation Energy Control and Dispatch,Arkansas,SERC,22,UNK,severe weather,20.016666666666666,Arkansas,Severe Weather
+Severe Weather,2011,4/19/2011,Tennessee Valley Authority,Tennessee,SERC,300,"105,000",severe weather,42.5,Tennessee,Severe Weather
+Vandalism,2011,4/19/2011,Tacoma Power Water Rail (TPWR),Washington,WECC,0,0,vandalism,2.05,Washington,Physical Attack
+Severe Weather,2011,4/19/2011,Memphis Light Gas and Water Division,Tennessee,SERC,100,"64,000",severe weather,3.2666666666666666,Tennessee,Severe Weather
+Suspicious Activity,2011,4/11/2011,PacifiCorp,Utah,WECC,0,0,vandalism,0.18333333333333332,Utah,Other
+Vandalism,2011,4/6/2011,Delmarva Power & Light Company,Delaware,RFC,0,0,vandalism,0.0,Delaware,Physical Attack
+Severe Weather,2011,4/4/2011,Southern Company,Mississippi,SERC,674,"303,434",severe weather,26.5,Mississippi,Severe Weather
+Severe Weather,2011,4/4/2011,Entergy Corporation,Texas,SERC,UNK,"74,645",severe weather,25.0,Texas,Severe Weather
+Severe Weather,2011,4/4/2011,American Electric Power (AEP),Virginia,RFC,UNK,"52,920",severe weather,17.0,Virginia,Severe Weather
+Severe Weather,2011,4/4/2011,Tennessee Valley Authority,Tennessee,SERC,300,"73,000",severe weather,94.01666666666667,Tennessee,Severe Weather
+Severe Weather,2011,4/4/2011,Tennessee Valley Authority,Tennessee,SERC,359,"63,000",severe weather,96.23333333333333,Tennessee,Severe Weather
+Severe Weather,2011,4/4/2011,Memphis Light Gas and Water Division,Tennessee,SERC,300,"63,000",severe weather,23.0,Tennessee,Severe Weather
+Severe Weather,2011,3/31/2011,Progress Energy Florida (PEF),Florida,FRCC,UNK,"50,000",severe weather,33.483333333333334,Florida,Severe Weather
+Severe Weather,2011,3/31/2011,Tampa Electric Company,Florida,FRCC,206,"87,000",severe weather,9.0,Florida,Severe Weather
+Transmission Level Outage,2011,3/27/2011,Pacific Gas and Electric,California,WECC,295,"165,000",transmission interruption,3.55,California,Transmission and Distribution Issues
+Major Storm,2011,3/23/2011,American Electric Power - AEP,Virginia,RFC,UNK,"60,596","severe weather, storm",10.416666666666666,Virginia,Severe Weather
+Major Storm,2011,3/21/2011,Southern California Edison Company (SCE),California,WECC,150,"54,332","severe weather, storm",2.1666666666666665,California,Severe Weather
+Major Storm,2011,3/20/2011,Los Angeles Department of Water and Power,California,WECC,UNK,"79,000","severe weather, storm",24.266666666666666,California,Severe Weather
+Major Storm,2011,3/19/2011,Pacific Gas and Electric,California,WECC,91,"128,000","severe weather, storm",115.23333333333333,California,Severe Weather
+Vandalism,2011,3/18/2011,Dayton Power & Light,Ohio,RFC,,,vandalism,5.666666666666667,Ohio,Physical Attack
+Suspected Physical Attack,2011,3/15/2011,"Entergy Services, Incorporated",Texas,TRE,,,"vandalism, physical",1.2333333333333334,Texas,Physical Attack
+Suspected Cyber Attack,2011,3/14/2011,Baltimore Gas & Electric,Maryland,RFC,,,"vandalism, cyber",9.416666666666666,Maryland,Cyber Events
+Severe Weather,2011,3/13/2011,PacifiCorp,Oregon,WECC,UNK,"9,000",severe weather,25.433333333333334,Oregon,Severe Weather
+Generation Inadequacy/Load Shed,2011,3/11/2011,Pacific Gas and Electric,California,WECC,15,"6,800",load shedding,2.216666666666667,California,Load Shedding
+Suspected Physical Attack,2011,3/10/2011,ERCOT ISO,Texas,TRE,,,"vandalism, physical",17.95,Texas,Physical Attack
+Vandalism,2011,3/6/2011,PacifiCorp,Utah,WECC,UNK,0,vandalism,53.1,Utah,Physical Attack
+Severe Weather,2011,2/25/2011,Baltimore Gas & Electric,Maryland,RFC,UNK,93000,severe weather,50.61666666666667,Maryland,Severe Weather
+Severe Weather,2011,2/25/2011,Dominion - Virginia Power,Virginia,SERC,UNK,50000,severe weather,2.6666666666666665,Virginia,Severe Weather
+Winter Storm,2011,2/25/2011,Pacific Gas and Electric,California,WECC,91,"80,000","severe weather, winter storm",81.5,California,Severe Weather
+Vandalism,2011,2/25/2011,PacifiCorp,Utah,WECC,0,0,vandalism,0.25,Utah,Physical Attack
+Electrical System Separation (Islanding),2011,2/24/2011,American Electric Power (CSWS-SPP),Arkansas,SPP,4,UNK,islanding,0.05,Arkansas,Electrical System Issues
+Winter Storm,2011,2/20/2011,Consumers Energy,Michigan,RFC,262,"160,000","severe weather, winter storm",72.0,Michigan,Severe Weather
+Vandalism,2011,2/19/2011,Delmarva Power & Light Company,Delaware,RFC,0,0,vandalism,0.0,Delaware,Physical Attack
+Major Storm,2011,2/19/2011,Exelon Corporation/PECO,Pennsylvania,RFC,UNK,118000,"severe weather, storm",15.5,Pennsylvania,Severe Weather
+Suspected Cyber Attack,2011,2/17/2011,City of Roseville (Roseville Electric),California,WECC,0,0,"vandalism, cyber",147.88333333333333,California,Cyber Events
+Major Storm,2011,2/17/2011,Pacific Gas and Electric,California,WECC,91,"80,000","severe weather, storm",56.8,California,Severe Weather
+Vandalism,2011,2/10/2011,Tacoma Power - TPWR,Washington,WECC,0,0,vandalism,0.0,Washington,Physical Attack
+Vandalism,2011,2/9/2011,Tacoma Power - TPWR,Washington,WECC,0,0,vandalism,2.1,Washington,Physical Attack
+Cold Weather Event,2011,2/9/2011,ERCOT ISO,Texas,TRE,,,"severe weather, cold",20.05,Texas,Severe Weather
+Winter Storm,2011,2/9/2011,CenterPoint Energy,Texas,TRE,399,"60,000","severe weather, winter storm",5.45,Texas,Severe Weather
+Suspected Cyber Attack,2011,2/3/2011,Potomac Electric Power Co/PEPCO Holdings Inc.,Maryland,RFC,,0,"vandalism, cyber",0.0,Maryland,Cyber Events
+Generation Inadequacy/Load Shed,2011,2/3/2011,ERCOT ISO,Texas,TRE,400,"86,013",load shedding,14.466666666666667,Texas,Load Shedding
+Fuel Supply Deficiency (Natural Gas),2011,2/3/2011,San Diego Gas and Electric Company,California,WECC,,UNK,"fuel supply emergency, natural gas",21.0,California,Fuel Supply Emergency
+Winter Storm,2011,2/2/2011,Exelon Corporation/PECO,Pennsylvania,RFC,UNK,"213,000","severe weather, winter storm",68.98333333333333,Pennsylvania,Severe Weather
+Generation Inadequacy/Load Shed,2011,2/2/2011,El Paso Electric Company,Texas,WECC,280,"178,000",load shedding,14.983333333333333,Texas,Load Shedding
+Fuel Supply Deficiency (Natural Gas),2011,2/2/2011,Southwestern Public Service,Texas,SPP,UNK,UNK,"fuel supply emergency, natural gas",29.0,Texas,Fuel Supply Emergency
+Generation Inadequacy/Load Shed,2011,2/2/2011,ERCOT ISO,Texas,TRE,"4,000","1,069,730",load shedding,28.28333333333333,Texas,Load Shedding
+Generation Inadequacy/Load Shed,2011,2/2/2011,Salt River Project,Arizona,WECC,"3,963","69,000",load shedding,3.5833333333333335,Arizona,Load Shedding
+Winter Storm,2011,2/1/2011,Exelon Corp/ComEd - Commonwealth Edison,Illinois,RFC,UNK,"190,000","severe weather, winter storm",17.0,Illinois,Severe Weather
+Winter Storm,2011,2/1/2011,American Electric Power - Ohio,Ohio,RFC,UNK,"158,013","severe weather, winter storm",45.0,Ohio,Severe Weather
+Ice Storm,2011,1/31/2011,Duke Energy Midwest,Ohio,RFC,996,"272,880","severe weather, winter storm",62.0,Ohio,Severe Weather
+Ice Storm,2011,1/31/2011,Duke Energy Midwest,Indiana,RFC,996,"272,880","severe weather, winter storm",62.0,Indiana,Severe Weather
+Vandalism,2011,1/27/2011,Delmarva Power & Light Company,Delaware,RFC,0,0,vandalism,0.0,Delaware,Physical Attack
+Winter Storm,2011,1/26/2011,Dominion - Virginia Power,Virginia,SERC,600,"150,084","severe weather, winter storm",22.583333333333332,Virginia,Severe Weather
+Winter Storm,2011,1/26/2011,Baltimore Gas and Electric Company,Maryland,RFC,,"234,326","severe weather, winter storm",70.53333333333333,Maryland,Severe Weather
+Suspected Telecommunications Attack,2011,1/26/2011,NV Energy,Nevada,WECC,0,0,"vandalism, cyber",31.583333333333332,Nevada,Cyber Events
+Vandalism,2011,1/26/2011,ITC Transmission,Michigan,RFC,0,0,vandalism,29.5,Michigan,Physical Attack
+Winter Storm,2011,1/26/2011,Potomac Electric Power Co/ PEPCO Holdings Inc.,Maryland,RFC,,"210,000","severe weather, winter storm",111.0,Maryland,Severe Weather
+Vandalism,2011,1/25/2011,Atlantic City Electric,Delaware,RFC,0,0,vandalism,7.616666666666666,Delaware,Physical Attack
+Suspicious Activity,2011,1/24/2011,El Paso Electric Company,Texas,WECC,0,0,vandalism,0.16666666666666666,Texas,Other
+Vandalism,2011,1/23/2011,PacifiCorp,Idaho,WECC,0,0,vandalism,6.0,Idaho,Physical Attack
+Vandalism,2011,1/18/2011,National Grid,Massachusetts,NPCC,0,0,vandalism,0.0,Massachusetts,Physical Attack
+Firm System Load Shed,2011,1/13/2011,JEA,Florida,FRCC,150,"20,900",load shedding,0.8666666666666667,Florida,Load Shedding
+Winter Storm,2011,1/12/2011,National Grid,Massachusetts,NPCC,,"80,000","severe weather, winter storm",8.0,Massachusetts,Severe Weather
+Severe Weather,2010,12/18/2010,Puget Sound Energy,Washington,WECC,184,"92,090",severe weather,41.0,Washington,Severe Weather
+Transmission Equipment/Firm System Load,2010,12/14/2010,California Department of Water Resources,California,WECC,464,,"transmission interruption, load shedding",25.4,California,Transmission and Distribution Issues
+Electrical System Separation - Islanding,2010,12/14/2010,Pacific Gas and Electric,California,WECC,9,"6,635",islanding,0.08333333333333333,California,Electrical System Issues
+Severe Weather,2010,12/12/2010,Detroit Edison,Michigan,RFC,210,"60,175",severe weather,69.5,Michigan,Severe Weather
+Electrical System Separation - Islanding,2010,12/3/2010,Pacific Gas and Electric,California,WECC,22,"7,077",islanding,4.466666666666667,California,Electrical System Issues
+Winter Storm,2010,11/22/2010,Puget Sound Energy,Washington,WECC,420,"123,535","severe weather, winter storm",45.0,Washington,Severe Weather
+Winter Storm,2010,11/21/2010,Pacific Gas and Electric,California,WECC,75,"60,000","severe weather, winter storm",87.11666666666667,California,Severe Weather
+Winter Storm,2010,11/13/2010,Xcel Energy/Northern States Power Company,Minnesota,MRO,,"60,000","severe weather, winter storm",31.0,Minnesota,Severe Weather
+Snow and High Winds,2010,11/8/2010,ISO New England,Maine,NPCC,,"60,863","severe weather, winter storm, wind",11.216666666666667,Maine,Severe Weather
+Electrical System Separation - Islanding,2010,11/6/2010,Pacific Gas and Electric,California,WECC,20,4,islanding,2.25,California,Electrical System Issues
+Transmission Equipment Failure/Interruptible Load Shed,2010,11/4/2010,PacifiCorp,Wyoming,WECC,,,"transmission interruption, equipment failure, load shedding",1.0166666666666666,Wyoming,Transmission and Distribution Issues
+Firm System Load Loss,2010,10/31/2010,California Department of Water Resources,California,WECC,500,,load shedding,3.316666666666667,California,Load Shedding
+Electrical System Separation-Islanding,2010,10/27/2010,Pacific Gas and Electric,California,WECC,16,"2,674",islanding,0.18333333333333332,California,Electrical System Issues
+High Winds,2010,10/27/2010,Wisconsin Public Service Corporation,Wisconsin,MRO,,"63,000","severe weather, wind",8.0,Wisconsin,Severe Weather
+High Winds,2010,10/27/2010,Commonwealth Edison,Illinois,RFC,,"127,000","severe weather, wind",35.0,Illinois,Severe Weather
+High Winds,2010,10/26/2010,Xcel Energy/Northern States Power Company,Minnesota,MRO,,"70,000","severe weather, wind",50.0,Minnesota,Severe Weather
+Thunderstorms,2010,10/26/2010,Commonwealth Edison,Illinois,RFC,,"192,106","severe weather, thunderstorm",50.0,Illinois,Severe Weather
+Rain and High Winds,2010,10/5/2010,Los Angeles Department of Water and Power,California,WECC,,"73,514","severe weather, wind, rain",,California,Severe Weather
+Thunderstorms,2010,9/22/2010,Allegheny Power,Pennsylvania,RFC,389,"82,861","severe weather, thunderstorm",53.86666666666667,Pennsylvania,Severe Weather
+Firm Load Shed,2010,9/22/2010,California Department of Water Resources,California,WECC,526,,load shedding,16.8,California,Load Shedding
+Thunderstorms,2010,9/22/2010,Duquesne Light Company,Pennsylvania,RFC,156,"52,000","severe weather, thunderstorm",91.86666666666667,Pennsylvania,Severe Weather
+Thunderstorms,2010,9/21/2010,Consumers Energy,Michigan,RFC,,"138,000","severe weather, thunderstorm",16.983333333333334,Michigan,Severe Weather
+Low Flying Helicopter,2010,9/20/2010,Birchwood Power Facility,Virginia,SERC,,,low flying helicopter,0.5,Virginia,Other
+Tropical Storm,2010,9/7/2010,CPS Energy,Texas,TRE,,"340,350","severe weather, hurricane/tropical storm",11.416666666666666,Texas,Severe Weather
+Electrical System Separation (Islanding),2010,9/1/2010,Pacific Gas and Electric,California,WECC,31,"15,000",islanding,2.4,California,Electrical System Issues
+Severe Weather,2010,8/23/2010,CenterPoint Energy,Texas,TRE,746,"81,586",severe weather,15.666666666666666,Texas,Severe Weather
+Severe Weather,2010,8/19/2010,Detroit Edison,Michigan,RFC,340,"80,000",severe weather,93.5,Michigan,Severe Weather
+Made Public Appeals,2010,8/12/2010,Wisconsin Public Service,Wisconsin,MRO,30,"7,600",public appeal,6.466666666666667,Wisconsin,Public Appeal
+Severe Weather,2010,8/12/2010,Potomac Electric Power Co.,Maryland,RFC,,"101,003",severe weather,14.25,Maryland,Severe Weather
+Made Public Appeals,2010,8/12/2010,Nebraska Public Power District,Nebraska,SPP,65,,public appeal,2.65,Nebraska,Public Appeal
+Thunderstorms,2010,8/5/2010,Potomac Electric Power Co,Maryland,RFC,,"76,729","severe weather, thunderstorm",6.5,Maryland,Severe Weather
+Thunderstorms,2010,8/5/2010,Dominion - Virginia Power,Virginia,RFC,,"145,157","severe weather, thunderstorm",68.1,Virginia,Severe Weather
+Severe Weather,2010,8/4/2010,American Electric Power,Kentucky,RFC,,"37,000",severe weather,35.0,Kentucky,Severe Weather
+Thunderstorms,2010,8/4/2010,Allegheny Power,Virginia,RFC,60,"11,186","severe weather, thunderstorm",67.25,Virginia,Severe Weather
+Fuel Supply Deficiency (Hydro),2010,8/2/2010,California Department of Waters Resources,California,WECC,,,"fuel supply emergency, hydro",11.0,California,Fuel Supply Emergency
+Made Public Appeals,2010,8/2/2010,Cleco Power LLC,Louisiana,SERC,,,public appeal,46.25,Louisiana,Public Appeal
+Made Public Appeals,2010,8/2/2010,Entergy,Louisiana,SERC,,,public appeal,46.25,Louisiana,Public Appeal
+Made Public Appeals,2010,8/2/2010,Southwest Louisiana Electric Membership Corporation,Louisiana,SERC,,,public appeal,46.25,Louisiana,Public Appeal
+Made Public Appeals,2010,8/2/2010,Lafayette Utilities Systems,Louisiana,SPP,,,public appeal,46.25,Louisiana,Public Appeal
+Thunderstorms,2010,7/29/2010,Dominion - Virginia Power,Virginia,SERC,,"55,000","severe weather, thunderstorm",2.4,Virginia,Severe Weather
+"Shed Interruptible Load, Wildfire",2010,7/29/2010,Southern California Edison Company,California,WECC,522,,"load shedding, wild fire",0.7833333333333333,California,Wild Fire
+"Shed Interruptible Load, Wildfire",2010,7/29/2010,California Independent System Operator,California,WECC,522,,"load shedding, wild fire",0.7833333333333333,California,Wild Fire
+Severe Weather,2010,7/25/2010,Dominion - Virginia Power,Virginia,SERC,900-1000,"81,000",severe weather,3.9166666666666665,Virginia,Severe Weather
+Severe Weather,2010,7/25/2010,Baltimore Gas and Electric,Maryland,RFC,480,"124,000",severe weather,50.666666666666664,Maryland,Severe Weather
+Made Public Appeals,2010,7/23/2010,Pacificorp,Utah,WECC,6/8/2014,,public appeal,37.916666666666664,Utah,Public Appeal
+Severe Weather,2010,7/23/2010,Detroit Edison,Michigan,RFC,400,"82,000",severe weather,71.0,Michigan,Severe Weather
+Thunderstorms,2010,7/21/2010,ISO New England,Connecticut,NPCC,,"50,100","severe weather, thunderstorm",1.2666666666666666,Connecticut,Severe Weather
+"Strong Winds, Tornadoes",2010,7/17/2010,Xcel Energy,Minnesota,MRO,,"63,000","severe weather, tornado",49.5,Minnesota,Severe Weather
+Severe Weather,2010,7/15/2010,Detroit Edison,Michigan,RFC,540,"127,534",severe weather,100.5,Michigan,Severe Weather
+Loss of Transmission Equipment,2010,7/7/2010,"PJM Interconnection, LLC",Pennsylvania,RFC,,"43,903",equipment failure,6.266666666666667,Pennsylvania,Transmission and Distribution Issues
+Electrical System Separation,2010,6/25/2010,Pacific Gas and Electric,California,WECC,,,islanding,2.033333333333333,California,Electrical System Issues
+Thunderstorms,2010,6/24/2010,PECO,Pennsylvania,RFC,,"355,000","severe weather, thunderstorm",128.48333333333332,Pennsylvania,Severe Weather
+Thunderstorms,2010,6/23/2010,Northern Indiana Public Service Company,Indiana,RFC,,"53,000","severe weather, thunderstorm",8.55,Indiana,Severe Weather
+Made Public Appeal/Transmission Equipment Failure,2010,6/22/2010,Entergy,Arkansas,SERC,84,"25,159","public appeal, equipment failure",3.433333333333333,Arkansas,Public Appeal
+Severe Weather,2010,6/18/2010,American Electric Power,Michigan,RFC,,"79,000",severe weather,62.75,Michigan,Severe Weather
+Thunderstorms,2010,6/18/2010,Consumers Energy,Michigan,RFC,,"100,000","severe weather, thunderstorm",10.0,Michigan,Severe Weather
+Thunderstorms,2010,6/18/2010,Northern Indiana Public Service Company,Indiana,RFC,,"94,345","severe weather, thunderstorm",45.0,Indiana,Severe Weather
+Made Public Appeal,2010,6/17/2010,Entergy,Louisiana,SERC,,,public appeal,7.783333333333333,Louisiana,Public Appeal
+Made Public Appeal,2010,6/17/2010,Cleco Power LLC,Louisiana,SERC,,,public appeal,7.166666666666667,Louisiana,Public Appeal
+Made Public Appeal,2010,6/17/2010,Southwest Louisiana Electric Membership Corporation,Louisiana,SPP,,,public appeal,7.166666666666667,Louisiana,Public Appeal
+Electrical System Separation,2010,6/17/2010,Western Area Power Administration,Montana,MRO,,,islanding,0.21666666666666667,Montana,Electrical System Issues
+Thunderstorms,2010,6/8/2010,Centerpoint Energy,Texas,TRE,,"79,741","severe weather, thunderstorm",6.0,Texas,Severe Weather
+Electric System Separation,2010,6/6/2010,Pacific Gas and Electric,California,WECC,3,"2,650",islanding,0.8333333333333334,California,Electrical System Issues
+Firm Load Shed,2010,6/1/2010,Southern Indiana Gas and Electric Company,Indiana,RFC,500,1,load shedding,398.45,Indiana,Load Shedding
+Made Public Appeal - System Drill,2010,5/26/2010,Allegheny Power,Virginia,"RFC, SERC",,,public appeal,3.25,Virginia,Electrical System Issues
+Breakers Tripped,2010,5/18/2010,California Department of Water Resources,California,WECC,318,,breaker trip,14.516666666666667,California,Electrical System Issues
+Thunderstorms,2010,5/2/2010,Tennesse Valley Authority,Tennessee,SERC,,"50,500","severe weather, thunderstorm",172.83333333333334,Tennessee,Severe Weather
+Thunderstorms,2010,5/2/2010,Tennesse Valley Authority,Mississippi,SERC,,"50,500","severe weather, thunderstorm",172.83333333333334,Mississippi,Severe Weather
+Generator Tripped,2010,4/21/2010,Dow Chemical Co,Louisiana,SERC,,,generator trip,4.916666666666667,Louisiana,Equipment Failures
+Severe Thunderstorms,2010,4/16/2010,Allegheny Power,Pennsylvania,RFC,15,"120,000","severe weather, thunderstorm",47.75,Pennsylvania,Severe Weather
+High Winds and Rain,2010,3/13/2010,ISO New England,Connecticut,NPCC,50,"50,246","severe weather, wind, rain",56.083333333333336,Connecticut,Severe Weather
+High Winds and rain,2010,3/13/2010,Exelon Corporation/PECO,Pennsylvania,RFC,,"177,528","severe weather, wind, rain",89.66666666666667,Pennsylvania,Severe Weather
+Winter Storm,2010,2/25/2010,ISO New England,Maine,NPCC,510,"509,606","severe weather, winter storm",88.78333333333333,Maine,Severe Weather
+Winter Storm,2010,2/14/2010,Allegheny Power,Pennsylvania,RFC,900,"190,000","severe weather, winter storm",2.0,Pennsylvania,Severe Weather
+Winter Storm,2010,2/11/2010,Oncor Electric Delivery Company,Texas,TRE,,"500,000","severe weather, winter storm",105.0,Texas,Severe Weather
+Winter Storm,2010,2/9/2010,Exelon Corporation,Pennsylvania,RFC,,"223,000","severe weather, winter storm",118.0,Pennsylvania,Severe Weather
+Winter Storm,2010,2/5/2010,Duquesne Light Company,Pennsylvania,RFC,,"57,000","severe weather, winter storm",157.5,Pennsylvania,Severe Weather
+Winter Storm,2010,2/5/2010,American Electric Power,Virginia,RFC,,"102,225","severe weather, winter storm",27.133333333333333,Virginia,Severe Weather
+Winter Storm,2010,2/5/2010,American Electric Power,Virginia,RFC,,"102,225","severe weather, winter storm",27.133333333333333,Virginia,Severe Weather
+Ice Storm/Electrical System Separation,2010,2/1/2010,Western Farmers Electric Cooperative,Oklahoma,SPP,30,0,"severe weather, winter storm, islanding",2.466666666666667,Oklahoma,Severe Weather
+Ice Storm,2010,1/28/2010,American Electric Power,Oklahoma,SPP,,"68,705","severe weather, winter storm",120.0,Oklahoma,Severe Weather
+Severe Storm,2010,1/20/2010,Los Angeles Department of Water and Power,California,WECC,,"147,223","severe weather, storm",101.16666666666667,California,Severe Weather
+Severe Storm,2010,1/18/2010,Pacific Gas and Electric Company,California,WECC,290,"1,700,000","severe weather, storm",236.5,California,Severe Weather
+Interruptible Load Shed/Made Public Appeals,2010,1/11/2010,Progress Energy Florida,Florida,"FRCC, SERC",,,"load shedding, public appeal",6.2,Florida,Load Shedding
+Made Public Appeals,2010,1/6/2010,Southwest Louisiana Electric Membership Corporation,Louisiana,SERC,,,public appeal,48.0,Louisiana,Public Appeal
+Severe Weather,2009,12/18/2009,American Electric Power,Ohio,RFC,,"403,913",severe weather,169.5,Ohio,Severe Weather
+Severe Weather,2009,12/10/2009,Detroit Edison,Michigan,RFC,,"65,562",severe weather,38.25,Michigan,Severe Weather
+Severe Weather,2009,12/9/2009,American Electric Power,Ohio,RFC,,"48,102",severe weather,16.883333333333333,Ohio,Severe Weather
+Load Shed/Made Public Appeals,2009,12/8/2009,California Independent System Operator,California,WECC,,,"load shedding, public appeal",5.433333333333334,California,Load Shedding
+Severe Weather,2009,12/8/2009,Arizona Public Service,Arizona,WECC,,"140,000",severe weather,58.0,Arizona,Severe Weather
+Forced Outage Equipment Failure,2009,12/7/2009,California Department of Water Resources,California,WECC,400,,equipment failure,6.0,California,Equipment Failures
+Ice,2009,10/13/2009,Western Area Power Administration Upper Great Plains Region,Wyoming,WECC,101,"35,500","severe weather, winter storm",1.7666666666666666,Wyoming,Severe Weather
+High Winds and Rain,2009,10/13/2009,Pacific Gas and Electric,California,WECC,350,"859,554","severe weather, wind, rain",6.5,California,Severe Weather
+Winter Storm,2009,10/9/2009,Entergy Corporation,Arkansas,SERC,,"56,000","severe weather, winter storm",41.25,Arkansas,Severe Weather
+Winter Storm,2009,10/9/2009,Entergy Corporation,Louisiana,SERC,,"56,000","severe weather, winter storm",41.25,Louisiana,Severe Weather
+Severe Storms,2009,10/7/2009,Detroit Edison,Michigan,RFC,,"75,000","severe weather, storm",65.25,Michigan,Severe Weather
+Made Public Appeals,2009,8/31/2009,Los Angeles Department of Water and Power,California,WECC,,,public appeal,1.4833333333333334,California,Public Appeal
+Thunderstorms,2009,8/4/2009,Duke Energy Midwest,Ohio,RFC,50,"63,700","severe weather, thunderstorm",103.25,Ohio,Severe Weather
+Thunderstorms,2009,8/4/2009,Duke Energy Midwest,Indiana,RFC,50,"63,700","severe weather, thunderstorm",103.25,Indiana,Severe Weather
+Loss of Part of Substation,2009,7/28/2009,PacificCorp,Utah,WECC,316,,equipment failure,0.25,Utah,Equipment Failures
+Loss of Part of Substation,2009,7/28/2009,PacificCorp,Utah,WECC,316,,equipment failure,0.25,Utah,Equipment Failures
+Failure of Computer Hardware Used for Monitoring,2009,7/27/2009,Tennessee Valley Authority,Tennessee,SERC,,,equipment failure,0.7,Tennessee,Equipment Failures
+Unit Tripped,2009,7/21/2009,Crockett Cogeneration,California,WECC,136,1,generator trip,3.15,California,Equipment Failures
+Made Public Appeals,2009,7/7/2009,ERCOT ISO,Texas,TRE,,,public appeal,3.5,Texas,Public Appeal
+Electrical System Separation,2009,7/2/2009,ISO New England,Maine,NPCC,0,0,islanding,2.683333333333333,Maine,Electrical System Issues
+Severe Thunderstorms,2009,6/26/2009,Connecticut Light and Power,Connecticut,NPCC,,"50,752","severe weather, thunderstorm",64.0,Connecticut,Severe Weather
+Severe Thunderstorms,2009,6/26/2009,Duke Energy Midwest,Indiana,RFC,327,"85,000","severe weather, thunderstorm",32.0,Indiana,Severe Weather
+Made Public Appeals,2009,6/24/2009,SW Louisiana Electric Membership Corp/ Louisiana Generating LLC,Louisiana,SERC,,,public appeal,8.5,Louisiana,Public Appeal
+Severe Storm,2009,6/19/2009,Consumers Energy,Michigan,RFC,75,"99,000","severe weather, storm",58.983333333333334,Michigan,Severe Weather
+Severe Storm,2009,6/12/2009,Tennessee Valley Authority,Tennessee,SERC,860,"136,000","severe weather, storm",2.2666666666666666,Tennessee,Severe Weather
+Severe Thunderstorm,2009,6/12/2009,Southern Company,Georgia,SERC,290,"102,000","severe weather, thunderstorm",20.0,Georgia,Severe Weather
+Severe Thunderstorms,2009,6/12/2009,Entergy Corporation,Mississippi,SERC,,"81,645","severe weather, thunderstorm",78.23333333333333,Mississippi,Severe Weather
+Severe Storms,2009,6/10/2009,"Oncor Electric Delivery Company, LLC",Texas,TRE,,"800,000","severe weather, storm",88.0,Texas,Severe Weather
+Severe Thunderstorms,2009,6/9/2009,Baltimore Gas and Electric,Maryland,RFC,60,"85,091","severe weather, thunderstorm",35.583333333333336,Maryland,Severe Weather
+Electrical System Separation,2009,6/5/2009,Pacific Gas and Electric,California,WECC,1,70,islanding,6.666666666666667,California,Electrical System Issues
+Transmission Equipment Failure,2009,5/29/2009,Big Rivers Electric Corporation,Kentucky,SERC,342,1,"equipment failure, transmission interruption",10.866666666666667,Kentucky,Transmission and Distribution Issues
+Severe Thunderstorm,2009,5/8/2009,The Empire District Electric Company,Missouri,SERC,266,"83,000","severe weather, thunderstorm",1.5,Missouri,Severe Weather
+Severe Thunderstorm,2009,5/8/2009,Ameren,Illinois,SERC,300,"68,800","severe weather, thunderstorm",153.83333333333334,Illinois,Severe Weather
+Complete Electric System Failure,2009,4/24/2009,Constellation Energy,Louisiana,SERC,32,"11,000",unknown,0.2,Louisiana,Electrical System Issues
+Substation Load Interruption,2009,4/23/2009,Southern California Edison Co,California,WECC,512,"280,000",load shedding,2.066666666666667,California,Load Shedding
+Transmission Tripped,2009,4/23/2009,Puget Sound Energy,Washington,WECC,244,"93,300",equipment failure,20.066666666666666,Washington,Transmission and Distribution Issues
+Severe Thunderstorms,2009,4/10/2009,Southern Company,Alabama,SERC,162,"56,679","severe weather, thunderstorm",4.5,Alabama,Severe Weather
+Severe Thunderstorms,2009,4/10/2009,Southern Company,Georgia,SERC,162,"56,679","severe weather, thunderstorm",4.5,Georgia,Severe Weather
+Unit Shut Down,2009,3/8/2009,Crockett Cogeneration,California,WECC,150,-,unknown,1.4833333333333334,California,Equipment Failures
+Made Public Appeals,2009,3/3/2009,American Electric Power,Virginia,RFC,350,0,public appeal,22.283333333333335,Virginia,Public Appeal
+Transformer Faulted/Unit Tripped,2009,3/3/2009,"New Covert Generating Company, LLC",Michigan,RFC,378,,equipment failure,1295.2833333333333,Michigan,Equipment Failures
+Winter Storm,2009,3/1/2009,Dominion Virginia/North Carolina Power,Virginia,SERC,210,"217,000","severe weather, winter storm",44.0,Virginia,Severe Weather
+Ice/Snow Storm,2009,2/23/2009,Central Maine Power Company,Maine,NPCC,,"131,000","severe weather, winter storm",35.13333333333333,Maine,Severe Weather
+High Winds,2009,2/13/2009,Ohio Edison Company,Ohio,RFC,168,"184,000","severe weather, wind",48.5,Ohio,Severe Weather
+High Winds,2009,2/12/2009,Midwest ISO,Ohio,RFC,168,"184,000","severe weather, wind",3.5,Ohio,Severe Weather
+High Winds,2009,2/12/2009,Penelec,Pennsylvania,RFC,130,"132,000","severe weather, wind",86.0,Pennsylvania,Severe Weather
+Severe Thunderstorms,2009,2/11/2009,Allegheny Power,Virginia,RFC,,"374,644","severe weather, thunderstorm",121.86666666666666,Virginia,Severe Weather
+Severe Thunderstorms,2009,2/11/2009,Allegheny Power,Pennsylvania,RFC,,"374,644","severe weather, thunderstorm",121.86666666666666,Pennsylvania,Severe Weather
+Severe Thunderstorms,2009,2/11/2009,American Electric Power,Virginia,RFC,,"279,813","severe weather, thunderstorm",47.0,Virginia,Severe Weather
+Severe Thunderstorms,2009,2/11/2009,American Electric Power,Ohio,RFC,,"279,813","severe weather, thunderstorm",47.0,Ohio,Severe Weather
+Severe Thunderstorms,2009,2/11/2009,Midwest ISO,Kentucky,RFC,350,"63,000","severe weather, thunderstorm",15.0,Kentucky,Severe Weather
+Severe Thunderstorms,2009,2/11/2009,Midwest ISO,Ohio,RFC,350,"63,000","severe weather, thunderstorm",15.0,Ohio,Severe Weather
+High Winds,2009,2/11/2009,CenterPoint Energy,Texas,TRE,350,"64,801","severe weather, wind",9.5,Texas,Severe Weather
+Severe Thunderstorms,2009,2/11/2009,Louisville Gas and Electric/Kentucky Utilities,Kentucky,RFC,,"78,000","severe weather, thunderstorm",16.0,Kentucky,Severe Weather
+Winter Storm,2009,1/28/2009,Midwest ISO,Missouri,RFC,300,1,"severe weather, winter storm",57.166666666666664,Missouri,Severe Weather
+Ice/Snow Storm,2009,1/28/2009,Duke Energy Ohio,Kentucky,RFC,,"53,600","severe weather, winter storm",59.333333333333336,Kentucky,Severe Weather
+Ice/Snow Storm,2009,1/28/2009,Duke Energy Ohio,Ohio,RFC,,"53,600","severe weather, winter storm",59.333333333333336,Ohio,Severe Weather
+Ice/Snow Storm,2009,1/28/2009,Duke Energy Indiana,Indiana,RFC,,"53,700","severe weather, winter storm",384.21666666666664,Indiana,Severe Weather
+Winter Storm,2009,1/28/2009,Midwest ISO,Ohio,RFC,,"230,300","severe weather, winter storm",389.05,Ohio,Severe Weather
+Winter Storm,2009,1/28/2009,Midwest ISO,Kentucky,RFC,,"230,300","severe weather, winter storm",389.05,Kentucky,Severe Weather
+Ice Storm,2009,1/28/2009,Tennessee Valley Authority,Tennessee,SERC,,"109,527","severe weather, winter storm",191.0,Tennessee,Severe Weather
+Ice Storm,2009,1/28/2009,Tennessee Valley Authority,Kentucky,SERC,,"109,527","severe weather, winter storm",191.0,Kentucky,Severe Weather
+Ice Storm,2009,1/28/2009,Henderson Municipal Power and Light,Kentucky,RFC,21,"3,500","severe weather, winter storm",253.0,Kentucky,Severe Weather
+Ice Storm,2009,1/28/2009,Henderson Municipal Power and Light,Kentucky,RFC,21,"3,500","severe weather, winter storm",253.0,Kentucky,Severe Weather
+Ice Storm,2009,1/27/2009,Big Rivers Electric Corporation,Kentucky,SERC,350,3,"severe weather, winter storm",204.33333333333334,Kentucky,Severe Weather
+Ice Storm,2009,1/27/2009,Big Rivers Electric Corporation,Indiana,SERC,350,3,"severe weather, winter storm",204.33333333333334,Indiana,Severe Weather
+Winter Storm,2009,1/27/2009,"Associated Electric Cooperative, Inc.",Missouri,SERC,200,"62,500","severe weather, winter storm",79.0,Missouri,Severe Weather
+Ice Storm,2009,1/27/2009,Arkansas Electric Cooperative Corporation,Arkansas,SERC,600,"215,700","severe weather, winter storm",33.0,Arkansas,Severe Weather
+Ice Storm,2009,1/27/2009,Entergy Corporation,Arkansas,SERC,,"111,818","severe weather, winter storm",171.23333333333332,Arkansas,Severe Weather
+Ice Storm,2009,1/27/2009,Louisville Gas and Electric/Kentucky Utilities,Kentucky,RFC,,"383,000","severe weather, winter storm",59.5,Kentucky,Severe Weather
+Shed Load,2009,1/22/2009,Crawfordsville Electric Light and Power,Indiana,RFC,50,"9,700",load shedding,1.0833333333333333,Indiana,Load Shedding
+Fuel Supply Deficiency,2009,1/17/2009,"State Line Energy, LLC",Indiana,RFC,,,fuel supply emergency,192.0,Indiana,Fuel Supply Emergency
+Transmission Equipment Failure,2009,1/8/2009,Florida Keys Electric Cooperative Assoc. Inc.,Florida,FRCC,55,"31,000","equipment failure, transmission interruption",11.65,Florida,Transmission and Distribution Issues
+Severe Storm,2009,1/5/2009,"Oncor Electric Delivery Company, LLC",Texas,TRE,,"157,019","severe weather, storm",37.0,Texas,Severe Weather
+Shed Firm Load,2008,12/30/2008,Crawfordsville Electric Light and Power,Indiana,RFC,41,"9,700",load shedding,0.5833333333333334,Indiana,Load Shedding
+Wind Storm,2008,12/28/2008,Consumers Energy,Michigan,RFC,,"210,517","severe weather, wind",85.25,Michigan,Severe Weather
+Wind Storm,2008,12/28/2008,Midwest ISO,Michigan,RFC,,"230,000","severe weather, wind",11.75,Michigan,Severe Weather
+Lightning,2008,12/26/2008,"Hawaiian Electric Company, Inc.",Hawaii,HI,"1,060","294,000","severe weather, thunderstorm",22.783333333333335,Hawaii,Severe Weather
+Load Shedding,2008,12/26/2008,Sacramento Municipal Utility District,California,WECC,110,"50,000",load shedding,3.9,California,Load Shedding
+Ice Storm,2008,12/19/2008,Midwest ISO,Indiana,RFC,,"50,000","severe weather, winter storm",23.333333333333332,Indiana,Severe Weather
+Electrical System Separation,2008,12/19/2008,Pacific Gas and Electric Company,California,WECC,1,638,islanding,5.25,California,Electrical System Issues
+Ice Storm,2008,12/19/2008,American Electric Power,Michigan,RFC,,"140,000","severe weather, winter storm",75.5,Michigan,Severe Weather
+Ice Storm,2008,12/19/2008,American Electric Power,Ohio,RFC,,"140,000","severe weather, winter storm",75.5,Ohio,Severe Weather
+Declared Stage 1 Electric Emergency/Made Public Appeal,2008,12/13/2008,Pacific Gas and Electric Company,California,WECC,5,0,public appeal,185.78333333333333,California,Public Appeal
+Ice Storm,2008,12/12/2008,Central Maine Power Company,Maine,NPCC,,"169,757","severe weather, winter storm",49.11666666666667,Maine,Severe Weather
+Snow Storm,2008,12/11/2008,Entergy Corporation,Mississippi,SERC,,"91,300","severe weather, winter storm",62.983333333333334,Mississippi,Severe Weather
+Equipment Failure/Made Public Appeal,2008,12/10/2008,PacifiCorp,Oregon,WECC,32,3,"equipment failure, public appeal",3.3333333333333335,Oregon,Public Appeal
+Fire/Load Shedding,2008,12/2/2008,Midwest ISO,Missouri,RFC,135,"53,000","wild fire, load shedding",2.5,Missouri,Wild Fire
+Load Shedding,2008,11/7/2008,California ISO,California,WECC,430,"400,000",load shedding,0.65,California,Load Shedding
+Load Shedding,2008,11/7/2008,Southern California Edison,California,WECC,250,"140,000",load shedding,0.6833333333333333,California,Load Shedding
+Severe Storm,2008,10/25/2008,ISO New England,Connecticut,NPCC,,"52,000","severe weather, storm",32.0,Connecticut,Severe Weather
+Electrical System Separation,2008,9/30/2008,Pacific Gas and Electric Company,California,WECC,30,"10,000",islanding,0.05,California,Electrical System Issues
+Tropical Depression Ike,2008,9/15/2008,Allegheny Power,Pennsylvania,RFC,546,"160,875","severe weather, hurricane/tropical storm",99.88333333333334,Pennsylvania,Severe Weather
+Wind Storm,2008,9/14/2008,Ohio Edison Company,Ohio,RFC,469,"564,728","severe weather, wind",192.18333333333334,Ohio,Severe Weather
+High Winds,2008,9/14/2008,Owensboro Municipal Utilities,Kentucky,RFC,70,"18,000","severe weather, wind",174.98333333333332,Kentucky,Severe Weather
+Tropical Depression Ike,2008,9/14/2008,Louisville Gas/Kentucky Utilities,Kentucky,RFC,,"375,000","severe weather, hurricane/tropical storm",5.0,Kentucky,Severe Weather
+Wind Storm,2008,9/14/2008,Cleveland Electric Illuminating Company,Ohio,RFC,430,"245,164","severe weather, wind",178.33333333333334,Ohio,Severe Weather
+Hurricane Ike,2008,9/14/2008,Ameren Corporation,Missouri,MRO,,"107,000","severe weather, hurricane/tropical storm",103.5,Missouri,Severe Weather
+Hurricane Ike,2008,9/14/2008,Ameren Corporation,Illinois,MRO,,"107,000","severe weather, hurricane/tropical storm",103.5,Illinois,Severe Weather
+Tropical Depression Ike,2008,9/14/2008,Midwest ISO,Indiana,RFC,,"875,000","severe weather, hurricane/tropical storm",8.133333333333333,Indiana,Severe Weather
+Wind Storm,2008,9/14/2008,Pennsylvania Electric Company,Pennsylvania,RFC,72,"124,596","severe weather, wind",115.63333333333333,Pennsylvania,Severe Weather
+Hurricane Ike,2008,9/14/2008,Dayton Power and Light,Ohio,RFC,"1,000","95,000","severe weather, hurricane/tropical storm",70.0,Ohio,Severe Weather
+Tropical Depression Ike,2008,9/14/2008,Duquesne Light Company,Pennsylvania,RFC,600,"105,000","severe weather, hurricane/tropical storm",4.983333333333333,Pennsylvania,Severe Weather
+Wind Storm,2008,9/14/2008,American Electric Company,Ohio,RFC,,"650,000","severe weather, wind",151.0,Ohio,Severe Weather
+Hurricane Ike,2008,9/13/2008,Oncor Electric Delivery Company LLC,Texas,TRE,,"238,392","severe weather, hurricane/tropical storm",44.0,Texas,Severe Weather
+Hurricane Ike,2008,9/13/2008,American Electric Power CSWS,Texas,SPP,,"184,501","severe weather, hurricane/tropical storm",75.73333333333333,Texas,Severe Weather
+Hurricane Ike,2008,9/13/2008,Louisiana Generating LLC,Louisiana,SERC,40,"50,000","severe weather, hurricane/tropical storm",340.26666666666665,Louisiana,Severe Weather
+Hurricane Ike,2008,9/12/2008,Entergy Corporation,Arkansas,SERC,,"705,000","severe weather, hurricane/tropical storm",55.25,Arkansas,Severe Weather
+Tropical Storm Hanna,2008,9/6/2008,Dominion-Virginia Power,Virginia,SERC,220,"64,463","severe weather, hurricane/tropical storm",1.85,Virginia,Severe Weather
+Hurricane Gustav,2008,9/1/2008,Louisiana Generating LLC,Louisiana,SERC,400,"150,000","severe weather, hurricane/tropical storm",296.8666666666667,Louisiana,Severe Weather
+Hurricane Gustav,2008,9/1/2008,Cleco Power LLC,Louisiana,SERC,,"246,092","severe weather, hurricane/tropical storm",220.25,Louisiana,Severe Weather
+Fuel Supply Curtailed,2008,8/31/2008,Dow Chemical Company,Louisiana,SERC,200,0,fuel supply emergency,457.5,Louisiana,Fuel Supply Emergency
+Hurricane Gustav,2008,8/31/2008,Entergy Corporation,Arkansas,SERC,,"964,000","severe weather, hurricane/tropical storm",62.0,Arkansas,Severe Weather
+Tropical Storm Fay,2008,8/24/2008,Southern Company,Georgia,SERC,110,"87,390","severe weather, hurricane/tropical storm",9.5,Georgia,Severe Weather
+Tropical Storm Fay,2008,8/24/2008,Southern Company,Alabama,SERC,110,"87,390","severe weather, hurricane/tropical storm",9.5,Alabama,Severe Weather
+Tropical Storm Fay,2008,8/21/2008,Progress Energy Florida,Florida,FRCC,,"430,000","severe weather, hurricane/tropical storm",85.0,Florida,Severe Weather
+Tropical Storm Fay,2008,8/19/2008,Florida Power and Light,Florida,FRCC,,"101,950","severe weather, hurricane/tropical storm",84.51666666666667,Florida,Severe Weather
+Declared Energy Emergency Alert 1/Made Public Appeals,2008,8/9/2008,XCEL,Texas,SPP,0,0,"fuel supply emergency, public appeal",8.766666666666667,Texas,Severe Weather
+Severe Storms,2008,8/5/2008,Northern Indiana Public Service Company,Indiana,RFC,0,"63,000","severe weather, storm",6.833333333333333,Indiana,Severe Weather
+Severe Thunderstorms,2008,8/3/2008,Entergy Corporation,Texas,SERC,,"59,500","severe weather, thunderstorm",2.75,Texas,Severe Weather
+Severe Thunderstorms,2008,8/2/2008,Southern Company,Georgia,SERC,400,"131,115","severe weather, thunderstorm",9.5,Georgia,Severe Weather
+Severe Thunderstorms,2008,8/2/2008,Southern Company,Alabama,SERC,400,"131,115","severe weather, thunderstorm",9.5,Alabama,Severe Weather
+Electric System Separation/Severe Lightning Storms,2008,7/24/2008,ISO New England,Maine,NPCC,180,"110,000","severe weather, thunderstorm, islanding",10.3,Maine,Severe Weather
+Hurricane Dolly,2008,7/23/2008,American Electric Power,Texas,TRE,703,"211,266","severe weather, hurricane/tropical storm",190.06666666666666,Texas,Severe Weather
+Severe Thunderstorms,2008,7/22/2008,Duke Energy Indiana,Indiana,RFC,,"58,000","severe weather, thunderstorm",64.53333333333333,Indiana,Severe Weather
+Indequate Electric Resources to Serve Load/Public Appeal,2008,7/22/2008,Southwestern Public Service Company,Texas,SPP,,-,"load shedding, public appeal",39.15,Texas,Load Shedding
+Severe Thunderstorms,2008,7/22/2008,Duke Energy Ohio,Ohio,RFC,,"56,000","severe weather, thunderstorm",24.5,Ohio,Severe Weather
+Storm,2008,7/21/2008,MidAmercian Energy Company,Iowa,MRO,170,"185,000","severe weather, storm",29.183333333333334,Iowa,Severe Weather
+Storm,2008,7/21/2008,MidAmercian Energy Company,Illinois,MRO,170,"185,000","severe weather, storm",29.183333333333334,Illinois,Severe Weather
+Unit Tripped,2008,7/10/2008,Crockett Cogeneration,California,WECC,240,-,generator trip,2.9833333333333334,California,Equipment Failures
+Thunderstorms,2008,7/2/2008,Detroit Edison Company-DTE,Michigan,RFC,,"56,000","severe weather, thunderstorm",7.0,Michigan,Severe Weather
+Brush Fire/Lines Loss/Transmission Emergency Declared,2008,7/2/2008,Southern California Edison,California,WECC,119,"37,784",wild fire,5.566666666666666,California,Wild Fire
+Unit Tripped,2008,7/1/2008,Crockett Cogeneration,California,WECC,160,-,generator trip,4.483333333333333,California,Equipment Failures
+Severe Wind Storm,2008,6/27/2008,Omaha Public Power District,Nebraska,MRO,650,"126,000","severe weather, wind",1.0,Nebraska,Severe Weather
+Thunderstorms,2008,6/26/2008,Detroit Edison Company-DTE,Michigan,RFC,,"53,000","severe weather, thunderstorm",4.5,Michigan,Severe Weather
+Transmission Equipment Failure/Load Shedding,2008,6/23/2008,Progress Energy Florida,Florida,FRCC,113,"32,593","load shedding, equipment failure",6.6,Florida,Transmission and Distribution Issues
+Fire/Breaker Failure,2008,6/23/2008,Northern Indiana Public Service Company,Indiana,RFC,425,,equipment failure,0.016666666666666666,Indiana,Fire
+Lightning Stirke/Uncontrolled Loss of Load,2008,6/22/2008,Northern Indiana Public Service Company,Indiana,RFC,650,,"severe weather, thunderstorm",0.16666666666666666,Indiana,Severe Weather
+Electrical System Separation/Severe Lightning Storms,2008,6/21/2008,Pacific Gas and Electric Company,California,WECC,3,477,"severe weather, thunderstorm, islanding",3.7333333333333334,California,Severe Weather
+Severe Thunderstorms,2008,6/17/2008,Oncor Electric Delivery Company LLC,Texas,TRE,,"234,393","severe weather, thunderstorm",59.483333333333334,Texas,Severe Weather
+Thunderstorms/Uncontrolled Loss of Load,2008,6/17/2008,"Golden Spread Electric Cooperative, Inc",Texas,TRE,276,"37,330","severe weather, thunderstorm, uncontrolled loss",2.3333333333333335,Texas,Severe Weather
+Thunderstorms/Uncontrolled Loss of Load,2008,6/17/2008,"Golden Spread Electric Cooperative, Inc",Texas,TRE,276,"37,330","severe weather, thunderstorm, uncontrolled loss",2.3333333333333335,Texas,Severe Weather
+Thunderstorms/Uncontrolled Loss of Load,2008,6/17/2008,"Golden Spread Electric Cooperative, Inc",Oklahoma,TRE,276,"37,330","severe weather, thunderstorm, uncontrolled loss",2.3333333333333335,Oklahoma,Severe Weather
+Electrical System Separation/Severe Thunderstorms,2008,6/17/2008,Southwestern Public Service Company,Texas,SPP,560,"18,000","severe weather, thunderstorm, islanding",5.333333333333333,Texas,Severe Weather
+Thunderstorms,2008,6/16/2008,Dominion-Virginia Power,Virginia,SERC,"800-1,000","115,000","severe weather, thunderstorm",7.066666666666666,Virginia,Severe Weather
+Electrical System Separation,2008,6/15/2008,Crawfordsville Electric Light and Power,Indiana,RFC,57,"9,700",islanding,1.6,Indiana,Electrical System Issues
+Flooding and Uncontrolled Loss,2008,6/12/2008,"Midwest ISO, ITC, ALTW",Iowa,RFC,200,"21,000","severe weather, flooding, uncontrolled loss",144.5,Iowa,Severe Weather
+Severe Thunderstorms,2008,6/10/2008,PECO Energy,Pennsylvania,RFC,,"198,000","severe weather, thunderstorm",92.98333333333333,Pennsylvania,Severe Weather
+Severe Storm,2008,6/8/2008,Detroit Edison Company-DTE,Michigan,RFC,500,"150,000","severe weather, storm",197.5,Michigan,Severe Weather
+Thunderstorms,2008,6/4/2008,Dominion-Virginia Power,Virginia,SERC,850,"253,800","severe weather, thunderstorm",30.433333333333334,Virginia,Severe Weather
+Severe Weather,2008,6/3/2008,Allegheny Power,Virginia,RFC,634,"157,168",severe weather,102.0,Virginia,Severe Weather
+"Load Shedding, Inadequate Electric Resources to Serve Load",2008,5/30/2008,"Entergy Services, Inc.",Louisiana,SERC,200-250,,load shedding,5.916666666666667,Louisiana,Load Shedding
+Severe Thunderstorms,2008,5/30/2008,Indianapolis Power and Light,Indiana,RFC,,"70,000","severe weather, thunderstorm",121.98333333333333,Indiana,Severe Weather
+Severe Storms,2008,5/30/2008,Exelon Corporation-ComEd,Illinois,RFC,,"109,000","severe weather, storm",13.5,Illinois,Severe Weather
+Lightning Storm,2008,5/27/2008,ISO New England,Connecticut,NPCC,130,"56,400","severe weather, thunderstorm",1.8333333333333333,Connecticut,Severe Weather
+Electric System Separation,2008,5/11/2008,Crawfordsville Electric Light and Power,Indiana,RFC,47,"9,700",islanding,3.8833333333333333,Indiana,Electrical System Issues
+Severe Thunderstorms,2008,5/11/2008,Southern Company,Georgia,SERC,100,"80,539","severe weather, thunderstorm",32.5,Georgia,Severe Weather
+Load Shedding,2008,5/8/2008,California ISO,California,WECC,483,0,load shedding,2.5833333333333335,California,Load Shedding
+Severe Weather,2008,4/9/2008,Oncor Electrtic Delivery Company LLC,Texas,TRE,,"488,689",severe weather,81.25,Texas,Severe Weather
+Severe Thunderstorms,2008,4/4/2008,Entergy Corporation,Mississippi,SERC,,"122,600","severe weather, thunderstorm",4.483333333333333,Mississippi,Severe Weather
+Major Storm,2008,3/15/2008,Southern Company,Alabama,SERC,200,"157,744","severe weather, storm",23.583333333333332,Alabama,Severe Weather
+Major Storm,2008,3/15/2008,Southern Company,Georgia,SERC,200,"157,744","severe weather, storm",23.583333333333332,Georgia,Severe Weather
+Windstorm,2008,3/8/2008,Dominion-Virginia Power,Virginia,SERC,210,"141,130","severe weather, wind",7.75,Virginia,Severe Weather
+Severe Weather,2008,3/8/2008,PECO Energy,Pennsylvania,RFC,,"168,449",severe weather,45.733333333333334,Pennsylvania,Severe Weather
+Transmission Equipment Failure,2008,2/26/2008,Florida Power and Light,Florida,FRCC,"3,200","584,384","equipment failure, transmission interruption",3.033333333333333,Florida,Transmission and Distribution Issues
+Thunderstorms,2008,2/26/2008,Southern Company,Georgia,SERC,484,"145,380","severe weather, thunderstorm",10.0,Georgia,Severe Weather
+Under Frequency/Load Shedding,2008,2/26/2008,Florida Municipal Power Agency,Florida,FRCC,140,"47,661",load shedding,1.0166666666666666,Florida,Load Shedding
+Shed Firm Load,2008,2/26/2008,Seminole Electric Cooperative,Florida,FRCC,120,"56,000",load shedding,0.6333333333333333,Florida,Load Shedding
+Electrical System Separation,2008,2/15/2008,Pacific Gas and Electric Company,California,WECC,10,"10,008",islanding,4.5,California,Electrical System Issues
+Load Shedding,2008,2/14/2008,PacifiCorp,Utah,WECC,"2,818","74,031",load shedding,2.5166666666666666,Utah,Load Shedding
+Ice Storm,2008,2/13/2008,ISO New England,Maine,NPCC,50,"50,462","severe weather, winter storm",17.283333333333335,Maine,Severe Weather
+Severe Weather,2008,2/12/2008,Entergy Corporation,Louisiana,SERC,,"54,000",severe weather,74.0,Louisiana,Severe Weather
+Severe Weather,2008,2/10/2008,Allegheny Power,Maryland,RFC,412,"100,969",severe weather,64.71666666666667,Maryland,Severe Weather
+High Winds,2008,2/10/2008,American Electric Power,Virginia,RFC,,"97,342","severe weather, wind",102.08333333333333,Virginia,Severe Weather
+High Winds,2008,2/10/2008,American Electric Power,Virginia,RFC,,"97,342","severe weather, wind",102.08333333333333,Virginia,Severe Weather
+High Winds,2008,2/10/2008,PJM Interconnection LLC,Pennsylvania,RFC,,"212,560","severe weather, wind",12.6,Pennsylvania,Severe Weather
+Electrical System Separation,2008,2/9/2008,Pacific Gas and Electric Company,California,WECC,0,0,islanding,3.566666666666667,California,Electrical System Issues
+Severe Weather,2008,2/6/2008,Tennessee Valley Authority,Tennessee,SERC,,"57,000",severe weather,2.0,Tennessee,Severe Weather
+Severe Weather,2008,2/5/2008,LG&E Energy/Kentucky Utilities,Kentucky,SERC,,"76,000",severe weather,5.0,Kentucky,Severe Weather
+Equipment Faulted,2008,2/2/2008,Crockett Cogeneration,California,WECC,,-,equipment failure,12.483333333333333,California,Equipment Failures
+Equipment Faulted,2008,2/1/2008,Crockett Cogeneration,California,WECC,,-,equipment failure,1.8166666666666667,California,Equipment Failures
+Severe Thunderstorms,2008,1/29/2008,Entergy Corporation,Louisiana,SERC,,"110,000","severe weather, thunderstorm",112.0,Louisiana,Severe Weather
+Wind/Ice Storm,2008,1/29/2008,DTE Energy - Detroit Edison,Michigan,RFC,,"86,915","severe weather, winter storm",68.5,Michigan,Severe Weather
+Exciter Faulted,2008,1/29/2008,Crockett Cogeneration,California,WECC,,-,equipment failure,7.283333333333333,California,Equipment Failures
+Winter Storm,2008,1/4/2008,Pacific Gas and Electric Company,California,WECC,500,"2,606,931","severe weather, winter storm",253.0,California,Severe Weather
+Winter Storm,2007,12/23/2007,Consumers Energy,Michigan,RFC,50,"134,288","severe weather, winter storm",60.61666666666667,Michigan,Severe Weather
+Ice Storm,2007,12/11/2007,Westar Energy,Kansas,MRO,500,"95,000","severe weather, winter storm",227.5,Kansas,Severe Weather
+Ice Storm,2007,12/10/2007,American Electric Power,Oklahoma,SPP,,"256,663","severe weather, winter storm",220.86666666666667,Oklahoma,Severe Weather
+Voltage Reduction/Made Public Appeal/Fuel Deficiency,2007,12/1/2007,ISO New England,Maine,NPCC,0,0,"fuel supply emergency, public appeal, voltage reduction",27.933333333333334,Maine,Electrical System Issues
+Load Shedding,2007,10/26/2007,City of Riverside,California,WECC,240,"104,000",load shedding,3.9833333333333334,California,Load Shedding
+Brush Fire/Load Shedding,2007,10/22/2007,San Diego Gas and Electric Company,California,WECC,199,"68,780","wild fire, load shedding",0.6166666666666667,California,Wild Fire
+Brush Fire/Load Shedding,2007,10/22/2007,California Independent System Operator,California,WECC,700,"300,000","wild fire, load shedding",0.2833333333333333,California,Wild Fire
+Brush Fire/Load Shedding/Implemented Emergency Alert,2007,10/22/2007,Southern California Edison Company,California,WECC,451,"90,323","wild fire, load shedding",0.35,California,Wild Fire
+High Winds,2007,10/18/2007,Puget Sound Energy,Washington,WECC,,"160,000","severe weather, wind",92.6,Washington,Severe Weather
+Unit Tripped,2007,9/24/2007,"New Covert Generating Company, LLC",Michigan,RFC,320,,generator trip,2.8,Michigan,Equipment Failures
+Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms,2007,9/18/2007,Great River Energy,Manitoba,MRO,"8,000-10,000","GRE (1,900) Total 11,175","severe weather, storm, islanding, load shedding",1.25,Manitoba,Severe Weather
+Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms,2007,9/18/2007,Northern States Power Company,Michigan,MRO,16,"6,000","severe weather, storm, islanding, load shedding",0.9333333333333333,Michigan,Severe Weather
+Electrical System Separation,2007,9/17/2007,Crawfordsville Electric Light and Power,Indiana,RFC,50,"9,600",islanding,0.7833333333333333,Indiana,Electrical System Issues
+Hurricane Humberto,2007,9/13/2007,Entergy Corporation,Texas,SPP,,"118,000","severe weather, hurricane/tropical storm",27.0,Texas,Severe Weather
+High Temperatures/Made Public Appeals,2007,9/4/2007,San Diego Gas and Electric Company,California,WECC,,,"severe weather, heat, public appeal",7.0,California,Severe Weather
+High Temperatures/Made Public Appeals,2007,9/3/2007,San Diego Gas and Electric Company,California,WECC,,,"severe weather, heat, public appeal",5.0,California,Severe Weather
+Shed Load,2007,8/29/2007,Modesto Irrigation District,California,WECC,180,"26,000",load shedding,1.0666666666666667,California,Load Shedding
+Severe Storm,2007,8/24/2007,DTE Energy  (Detroit Edison),Michigan,RFC,,"75,000","severe weather, storm",84.5,Michigan,Severe Weather
+Severe Storms,2007,8/23/2007,Exelon Corporation West ComEd,Illinois,RFC,,"629,590","severe weather, storm",126.81666666666666,Illinois,Severe Weather
+Severe Thunderstorms,2007,8/19/2007,Dominion Virginia Power,Virginia,SERC,100,"58,500","severe weather, thunderstorm",1.6,Virginia,Severe Weather
+Severe Weather,2007,8/16/2007,Dominion Virginia Power,Virginia,SERC,200,"93,300",severe weather,25.316666666666666,Virginia,Severe Weather
+Severe Weather,2007,8/16/2007,Dominion Virginia Power,Virginia,SERC,200,"93,300",severe weather,25.316666666666666,Virginia,Severe Weather
+Declared Energy Emergency Alert2/Heat Wave,2007,8/14/2007,American Electric Power (CSWS),Arkansas,SPP,20,-,"severe weather, heat",4.0,Arkansas,Severe Weather
+Severe Thunderstorm,2007,8/13/2007,Ameren Corporation,Missouri,SERC,,"63,000","severe weather, thunderstorm",34.5,Missouri,Severe Weather
+Severe Thunderstorms,2007,8/9/2007,Duquesne Light Company,Pennsylvania,RFC,90,"55,000","severe weather, thunderstorm",1.3,Pennsylvania,Severe Weather
+Major Storms,2007,7/19/2007,Dominion - Virginia Power/North Carolina Power,Virginia,SERC,72,"107,000","severe weather, storm",6.416666666666667,Virginia,Severe Weather
+Severe Weather,2007,7/18/2007,Exelon Corporation West ComEd,Illinois,RFC,300,"135,000",severe weather,8.0,Illinois,Severe Weather
+Fire/Load Shedding,2007,7/16/2007,PacifiCorp,Utah,WECC,306,-,"wild fire, load shedding",4.716666666666667,Utah,Wild Fire
+Electrical Separation/Load Shedding/Made Public Appeal,2007,7/6/2007,Idaho Power Company,Idaho,WECC,60,0,"islanding, load shedding, public appeal",1.0333333333333334,Idaho,Load Shedding
+Electrical Separation/Load Shedding/Made Public Appeal,2007,7/6/2007,Idaho Power Company,Oregon,WECC,60,0,"islanding, load shedding, public appeal",1.0333333333333334,Oregon,Load Shedding
+Severe Storm,2007,7/5/2007,DTE Energy  (Detroit Edison),Michigan,RFC,-,"69,000","severe weather, storm",60.0,Michigan,Severe Weather
+Load Shedding,2007,6/5/2007,Idaho Power Company,Idaho,WECC,424,"80,000",load shedding,0.9166666666666666,Idaho,Load Shedding
+Load Shedding,2007,6/5/2007,Idaho Power Company,Oregon,WECC,424,"80,000",load shedding,0.9166666666666666,Oregon,Load Shedding
+Unit Tripped,2007,5/21/2007,Crockett Cogeneraton,California,WECC,140,-,generator trip,3.033333333333333,California,Equipment Failures
+Severe Storm,2007,5/16/2007,Northeast Utilities,Connecticut,NPCC,-,"67,000","severe weather, storm",59.0,Connecticut,Severe Weather
+Severe Thunderstorms,2007,5/15/2007,DTE Energy (Detroit Edison),Michigan,RFC,500,"66,000","severe weather, thunderstorm",40.0,Michigan,Severe Weather
+Unit Tripped,2007,5/14/2007,Crockett Cogeneration,California,WECC,150,-,generator trip,2.5833333333333335,California,Equipment Failures
+Unit Tripped,2007,5/10/2007,Crockett Cogeneration,California,WECC,150,-,generator trip,3.8333333333333335,California,Equipment Failures
+Severe Thunderstorms,2007,4/16/2007,Baltimore Gas and Electric Company,Maryland,RFC,160,"138,000","severe weather, thunderstorm",51.0,Maryland,Severe Weather
+Heavy Snow Storm,2007,4/16/2007,Central Maine Power Company,Maine,NPCC,-,"127,545","severe weather, winter storm",60.06666666666666,Maine,Severe Weather
+High Winds,2007,4/12/2007,Los Angeles Department of Water and Power,California,WECC,200,"158,977","severe weather, wind",8.5,California,Severe Weather
+Trip of a Unit,2007,4/12/2007,Crockett Cogeneration,California,WECC,130,-,generator trip,2.2333333333333334,California,Equipment Failures
+Heavy Snow Storm,2007,4/5/2007,Central Maine Power Company,Maine,NPCC,-,"117,142","severe weather, winter storm",15.833333333333334,Maine,Severe Weather
+Severe Thunderstorms,2007,3/31/2007,CenterPoint Energy,Texas,ERCOT,179,"67,000","severe weather, thunderstorm",11.5,Texas,Severe Weather
+Major Storm,2007,3/1/2007,Southern Company,Florida,SERC,95,"25,445","severe weather, storm",25.833333333333332,Florida,Severe Weather
+Winter Storm,2007,2/28/2007,Pacific Gas and Electric Company,California,WECC,110,"671,189","severe weather, winter storm",56.0,California,Severe Weather
+Ice Storm,2007,2/24/2007,MidAmerican Energy Company,Iowa,MRO,210,"75,000","severe weather, winter storm",188.95,Iowa,Severe Weather
+Ice Storm,2007,2/24/2007,MidAmerican Energy Company,Illinois,MRO,210,"75,000","severe weather, winter storm",188.95,Illinois,Severe Weather
+Ice Storm,2007,2/24/2007,Midwest ISO,Iowa,RFC,750,"215,000","severe weather, winter storm",17.4,Iowa,Severe Weather
+Ice Storm,2007,2/24/2007,Alliant Energy,Iowa,MRO,400,"140,000","severe weather, winter storm",5.783333333333333,Iowa,Severe Weather
+Winter Storm,2007,2/13/2007,Baltimore Gas and Electric Company,Maryland,RFC,400,"155,183","severe weather, winter storm",84.5,Maryland,Severe Weather
+Ice/Wind Storm,2007,2/13/2007,Duke Energy Midwest,Indiana,RFC,250,"367,500","severe weather, winter storm",70.0,Indiana,Severe Weather
+Ice/Wind Storm,2007,2/13/2007,Duke Energy Midwest,Ohio,RFC,250,"367,500","severe weather, winter storm",70.0,Ohio,Severe Weather
+Major Windstorm,2007,1/16/2007,Snohomish County PUD No. 1,Washington,WECC,260,"110,433","severe weather, wind",34.0,Washington,Severe Weather
+Ice Storm,2007,1/13/2007,DTE Energy (Detroit Edison),Michigan,RFC,500,"129,607","severe weather, winter storm",152.5,Michigan,Severe Weather
+Ice Storm,2007,1/13/2007,Ameren Corporation,Missouri,MRO,,"225,000","severe weather, winter storm",151.0,Missouri,Severe Weather
+Ice Storm,2007,1/13/2007,Ameren Corporation,Illinois,MRO,,"225,000","severe weather, winter storm",151.0,Illinois,Severe Weather
+Severe Weather,2006,12/26/2006,Pacific Gas and Electric Company,California,WECC,420,"850,068",severe weather,117.2,California,Severe Weather
+Transmission Equipment/Fire,2006,12/16/2006,Portland General Electric,Oregon,WECC,350,"84,500","wild fire, transmission interruption",5.5,Oregon,Fire
+High Winds,2006,12/14/2006,Portland General Electric,Oregon,WECC,,"249,500","severe weather, wind",73.0,Oregon,Severe Weather
+Wind Storm,2006,12/14/2006,Seattle City Light,Washington,WECC,750,"175,000","severe weather, wind",19.983333333333334,Washington,Severe Weather
+High Winds,2006,12/14/2006,Tacoma Power,Washington,WECC,280,"75,000","severe weather, wind",47.0,Washington,Severe Weather
+Wind Storm,2006,12/14/2006,Bonneville Power Administration,Montana,WECC,258,24,"severe weather, wind",412.8333333333333,Montana,Severe Weather
+HIgh Winds,2006,12/14/2006,PacifiCorp,Oregon,WECC,,"111,000 (peak)","severe weather, wind",71.88333333333333,Oregon,Severe Weather
+Wind Storm,2006,12/14/2006,Snohomish County PUD #1,Washington,WECC,360,"172,060","severe weather, wind",160.5,Washington,Severe Weather
+Wind Storm,2006,12/13/2006,Puget Sound Energy,Washington,WECC,,"700,000","severe weather, wind",379.48333333333335,Washington,Severe Weather
+Unit Tripped,2006,12/10/2006,Crockett Cogeneration,California,WECC,220,,generator trip,2.65,California,Equipment Failures
+Wind Storm,2006,12/1/2006,American Electric Power,Ohio,RFC,,"59,106","severe weather, wind",11.666666666666666,Ohio,Severe Weather
+Ice Storm,2006,11/30/2006,Ameren Corporation,Missouri,MRO,,"550,000","severe weather, winter storm",213.0,Missouri,Severe Weather
+Ice Storm,2006,11/30/2006,Ameren Corporation,Illinois,MRO,,"550,000","severe weather, winter storm",213.0,Illinois,Severe Weather
+Wind/Snow Storm,2006,11/26/2006,Snohomish County PUD #1,Washington,WECC,180,"63,992","severe weather, winter storm",149.0,Washington,Severe Weather
+Severe Weather,2006,11/15/2006,Southern Company,Georgia,SERC,363,"109,000",severe weather,2.0,Georgia,Severe Weather
+High Winds,2006,11/15/2006,Puget Sound Energy,Washington,WECC,50,"50,000","severe weather, wind",85.58333333333333,Washington,Severe Weather
+Wet Snow/Winds,2006,10/26/2006,Xcel Energy,Colorado,MRO,,"65,000","severe weather, winter storm",35.666666666666664,Colorado,Severe Weather
+High Winds,2006,10/20/2006,PECO Energy,Pennsylvania,RFC,,"90,000","severe weather, wind",52.0,Pennsylvania,Severe Weather
+Shed Firm Load,2006,10/2/2006,Southern California Edison Company,California,WECC,308,"130,000",load shedding,5.566666666666666,California,Load Shedding
+Severe Thunderstorms,2006,10/2/2006,Exelon Corporation/ComEd,Illinois,RFC,,"471,932","severe weather, thunderstorm",28.0,Illinois,Severe Weather
+Severe Thunderstorms,2006,9/28/2006,Dominion - Virginia Power/North Carolina Power,Virginia,SERC,84,"56,500","severe weather, thunderstorm",2.033333333333333,Virginia,Severe Weather
+Tropical Storm Ernesto,2006,9/1/2006,Dominion - Virginia Power/North Carolina Power,Virginia,SERC,500,"333,000","severe weather, hurricane/tropical storm",56.733333333333334,Virginia,Severe Weather
+Tropical Storm Ernesto,2006,9/1/2006,PECO Energy,Pennsylvania,RFC,,"146,094","severe weather, hurricane/tropical storm",80.0,Pennsylvania,Severe Weather
+Severe Thunderstorm,2006,8/10/2006,Idaho Power Company,Idaho,WECC,80 to 100,"65,000","severe weather, thunderstorm",40.0,Idaho,Severe Weather
+Severe Thunderstorm,2006,8/10/2006,Idaho Power Company,Oregon,WECC,80 to 100,"65,000","severe weather, thunderstorm",40.0,Oregon,Severe Weather
+Made Public Appeals,2006,8/7/2006,American Electric Power,Oklahoma,RFC,75,Major Industrial Customer Load Reduction,public appeal,5.0,Oklahoma,Public Appeal
+Made Public Appeals,2006,8/1/2006,Duke Energy Midwest,Kentucky,RFC,90,,public appeal,7.5,Kentucky,Public Appeal
+Made Public Appeals/Heat Wave,2006,8/1/2006,First Energy Corporation,Ohio,RFC,,,"severe weather, heat, public appeal",7.0,Ohio,Severe Weather
+Severe Thunderstorms,2006,7/27/2006,PECO Energy,Pennsylvania,RFC,,"167,564","severe weather, thunderstorm",50.96666666666667,Pennsylvania,Severe Weather
+Widespread Heat Wave/CAISO  Implementation of Stage 2 Electrical Emergency Plan,2006,7/24/2006,California ISO,California,WECC,695,,"severe weather, heat",3.0,California,Severe Weather
+Widespread Heat Wave/CAISO Implementation of Stage 2 Electrical Emergency Plan,2006,7/24/2006,Southern California Edison Company,California,WECC,414,Interruptible Tarriff 1-6 customers,"severe weather, heat",3.0,California,Severe Weather
+Widespread Heat Wave/Public Appeals Made,2006,7/22/2006,Pacific Gas and Electric Company,California,WECC,200,"1,271,893","severe weather, heat, public appeal",122.85,California,Severe Weather
+Load Reduction/Public Appeals Made,2006,7/19/2006,Entergy Services Inc.,Arkansas,SERC,40,"8,000","load shedding, public appeal",6.9,Arkansas,Load Shedding
+Severe Lightning Storms,2006,7/18/2006,PECO Energy,Pennsylvania,RFC,,"492,955","severe weather, thunderstorm",125.38333333333334,Pennsylvania,Severe Weather
+Lightning Storms/Tripped Lines,2006,7/18/2006,ISO New England,Connecticut,NPCC,0,0,"severe weather, thunderstorm",2.4166666666666665,Connecticut,Severe Weather
+Severe Lightning Storms,2006,7/17/2006,Exelon Corporation West ComEd,Illinois,RFC,,"170,519","severe weather, thunderstorm",12.0,Illinois,Severe Weather
+Severe Lightning Storms,2006,7/16/2006,Consumers Energy,Michigan,RFC,150,"315,000","severe weather, thunderstorm",118.0,Michigan,Severe Weather
+Severe Thunderstorms,2006,7/4/2006,Dominion - Virginia Power/North Carolina,Virginia,RFC,335,"67,000","severe weather, thunderstorm",2.8,Virginia,Severe Weather
+Severe Thunderstorms,2006,7/2/2006,Dominion - Virginia Power/North Carolina,Virginia,RFC,300,"75,000","severe weather, thunderstorm",17.866666666666667,Virginia,Severe Weather
+Severe Thunderstorms,2006,6/22/2006,American Electric Power,Ohio,RFC,750,"195,000","severe weather, thunderstorm",129.0,Ohio,Severe Weather
+Severe Thunderstorms,2006,6/22/2006,American Electric Power,Indiana,RFC,750,"195,000","severe weather, thunderstorm",129.0,Indiana,Severe Weather
+Severe Weather,2006,6/1/2006,PECO Energy,Pennsylvania,RFC,,"111,555",severe weather,39.0,Pennsylvania,Severe Weather
+Severe Thunderstorms,2006,6/1/2006,Baltimore Gas and Electric,Maryland,RFC,335,"70,000","severe weather, thunderstorm",43.5,Maryland,Severe Weather
+Severe Weather,2006,5/25/2006,"Duke Energy - Ohio, Kentucky, Indiana",Indiana,RFC,800,"210,000",severe weather,37.166666666666664,Indiana,Severe Weather
+Lightning Strike,2006,5/19/2006,Crockett Cogeneration,California,WECC,133,-,"severe weather, thunderstorm",7.283333333333333,California,Severe Weather
+Load Shed/Declared EECP,2006,4/17/2006,Electric Reliability Council of Texas,Texas,ERCOT,"1,000","200,000",load shedding,4.083333333333333,Texas,Load Shedding
+Load Shed/ Declared EECP,2006,4/17/2006,TXU Electric Delivery Company,Texas,ERCOT,380,"489,478",load shedding,3.15,Texas,Load Shedding
+Load Shed/Made Public Appeals/Rolling Blackouts,2006,4/17/2006,Austin Energy,Texas,ERCOT,37- 40,"8,000 -10,000","load shedding, public appeal",2.1666666666666665,Texas,Load Shedding
+Load Shed/Declared EECP,2006,4/17/2006,American Electric Power,Texas,ERCOT,108,"51,404",load shedding,1.5833333333333333,Texas,Load Shedding
+Severe Weather/ Tornadoes,2006,4/8/2006,Southern Company,Alabama,SERC,300,"115,589","severe weather, tornado",7.0,Alabama,Severe Weather
+Severe Weather/ Tornadoes,2006,4/8/2006,Southern Company,Georgia,SERC,300,"115,589","severe weather, tornado",7.0,Georgia,Severe Weather
+Major Storms/Tornadoes,2006,4/2/2006,Cinergy PSI,Indiana,RFC,"1,000","186,000","severe weather, tornado, storm",55.416666666666664,Indiana,Severe Weather
+Severe Weather,2006,3/12/2006,"City Water Light and Power (Springfield, Illinois)",Illinois,RFC,200,"65,400",severe weather,39.5,Illinois,Severe Weather
+Severe Weather,2006,3/9/2006,Entergy Service Inc.,Texas,SERC,,"73,000",severe weather,8.0,Texas,Severe Weather
+Severe Winter Storm,2006,2/27/2006,Pacific Gas and Electric Company,California,WECC,-,"160,000","severe weather, winter storm",44.08333333333333,California,Severe Weather
+Inadequate Electric Resources to Serve Load,2006,2/18/2006,Public Service Company of Colorado,Colorado,WECC,428,-,load shedding,7.316666666666666,Colorado,Transmission and Distribution Issues
+Severe Thunderstorm/ Snow/Ice Storm,2006,2/16/2006,Consumers Energy,Michigan,RFC,100,"252,089","severe weather, winter storm",107.0,Michigan,Severe Weather
+Severe Thunderstorm/ Snow/Ice Storm,2006,2/16/2006,Consumers Energy,Michigan,RFC,100,"252,089","severe weather, winter storm",107.0,Michigan,Severe Weather
+Major Snow Storm,2006,2/12/2006,Potomac Electric Power Company,Washington,RFC,300,"60,000","severe weather, winter storm",53.63333333333333,Washington,Severe Weather
+Severe Snow Storm,2006,2/12/2006,Dominion - Virginia Power,Virginia,RFC,250,"126,000","severe weather, winter storm",8.083333333333334,Virginia,Severe Weather
+Major Snow Storm,2006,2/11/2006,Baltimore Gas and Electric,Maryland,RFC,500,"180,000","severe weather, winter storm",74.0,Maryland,Severe Weather
+Severe Windstorm,2006,2/4/2006,Puget Sound Energy,Washington,WECC,--,"140,000","severe weather, wind",99.5,Washington,Severe Weather
+Strong Winds,2006,2/4/2006,Snohomish County PUD #1,Washington,WECC,150,"123,827","severe weather, wind",58.45,Washington,Severe Weather
+Severe Storm,2006,1/18/2006,Central Maine Power Company,Maine,NPCC,75,"63,000","severe weather, storm",3.3,Maine,Severe Weather
+High Winds,2006,1/14/2006,PECO Energy,Pennsylvania,RFC,--,"142,315","severe weather, wind",49.75,Pennsylvania,Severe Weather
+Severe Storms,2005,12/31/2005,Pacific Gas and Electric,California,WECC,800,"1,667,316","severe weather, storm",123.0,California,Severe Weather
+Ice Storm,2005,12/15/2005,Southern Company,Georgia,SERC,75,"52,659","severe weather, winter storm",31.083333333333332,Georgia,Severe Weather
+Severe Thunderstorms,2005,11/12/2005,We Energies,Wisconsin,MAIN,10,"48,000","severe weather, thunderstorm",50.0,Wisconsin,Severe Weather
+Severe Thunderstorm,2005,11/6/2005,DTE Energy,Michigan,ECAR,212,"118,000","severe weather, thunderstorm",136.0,Michigan,Severe Weather
+Plant Tripped,2005,11/3/2005,Crockett Cogeneration,California,WECC,136,--,equipment failure,0.21666666666666667,California,Equipment Failures
+Hurricane Wilma,2005,10/24/2005,Allegheny Power,Pennsylvania,MAAC,400,"303,795","severe weather, hurricane/tropical storm",212.5,Pennsylvania,Severe Weather
+Hurricane Wilma,2005,10/24/2005,Seminole Electric Cooperative,Florida,FRCC,280,"105,000","severe weather, hurricane/tropical storm",12.0,Florida,Severe Weather
+Hurricane Wilma,2005,10/24/2005,Florida Municipal Power Agency,Florida,FRCC,148,"84,900","severe weather, hurricane/tropical storm",413.0,Florida,Severe Weather
+Hurricane Rita,2005,9/24/2005,American Electric Power - CSWS,Louisiana,ECAR,700,"190,000","severe weather, hurricane/tropical storm",104.0,Louisiana,Severe Weather
+Hurricane Rita,2005,9/23/2005,CenterPoint Energy Houston Electric,Texas,ERCOT,"1,950","715,000","severe weather, hurricane/tropical storm",27.0,Texas,Severe Weather
+Hurricane Rita,2005,9/23/2005,Entergy Corporation,Mississippi,SPP,,"766,000","severe weather, hurricane/tropical storm",34.5,Mississippi,Severe Weather
+Hurricane Rita,2005,9/23/2005,Louisiana Generating,Louisiana,SPP,350,"125,000","severe weather, hurricane/tropical storm",313.4,Louisiana,Severe Weather
+Hurricane Rita  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public Appeals for conservation were issued.,2005,9/23/2005,City of Lakeland,Florida,FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal",124.48333333333333,Florida,Severe Weather
+Severe Thunderstorm,2005,9/22/2005,DTE Energy,Michigan,ECAR,366,"53,000","severe weather, thunderstorm",108.5,Michigan,Severe Weather
+High Winds/Tornados,2005,9/21/2005,Xcel Energy - Northern States  Power,Minnesota,MRO,,"200,000","severe weather, tornado",148.0,Minnesota,Severe Weather
+Severe Storm,2005,9/13/2005,We Energies,Wisconsin,MAIN,600,"110,000","severe weather, storm",73.5,Wisconsin,Severe Weather
+Breaker protection cable accidentally cut,2005,9/12/2005,Los Angeles Department of Water and Power,California,WECC,"2,578","900,000",equipment failure,1.4,California,Electrical System Issues
+Hurricane Katrina disrupted normal gas supplies distribution. Public appeals for conservation were issued.,2005,8/31/2005,Seminole Electric Cooperative,Florida,FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal",280.0,Florida,Fuel Supply Emergency
+Hurricane Katrina,2005,8/29/2005,Entergy Corporation,Louisiana,SPP,,"1.1 million and 100,000 gas customers","severe weather, hurricane/tropical storm",24.0,Louisiana,Severe Weather
+Hurricane Katrina,2005,8/29/2005,Louisiana Generating,Louisiana,SPP,300,"143,000","severe weather, hurricane/tropical storm",11.533333333333333,Louisiana,Severe Weather
+Hurricane Katrina  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public appeals for conservation were issued.,2005,8/29/2005,City of Lakeland,Florida,FRCC,0,0,"severe weather, hurricane/tropical storm, fuel supply emergency, public appeal",235.01666666666665,Florida,Fuel Supply Emergency
+Hurricane Katrina,2005,8/29/2005,Tennessee Valley Authority,Tennessee,SERC,118.5,"323,529","severe weather, hurricane/tropical storm",284.1666666666667,Tennessee,Severe Weather
+Hurricane Katrina,2005,8/29/2005,Southern Company,Mississippi,SERC,"5,120","512,049","severe weather, hurricane/tropical storm",14.833333333333334,Mississippi,Severe Weather
+CAISO initiated interruption of  interruptible and firm load due to declaration of  Transmission Emergency in Southern California,2005,8/25/2005,Southern California Edison Company,California,WECC,864,"409,000","load shedding, transmission interruption",4.15,California,Transmission and Distribution Issues
+CAISO determined there was  inadequate electric resources to serve load.  Public appeals and a shedding of interruptible and firm load occurred.,2005,8/25/2005,California ISO,California,WECC,-,-,"load shedding, public appeal",4.166666666666667,California,Load Shedding
+Severe Thunderstorms,2005,8/20/2005,American Electric Power -AEP West,Arkansas,ECAR,650,"50,797","severe weather, thunderstorm",2.1,Arkansas,Severe Weather
+Plant Tripped,2005,8/8/2005,Crockett Cogeneration,California,WECC,240,PG&E,equipment failure,3.3666666666666667,California,Equipment Failures
+Severe Thunderstorms,2005,7/27/2005,PECO Energy,Pennsylvania,MAAC,,"93,837","severe weather, thunderstorm",40.56666666666666,Pennsylvania,Severe Weather
+Severe Thunderstorm,2005,7/27/2005,Potomac Electric Power Company (Pepco),Maryland,MAAC,,"64,943","severe weather, thunderstorm",75.28333333333333,Maryland,Severe Weather
+Severe Thunderstorms,2005,7/27/2005,Baltimore Gas and Electric Company,Maryland,MAAC,,"87,600","severe weather, thunderstorm",46.0,Maryland,Severe Weather
+Severe Thunderstorms,2005,7/23/2005,Potomac Electric Power Company (Pepco),Maryland,MAAC,,"55,118","severe weather, thunderstorm",81.8,Maryland,Severe Weather
+CA ISO Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,2005,7/22/2005,Southern California Edison Company,California,WECC,206,"133,900",load shedding,4.083333333333333,California,Load Shedding
+CA ISO  Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,2005,7/21/2005,Southern California Edison Company,California,WECC,197,"128,050",load shedding,2.85,California,Load Shedding
+Hurricane Dennis,2005,7/10/2005,Southern Company,Georgia,SERC,45,"228,102","severe weather, hurricane/tropical storm",48.0,Georgia,Severe Weather
+Hurricane Dennis,2005,7/10/2005,Alabama Electric Coop Inc.,Alabama,SERC,51.2,"50,000","severe weather, hurricane/tropical storm",28.666666666666668,Alabama,Severe Weather
+Hurricane Dennis,2005,7/10/2005,Alabama Electric Coop Inc.,Florida,SERC,51.2,"50,000","severe weather, hurricane/tropical storm",28.666666666666668,Florida,Severe Weather
+Tropical Storm Cindy,2005,7/5/2005,Entergy Corporation,Louisiana,SPP,unknown,"287,000","severe weather, hurricane/tropical storm",12.0,Louisiana,Severe Weather
+Fuel Supply - Deficiency Coal Rail Transporation Interruption,2005,7/1/2005,Southwestern Public Service Company,Kansas,ERCOT,0,0,"fuel supply emergency, coal",,Kansas,Fuel Supply Emergency
+Strong Thunderstorm/High Winds,2005,6/29/2005,DTE Energy,Michigan,ECAR,"1,000","114,711","severe weather, thunderstorm",127.0,Michigan,Severe Weather
+Fuel Supply Deficiency/Coal Rail Transportation Interruption,2005,6/28/2005,Public Service Company of Colorado,Colorado,WECC,0,0,"fuel supply emergency, coal",,Colorado,Fuel Supply Emergency
+Transmission Equipment Failure,2005,6/24/2005,Commonwealth Edison Company,Illinois,MAIN,350,"51,500","equipment failure, transmission interruption",2.4833333333333334,Illinois,Transmission and Distribution Issues
+Strong Thunderstorm,2005,6/8/2005,Xcel Energy - Northern States Power,Minnesota,MRO,50-100,"300,000","severe weather, thunderstorm",66.0,Minnesota,Severe Weather
+Strong Thunderstorm,2005,6/6/2005,PECO Energy,Pennsylvania,MAAC,,"143,000","severe weather, thunderstorm",29.28333333333333,Pennsylvania,Severe Weather
+Strong Thunderstorm/High Winds,2005,6/5/2005,DTE Energy,Michigan,ECAR,"1,826","201,580","severe weather, thunderstorm",113.5,Michigan,Severe Weather
+Strong Thunderstorms,2005,5/29/2005,CenterPoint Energy Houston Electric,Texas,ERCOT,328,"123,000","severe weather, thunderstorm",6.5,Texas,Severe Weather
+Strong Thunderstorms,2005,5/8/2005,CenterPoint Energy Houston Electric,Texas,ERCOT,672,"243,000","severe weather, thunderstorm",7.0,Texas,Severe Weather
+Thunderstorms,2005,4/30/2005,Southern Company,Alabama,SERC,100,"51,808","severe weather, thunderstorm",2.0,Alabama,Severe Weather
+Thunderstorms,2005,4/30/2005,Southern Company,Georgia,SERC,100,"51,808","severe weather, thunderstorm",2.0,Georgia,Severe Weather
+Winter Storm,2005,4/23/2005,Cleveland Electric Illuminating Company/First Energy Corporation,Ohio,ECAR,,"150,000","severe weather, winter storm",96.0,Ohio,Severe Weather
+Winter Storm,2005,4/23/2005,Cleveland Electric Illuminating Company/First Energy Corporation,Ohio,ECAR,,"150,000","severe weather, winter storm",96.0,Ohio,Severe Weather
+Lightning Strike,2005,4/22/2005,Crockett Cogeneration,California,WECC,126,PG&E,"severe weather, thunderstorm",0.13333333333333333,California,Severe Weather
+Winter Storm,2005,4/1/2005,Cleveland Electric Illuminating Company/First Energy Corporation,Ohio,ECAR,,"211,000","severe weather, winter storm",,Ohio,Severe Weather
+Winter Storm,2005,4/1/2005,Cleveland Electric Illuminating Company/First Energy Corporation,Ohio,ECAR,,"211,000","severe weather, winter storm",,Ohio,Severe Weather
+Ice Storm,2005,1/29/2005,Georgia System Operations Corporation (GSOC),Georgia,SERC,65 to 100,"82,000","severe weather, winter storm",23.0,Georgia,Severe Weather
+Ice Storm,2005,1/29/2005,Southern Company,Alabama,SERC,100,"150,000","severe weather, winter storm",48.0,Alabama,Severe Weather
+Ice Storm,2005,1/29/2005,Southern Company,Georgia,SERC,100,"150,000","severe weather, winter storm",48.0,Georgia,Severe Weather
+Winter Storm,2005,1/7/2005,Pacific Gas and Electric Company,California,WECC,120,"442,000","severe weather, winter storm",67.0,California,Severe Weather
+Winter Ice Storm,2005,1/5/2005,American Electric Power,Indiana,ECAR,545,"114,791","severe weather, winter storm",253.83333333333334,Indiana,Severe Weather
+Winter Ice Storm,2005,1/5/2005,American Electric Power,Michigan,ECAR,545,"114,791","severe weather, winter storm",253.83333333333334,Michigan,Severe Weather
+Winter Storm,2005,1/4/2005,Westar Energy,Kansas,SPP,200,"211,000","severe weather, winter storm",234.0,Kansas,Severe Weather
+Severe Weather/Line Relayed,2004,12/27/2004,Pacific Gas and Electric  Company,California,WECC,100,"95,000",severe weather,3.0,California,Severe Weather
+High Winds,2004,12/1/2004,Baltimore Gas & Electric Company,Maryland,MAAC,270,"122,000","severe weather, wind",37.983333333333334,Maryland,Severe Weather
+Heavy Rain and Wind Storm,2004,12/1/2004,Exelon (PECO Energy),Pennsylvania,MAAC,-,"105,312","severe weather, storm",38.65,Pennsylvania,Severe Weather
+Strong Thunderstorms,2004,11/24/2004,Southern Company,Georgia,SERC,100,"83,450","severe weather, thunderstorm",6.0,Georgia,Severe Weather
+Strong Thunderstorms,2004,11/23/2004,CenterPoint Energy,Texas,ERCOT,150,"119,000","severe weather, thunderstorm",3.0,Texas,Severe Weather
+High Wind Gusts,2004,10/30/2004,DTE Energy,Michigan,ECAR,700,"159,870","severe weather, wind",97.33333333333333,Michigan,Severe Weather
+Major Transmission Distribution System Interruption,2004,10/28/2004,Pacific Gas and Electric  Company,California,WECC,103,"59,458",transmission interruption,2.683333333333333,California,Transmission and Distribution Issues
+Public Appeal/Breaker Failure and Fire,2004,10/25/2004,Entergy Transmission,Louisiana,SPP,-,-,"wild fire, public appeal",23.0,Louisiana,Fire
+Severe Storm with High Wind Gusts,2004,10/18/2004,Pacific Gas and Electric  Company,California,WECC,140,"407,440","severe weather, wind",34.5,California,Severe Weather
+Hurricane Jeanne,2004,9/27/2004,Southern Company,Georgia,SERC,854,"85,455","severe weather, hurricane/tropical storm",6.0,Georgia,Severe Weather
+Hurricane Jeanne,2004,9/26/2004,Orlando Utilities Commission,Florida,FRCC,350,"110,000","severe weather, hurricane/tropical storm",102.0,Florida,Severe Weather
+Hurricane Jeanne,2004,9/26/2004,Progress Energy Florida,Florida,FRCC,"1,800","722,000","severe weather, hurricane/tropical storm",126.0,Florida,Severe Weather
+Hurricane Jeanne,2004,9/26/2004,Tampa Electric Company,Florida,FRCC,"1,250","285,300","severe weather, hurricane/tropical storm",34.0,Florida,Severe Weather
+Hurricane Jeanne,2004,9/25/2004,Fort Pierce Utilities Authority,Florida,FRCC,125,"26,000","severe weather, hurricane/tropical storm",16.0,Florida,Severe Weather
+Hurricane Ivan,2004,9/16/2004,Alabama Electric Cooperative,Washington,SERC,263,"75,000","severe weather, hurricane/tropical storm",8.033333333333333,Washington,Severe Weather
+Hurricane Ivan,2004,9/16/2004,Alabama Electric Cooperative,Alabama,SERC,263,"75,000","severe weather, hurricane/tropical storm",8.033333333333333,Alabama,Severe Weather
+Hurricane Ivan,2004,9/15/2004,Southern Company,Georgia,SERC,916,"916,316","severe weather, hurricane/tropical storm",48.0,Georgia,Severe Weather
+Hurricane Frances,2004,9/7/2004,Georgia System Operations,Georgia,SERC,"2,200","150,000","severe weather, hurricane/tropical storm",26.0,Georgia,Severe Weather
+Hurricane Frances,2004,9/6/2004,Southern Company,Georgia,SERC,"3,000","99,000","severe weather, hurricane/tropical storm",71.0,Georgia,Severe Weather
+Hurricane Frances,2004,9/5/2004,Orlando Utilities Commission,Florida,FRCC,200,"65,000","severe weather, hurricane/tropical storm",112.0,Florida,Severe Weather
+Hurricane Frances,2004,9/5/2004,Progress Energy Florida,Florida,FRCC,"2,100","832,898","severe weather, hurricane/tropical storm",173.0,Florida,Severe Weather
+Hurricane Frances,2004,9/4/2004,Florida Power & Light,Florida,FRCC,"6,000","2,775,093","severe weather, hurricane/tropical storm",48.0,Florida,Severe Weather
+Hurricane Frances,2004,9/4/2004,Tampa Electric Company,Florida,FRCC,"1,100","268,000","severe weather, hurricane/tropical storm",201.0,Florida,Severe Weather
+Hurricane Frances,2004,9/3/2004,Fort Pierce Utilities Authority,Florida,FRCC,125,"26,000","severe weather, hurricane/tropical storm",41.0,Florida,Severe Weather
+Tropical Storm Gaston,2004,8/30/2004,Dominion - Virginia Power/North Carolina Power,Virginia,SERC,150,"99,816","severe weather, hurricane/tropical storm",20.616666666666667,Virginia,Severe Weather
+Major Transmission Line Tripped due to Lightning Strike,2004,8/20/2004,National Grid USA,Massachusetts,NPCC,"22,700","380,000","severe weather, thunderstorm, transmission interruption",6.233333333333333,Massachusetts,Severe Weather
+Hurricane Charley,2004,8/13/2004,Tampa Electric Company,Florida,FRCC,250,"78,000","severe weather, hurricane/tropical storm",3.683333333333333,Florida,Severe Weather
+Hurricane Charley,2004,8/13/2004,"Utilities Commission, City of New Smyrna Beach",Florida,FRCC,65,"23,000","severe weather, hurricane/tropical storm",18.316666666666666,Florida,Severe Weather
+Hurricane Charley,2004,8/13/2004,Progress Energy Florida,Florida,FRCC,"1,300","502,000","severe weather, hurricane/tropical storm",244.0,Florida,Severe Weather
+Hurricane Charley,2004,8/13/2004,Florida Power & Light,Florida,FRCC,"1,400","1,200,000","severe weather, hurricane/tropical storm",8.0,Florida,Severe Weather
+Fault at Barre Substation,2004,8/4/2004,Southern California Edison,California,WECC,480,"182,000",equipment failure,1.0666666666666667,California,Equipment Failures
+Severe Storm,2004,8/3/2004,Commonwealth Edison,Illinois,MAIN,127,"127,000","severe weather, storm",10.0,Illinois,Severe Weather
+Unplanned Generator Outage/High Loads Made Public Appeal,2004,8/2/2004,Entergy Transmission,Texas,SPP,-,-,"generator trip, public appeal, load shedding",10.0,Texas,Equipment Failures
+Severe Storms,2004,7/25/2004,Southern Company,Florida,SERC,61,"61,004","severe weather, storm",1.0,Florida,Severe Weather
+Severe Storms,2004,7/25/2004,Southern Company,Mississippi,SERC,61,"61,004","severe weather, storm",1.0,Mississippi,Severe Weather
+Public Appeal,2004,7/24/2004,Entergy Transmission,Louisiana,SPP,-,-,public appeal,29.25,Louisiana,Public Appeal
+Severe Thunderstorms,2004,7/21/2004,Commonwealth Edison,Illinois,MAIN,Approx. 200,"200,000","severe weather, thunderstorm",25.5,Illinois,Severe Weather
+Wildfire/Shed Interruptible Load,2004,7/20/2004,Southern California Edison,California,WECC,214,-,"wild fire, load shedding",11.566666666666666,California,Wild Fire
+Severe Thunderstorms,2004,7/13/2004,Cinergy Services,Indiana,ECAR,600,"135,000","severe weather, thunderstorm",87.5,Indiana,Severe Weather
+Units Tripped,2004,7/13/2004,City of Tallahassee,Florida,FRCC,283,"42,124",generator trip,3.683333333333333,Florida,Equipment Failures
+Severe Thunderstorms,2004,7/7/2004,Dominion - Virginia Power/North Carolina Power,Virginia,SERC,120,"88,110","severe weather, thunderstorm",10.4,Virginia,Severe Weather
+Fire/Substation Multiple Public Appeals,2004,7/6/2004,Salt River Project,Arizona,WECC,-,-,"wild fire, public appeal",822.0,Arizona,Fire
+Fire/Substation Multiple Public Appeals,2004,7/6/2004,Arizona Public Service,Arizona,WECC,-,-,"wild fire, public appeal",822.0,Arizona,Fire
+Thunderstorms,2004,6/23/2004,Southern Company,Georgia,SERC,50,"50,595","severe weather, thunderstorm",1.0,Georgia,Severe Weather
+Thunderstorms,2004,6/23/2004,Southern Company,Alabama,SERC,50,"50,595","severe weather, thunderstorm",1.0,Alabama,Severe Weather
+Load Shedding,2004,6/23/2004,Idaho Power Company,Idaho,WECC,157,"35,000",load shedding,1.5833333333333333,Idaho,Load Shedding
+Fault on Line,2004,6/14/2004,Arizona Public Service,Arizona,WECC,200,"30,000",equipment failure,6.966666666666667,Arizona,Equipment Failures
+Tornado,2004,6/12/2004,Lincoln Electric System,Nebraska,MAPP,428,"120,212","severe weather, tornado",0.06666666666666667,Nebraska,Severe Weather
+Severe Thunderstorms with Strong Winds,2004,6/2/2004,American Electric Power,Oklahoma,ECAR,280,"56,874","severe weather, thunderstorm",111.41666666666667,Oklahoma,Severe Weather
+Severe  Thunderstorms with Strong Winds,2004,6/2/2004,American Electric Power,Louisiana,ECAR,350,"59,057","severe weather, thunderstorm",134.23333333333332,Louisiana,Severe Weather
+Severe Storms with Strong Winds,2004,6/1/2004,TXU Electric Delivery,Texas,ERCOT,"1,900","500,000","severe weather, wind",8.0,Texas,Severe Weather
+Public Appeals,2004,5/28/2004,Seminole Electric Cooperative,Florida,FRCC,0,0,public appeal,72.0,Florida,Public Appeal
+Public Appeals,2004,5/28/2004,City of Tallahassee,Florida,FRCC,0,0,public appeal,72.0,Florida,Public Appeal
+Public Appeals,2004,5/28/2004,Progress Energy Florida,Florida,FRCC,0,0,public appeal,72.0,Florida,Public Appeal
+Severe Thunderstorms,2004,5/21/2004,Detroit Edison,Michigan,ECAR,630,"Greater than 250,000","severe weather, thunderstorm",76.0,Michigan,Severe Weather
+Severe Thunderstorms,2004,5/21/2004,Consumers Energy,Michigan,ECAR,200,"248,209","severe weather, thunderstorm",95.0,Michigan,Severe Weather
+High Winds and Heavy Rains,2004,5/21/2004,Allegheny Power,Virginia,MAAC,"60 at peak, total 162","94,366 at peak, total 225,353","severe weather, wind, rain",102.5,Virginia,Severe Weather
+Strong Thunderstorms,2004,5/11/2004,CenterPoint Energy,Texas,ERCOT,Approx. 85,"62,500 at peak","severe weather, thunderstorm",2.5,Texas,Severe Weather
+Heat Storm,2004,5/3/2004,Southern California Edison,California,WECC,662,Approx. 940,"severe weather, heat",4.5,California,Severe Weather
+Strong Winds,2004,4/27/2004,Snohomish County PUD #1,Washington,WECC,Approx. 300,"187,000","severe weather, wind",71.41666666666667,Washington,Severe Weather
+Storm with High Winds,2004,4/12/2004,Florida Power & Light,Florida,FRCC,250,"179,000","severe weather, wind",4.75,Florida,Severe Weather
+Thunderstorms,2004,4/10/2004,CenterPoint Energy,Texas,ERCOT,Approx. 100,"85,000 at peak","severe weather, thunderstorm",20.0,Texas,Severe Weather
+Faulty Switch,2004,3/17/2004,El Paso Electric Company,Texas,WECC,Approx. 300,"Approx. 100,000",equipment failure,0.65,Texas,Equipment Failures
+Inadequate Resources,2004,3/8/2004,Southern California Edison,California,WECC,300,"Approx. 70,000",fuel supply emergency,0.55,California,Transmission and Distribution Issues
+High Winds - Severe Storm,2004,3/4/2004,Electric Reliability Council of Texas,Texas,ERCOT,Less than 300,"63,000","severe weather, wind",297.75,Texas,Severe Weather
+Winter Storm,2004,2/25/2004,Pacific Gas and Electric  Company,California,WECC,240,"505,000","severe weather, winter storm",21.983333333333334,California,Severe Weather
+Lightning struck Intertie Breaker,2004,2/17/2004,Crockett Cogeneration,California,WECC,220,PG&E,"severe weather, thunderstorm",9.533333333333333,California,Severe Weather
+Ice Storm,2004,2/5/2004,Allegheny Power,Pennsylvania,MAAC,60,"87,456","severe weather, winter storm",96.0,Pennsylvania,Severe Weather
+Ice Storm,2004,2/5/2004,Allegheny Power,Pennsylvania,MAAC,60,"87,456","severe weather, winter storm",96.0,Pennsylvania,Severe Weather
+Ice Storm,2004,1/28/2004,Baltimore Gas & Electric Company,Maryland,MAAC,Approx. 300,"Approx. 70,000","severe weather, winter storm",15.85,Maryland,Severe Weather
+Ice Storm,2004,1/26/2004,Southern Company,Georgia,SERC,Less than 150,"30,689","severe weather, winter storm",30.0,Georgia,Severe Weather
+Winter Storm,2004,1/1/2004,Pacific Gas and Electric Company,California,WECC,170,"263,000","severe weather, winter storm",32.5,California,Severe Weather
+Winter Storm,2003,12/28/2003,Pacific Gas and Electric,California,WECC,160,"241,000","severe weather, winter storm",86.5,California,Severe Weather
+Earthquake,2003,12/22/2003,Pacific Gas and Electric,California,WECC,220,"109,750",earthquake,0.016666666666666666,California,Other
+Cable Failure,2003,12/20/2003,Pacific Gas and Electric,California,WECC,150,"120,000",equipment failure,31.9,California,Equipment Failures
+Transmission Equipment,2003,12/5/2003,Upper Peninsula Power Company,Wisconsin,MAIN,14,2,transmission interruption,13.0,Wisconsin,Transmission and Distribution Issues
+Transmission Equipment,2003,12/5/2003,Upper Peninsula Power Company,Michigan,MAIN,14,2,transmission interruption,13.0,Michigan,Transmission and Distribution Issues
+Transmission Equipment,2003,12/5/2003,City of Homestead,Florida,FRCC,27,"16,500",transmission interruption,1.6,Florida,Transmission and Distribution Issues
+Fault on 138 KV line,2003,12/4/2003,Wisconsin Electric Power Company,Michigan,MAIN,500,"36,000",equipment failure,82.25,Michigan,Equipment Failures
+Fault on 138 KV line,2003,12/4/2003,Wisconsin Electric Power Company,Wisconsin,MAIN,500,"36,000",equipment failure,82.25,Wisconsin,Equipment Failures
+Fault on 138 KV line,2003,12/4/2003,"American Transmission Company, LLC",Wisconsin,MAIN,650,6 (utilities),equipment failure,57.93333333333334,Wisconsin,Equipment Failures
+Fault on 138 KV line,2003,12/4/2003,"American Transmission Company, LLC",Michigan,MAIN,650,6 (utilities),equipment failure,57.93333333333334,Michigan,Equipment Failures
+Wild Fire _ Transmission Equipment,2003,12/1/2003,REMVEC,Massachusetts,NPCC,630,"300,000",,1.9166666666666667,Massachusetts,Severe Weather
+High Winds,2003,11/13/2003,Baltimore Gas and Electric,Maryland,MAAC,375,"110,000","severe weather, wind",82.0,Maryland,Severe Weather
+Wind Storm,2003,11/13/2003,Dominion-Virginia Power/ North Carolina Power,Virginia,SERC,300,"67,000","severe weather, wind",2.183333333333333,Virginia,Severe Weather
+High Winds,2003,11/12/2003,Com Ed,Illinois,MAIN,Est. 371.1,"51,000","severe weather, wind",2.0,Illinois,Severe Weather
+Wind Storm,2003,11/12/2003,Consumers Energy,Michigan,ECAR,75-90,"245,000","severe weather, wind",97.0,Michigan,Severe Weather
+Storm with High Winds,2003,11/12/2003,DTE Energy,Michigan,ECAR,Est. 75,"160,000","severe weather, wind",95.0,Michigan,Severe Weather
+Wild Fire,2003,10/26/2003,San Diego Gas and Electric Company,California,WECC,,"108,000 (Dist. And Trans. Combined)",wild fire,561.1666666666666,California,Wild Fire
+Hurricane Isabel,2003,9/18/2003,Potomac Electric Power Company (Pepco),Maryland,MAAC,,"Over 530,000 peak on 9/19/03","severe weather, hurricane/tropical storm",241.66666666666666,Maryland,Severe Weather
+Hurricane Isabel,2003,9/18/2003,Allegheny Power,Virginia,MAAC,"3,085","237,366","severe weather, hurricane/tropical storm",142.0,Virginia,Severe Weather
+Hurricane Isabel,2003,9/18/2003,Allegheny Power,Pennsylvania,MAAC,"3,085","237,366","severe weather, hurricane/tropical storm",142.0,Pennsylvania,Severe Weather
+Hurricane Isabel,2003,9/18/2003,Baltimore Gas and Electric,Maryland,MAAC,"2,000","650,000","severe weather, hurricane/tropical storm",202.83333333333334,Maryland,Severe Weather
+Hurricane Isabel,2003,9/18/2003,Dominion-Virginia Power/ North Carolina Power,Virginia,SERC,"6,512",1.8 million,"severe weather, hurricane/tropical storm",278.3666666666667,Virginia,Severe Weather
+Transmission  Equipment,2003,9/7/2003,"American Transmission Company, LLC",Michigan,MAIN,310,4 (industrial),transmission interruption,12.683333333333334,Michigan,Transmission and Distribution Issues
+Severe Thunderstorms,2003,8/26/2003,Potomac Electric Power Company,Maryland,MAAC,"1,500","153,000","severe weather, thunderstorm",121.63333333333334,Maryland,Severe Weather
+Unknown *,2003,8/14/2003,First Energy Corporation,Ohio,ECAR,"7,000","1,203,000",unknown,52.28333333333333,Ohio,Unknown
+Unknown *,2003,8/14/2003,Detroit Edison,Michigan,ECAR,"11,000","2,100,000",unknown,38.85,Michigan,Unknown
+Unknown *,2003,8/14/2003,"PJM Interconnection, LLC",Pennsylvania,MAAC,"4,100 MW (Northern NJ) and 400 MW, (Erie,  PA) area",,unknown,13.833333333333334,Pennsylvania,Unknown
+Unknown *,2003,8/14/2003,Midwest Independent System Operator,Michigan,ECAR,"Approx. 18,500 MW, in MISO area: First Energy 7,500, Detroit Edison 9,200, Consumers Energy 1,800",,unknown,74.0,Michigan,Unknown
+Unknown *,2003,8/14/2003,Midwest Independent System Operator,Ohio,ECAR,"Approx. 18,500 MW, in MISO area: First Energy 7,500, Detroit Edison 9,200, Consumers Energy 1,800",,unknown,74.0,Ohio,Unknown
+Unknown *,2003,8/14/2003,ISO New England,Connecticut,NPCC,"2,500",,unknown,35.583333333333336,Connecticut,Unknown
+Unknown *,2003,8/14/2003,ISO New England,Massachusetts,NPCC,"2,500",,unknown,35.583333333333336,Massachusetts,Unknown
+Unknown *,2003,8/14/2003,ISO New England,Vermont,NPCC,"2,500",,unknown,35.583333333333336,Vermont,Unknown
+Unknown *,2003,8/14/2003,Niagara Mohawk,Pennsylvania,NPCC,,"840,137",unknown,7.633333333333334,Pennsylvania,Unknown
+Unknown *,2003,8/14/2003,Consumers Power,Michigan,ECAR,"1,007","101,000",unknown,44.9,Michigan,Unknown
+Unknown *,2003,8/14/2003,Consumers Power,Michigan,ECAR,"1,007","101,000",unknown,44.9,Michigan,Unknown
+Breaker Closed,2003,7/28/2003,Arizona Public Service,Arizona,WECC,440,"90,000",equipment failure,1.6666666666666667,Arizona,Electrical System Issues
+Severe Storms,2003,7/21/2003,PPL Electric Utilities,Pennsylvania,MAAC,500-1000,"185,000","severe weather, storm",60.3,Pennsylvania,Severe Weather
+Hurricane Claudette,2003,7/15/2003,American Electric Power-Texas Central Company,Texas,ERCOT,230-300,"108,000","severe weather, hurricane/tropical storm",146.1,Texas,Severe Weather
+Severe Thunderstorms,2003,7/9/2003,Dominion Virginia/North Carolina Power,Virginia,SERC,120,"80,000","severe weather, thunderstorm",1.9166666666666667,Virginia,Severe Weather
+Severe Thunderstorms,2003,7/8/2003,American Electric Power,Ohio,ECAR,"11,000","134,500","severe weather, thunderstorm",84.0,Ohio,Severe Weather
+Severe Thunderstorms,2003,7/7/2003,Com Ed,Illinois,MAIN,,"72,000","severe weather, thunderstorm",6.0,Illinois,Severe Weather
+Severe Storms,2003,7/5/2003,Com Ed,Illinois,MAIN,80,"130,000","severe weather, storm",4.0,Illinois,Severe Weather
+Severe Storms,2003,7/4/2003,Cinergy,Indiana,ECAR,200,"55,142","severe weather, storm",45.31666666666666,Indiana,Severe Weather
+Severe Thunderstorms,2003,7/4/2003,Consumers Energy,Michigan,ECAR,75-90,"131,000","severe weather, thunderstorm",55.0,Michigan,Severe Weather
+Severe Thunderstorms,2003,7/4/2003,We Energies,Wisconsin,MAIN,150,"52,000","severe weather, thunderstorm",4.0,Wisconsin,Severe Weather
+Unit Tripped,2003,7/2/2003,Pacific Gas and Electric Company,California,WECC,200,1,generator trip,2.0833333333333335,California,Equipment Failures
+Breaker Failure,2003,7/1/2003,Arizona Public Service Company,Arizona,WECC,"1,000","47,000",equipment failure,0.5833333333333334,Arizona,Electrical System Issues
+Public Appeal,2003,6/15/2003,Idaho Power Company Control Area,Idaho,WECC,0,0,public appeal,37.8,Idaho,Public Appeal
+Interruption of Firm Power,2003,5/15/2003,Center Point Energy,Texas,ERCOT,476,"192,000",load shedding,0.6166666666666667,Texas,Equipment Failures
+Flood,2003,5/15/2003,We Energies,Michigan,MAIN,240,2,"severe weather, flooding",768.0,Michigan,Severe Weather
+Severe Thunderstorms,2003,5/2/2003,Southern Company,Alabama,SERC,130,"102,842 (Georgia); 12,897 (Alabama)","severe weather, thunderstorm",12.0,Alabama,Severe Weather
+Vandalism,2003,4/28/2003,American Transmission Company,Wisconsin,MAIN,0,0,vandalism,20.316666666666666,Wisconsin,Physical Attack
+Ice Storm,2003,4/3/2003,Consumers Energy,Michigan,ECAR,300,"425,000","severe weather, winter storm",70.0,Michigan,Severe Weather
+Cyber Threat From Internet,2003,1/25/2003,Cinergy Corporation,Ohio,ECAR,,,"vandalism, cyber",12.0,Ohio,Cyber Events
+Winter Storm,2002,12/25/2002,Metropolitan Edison Co./First Energy,Pennsylvania,MAAC,,"95,630","severe weather, winter storm",46.5,Pennsylvania,Severe Weather
+Winter Storm,2002,12/25/2002,PPL Corporation,Pennsylvania,MAAC,250,"106,000","severe weather, winter storm",12.0,Pennsylvania,Severe Weather
+Winter Storm,2002,12/19/2002,Pacific Gas & Electric,California,WECC,56,"385,000","severe weather, winter storm",47.0,California,Severe Weather
+Winter Storm,2002,12/14/2002,Pacific Gas & Electric,California,WECC,180,1.5 million,"severe weather, winter storm",113.0,California,Severe Weather
+Winter Storm,2002,12/11/2002,Dominion-Virginia Power/North Carolina Power,Virginia,SERC,63,"130,000","severe weather, winter storm",44.85,Virginia,Severe Weather
+Ice Storm,2002,12/3/2002,Entergy Corporation,Arkansas,SPP,,"43,000","severe weather, winter storm",136.0,Arkansas,Severe Weather
+Ice Storm,2002,11/17/2002,Northeast Utilities,Connecticut,NPCC,,"224,912","severe weather, winter storm",98.0,Connecticut,Severe Weather
+Winter Storm,2002,11/6/2002,Pacific Gas & Electric Co.,California,WECC,270,"939,000","severe weather, winter storm",86.0,California,Severe Weather
+Hurricane Lily,2002,10/3/2002,Entergy Corporation,Louisiana,SPP,,"242,910","severe weather, hurricane/tropical storm",,Louisiana,Severe Weather
+Interruption of Firm Power,2002,8/25/2002,Pacific Gas & Elec.,California,WECC,120,1 PG&E,load shedding,5.6,California,Equipment Failures
+Interruption of Firm Power,2002,8/9/2002,Lake Worth Utils,Florida,SERC,51,"25,000",load shedding,3.8333333333333335,Florida,Equipment Failures
+Vandalism/Insulators,2002,4/8/2002,Arizona Public Service,Arizona,WECC,0,0,vandalism,,Arizona,Physical Attack
+Severe Weather,2002,3/9/2002,Consumers Energy Co.,Michigan,ECAR,190,"190,000",severe weather,48.0,Michigan,Severe Weather
+Interruption of Firm Load,2002,2/27/2002,San Diego Gas & Electric,California,WECC,300,"255,000",load shedding,0.7833333333333333,California,Load Shedding
+Ice Storm,2002,1/30/2002,Oklahoma Gas & Electric,Oklahoma,SPP,500,"1,881,134","severe weather, winter storm",198.0,Oklahoma,Severe Weather
+Ice Storm,2002,1/30/2002,Missouri Public Service,Missouri,SPP,210,"95,000","severe weather, winter storm",257.0,Missouri,Severe Weather
+Ice Storm,2002,1/29/2002,Kansas City Power & Light,Kansas,SPP,500-600,"270,000","severe weather, winter storm",,Kansas,Severe Weather
+Flooding,2001,6/8/2001,Reliant Energy HL&P Service Area,Texas,ERCOT,,"(residential) 36,073","severe weather, flooding",169.0,Texas,Severe Weather
+Firm Load Interruption,2001,6/6/2001,Central Power and Light Company,Texas,ERCOT,350,"24,506",load shedding,2.6333333333333333,Texas,Load Shedding
+Interruption of Firm Power (Public Appeal),2001,5/8/2001,CA Independent System Operator,California,WECC,400,Undetermined,"load shedding, public appeal",1.8333333333333333,California,Public Appeal
+Interruption of Power,2001,5/8/2001,Southern California Edison,California,WECC,"225, 159","70,848; 56718",unknown,13.8,California,Equipment Failures
+Interruption of Firm Power (Public Appeal),2001,5/7/2001,CA Independent System Operator,California,WECC,300,Undetermined,"load shedding, public appeal",1.25,California,Public Appeal
+Interruption of Firm Power,2001,3/20/2001,CA Independent System Operator,California,WECC,300-500,Undetermined,load shedding,4.716666666666667,California,Equipment Failures
+Interruption of Firm Power,2001,3/20/2001,Southern California Edison,California,WECC,Various,"25,000 per hour",load shedding,2.1666666666666665,California,Equipment Failures
+Interruption of Firm Power & Public Appeal,2001,3/19/2001,CA Independent System Operator,California,WECC,"400-1,000",Undetermined,"load shedding, public appeal",9.233333333333333,California,Public Appeal
+Interruption of Firm Power,2001,3/19/2001,Southern California Edison,California,WECC,Various,"430,984",load shedding,,California,Equipment Failures
+Interruption of Firm Power,2001,3/14/2001,Reliant Energy,Texas,ERCOT,,"114,000",load shedding,24.0,Texas,Equipment Failures
+Interruption of Firm Power,2001,3/6/2001,New England,Massachusetts,NPCC,340,"130,000",load shedding,,Massachusetts,Equipment Failures
+Firm load interruption,2001,1/20/2001,CA Independent System Operator,California,WECC,300,,load shedding,29.75,California,Load Shedding
+Firm load interruption,2001,1/17/2001,CA Independent System Operator,California,WECC,500,,load shedding,34.25,California,Load Shedding
+Tornado,2000,12/16/2000,Alabama Power Co.,Alabama,SERC,,"60,000","severe weather, tornado",54.4,Alabama,Severe Weather
+Tripped line,2000,8/28/2000,Southern Indiana Gas & Elec,Indiana,ECAR,15,"124,000",equipment failure,,Indiana,Equipment Failures
+Circuit failure/fire,2000,8/10/2000,Commonwealth Edison Co.,Illinois,MAIN,,"11,000","wild fire, equipment failure",,Illinois,Fire
+Severe Weather,2000,8/10/2000,Alabama Power Co,Alabama,SERC,,"75,000",severe weather,20.5,Alabama,Severe Weather
+Severe Weather,2000,8/6/2000,Commonwealth Edison,Illinois,MAIN,,"239,567",severe weather,20.0,Illinois,Severe Weather
+High winds and thunder,2000,7/20/2000,Alabama Power Co,Alabama,SERC,,"160,000","severe weather, thunderstorm",,Alabama,Severe Weather
+B-phase to ground fault,2000,7/3/2000,Alaska Elec Light & Power,Alaska,ASCC,35,"14,273",equipment failure,,Alaska,Equipment Failures
+Line Outages/Switch Fire,2000,6/28/2000,Virginia Power/North Carolina Power,Virginia,SERC,175,"30,500","wild fire, transmission interruption",1.1333333333333333,Virginia,Fire
+Relay Trouble,2000,6/14/2000,American Electric Power,Ohio,ECAR,294,,equipment failure,,Ohio,Equipment Failures
+Generating Resources Loss,2000,6/14/2000,Calif. Indep. System Operator,California,WECC,130,"32,000",fuel supply emergency,,California,Equipment Failures
+Tripped Lines Fire,2000,6/14/2000,Tucson Electric Power,Arizona,WECC,138,"40,911","wild fire, transmission interruption",1.1,Arizona,Fire
+Vandalism,2000,5/31/2000,Arizona Public Serv Co.,Arizona,WECC,,,vandalism,,Arizona,Physical Attack
+Voltage Elec Usage,2000,5/24/2000,Entergy,Texas,SPP,,Approx. 2 million,voltage reduction,35.75,Texas,Equipment Failures
+Severe Weather High Wind,2000,5/18/2000,Commonwealth Edison,Illinois,MAIN,,"101,830","severe weather, wind",,Illinois,Severe Weather
+Energy Conservation,2000,5/8/2000,Connectiv Power Delivery,Delaware,MAAC,,,load shedding,,Delaware,Public Appeal
+Relay Malfunction & Fire,2000,4/1/2000,Virginia Power & Electrical Co.,Virginia,SERC,143,"37,000","equipment failure, wild fire",,Virginia,Equipment Failures
+Transformer Faulted,2000,4/1/2000,City of Lake Worth Utils,Texas,FRCC,46,"40,000-45,000",equipment failure,,Texas,Equipment Failures
+Transmission Line Loss,2000,3/18/2000,El Paso Elec. Co.,Texas,MAIN,400,"100,000",transmission interruption,1.0,Texas,Transmission and Distribution Issues
+Vandalism,2000,3/14/2000,Alliant Energy,Maine,MAIN,,,vandalism,,Maine,Physical Attack
